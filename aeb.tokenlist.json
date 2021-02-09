@@ -8,11 +8,19 @@
         "bridge"
     ],
     "version": {
-        "major": 0,
-        "minor": 2,
+        "major": 1,
+        "minor": 0,
         "patch": 0
     },
     "tokens": [
+        {
+            "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+            "chainId": 43114,
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round_inverted.png"
+        },
         {
             "address": "0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23",
             "chainId": 43114,
