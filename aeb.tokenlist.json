@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
@@ -105,7 +105,7 @@
             "address": "0xa704fCe7b309Ec09DF16e2F5Ab8cAf6Fe8A4BAA9",
             "chainId": 43114,
             "decimals": 18,
-            "name": "AgriChain Utility Token",
+            "name": "AgriChain Utility To",
             "symbol": "AGRI",
             "tags": []
         },
@@ -329,7 +329,7 @@
             "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
             "chainId": 43114,
             "decimals": 18,
-            "name": "BarnBridge Governance Token",
+            "name": "BarnBridge Governanc",
             "symbol": "BOND",
             "tags": []
         },
@@ -345,7 +345,7 @@
             "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Basic Attention Token",
+            "name": "Basic Attention Toke",
             "symbol": "BAT",
             "tags": []
         },
@@ -417,7 +417,7 @@
             "address": "0xAcfa209Fb73bF3Dd5bBfb1101B9Bc999C49062a5",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Blockchain Certified Data Token",
+            "name": "Blockchain Certified",
             "symbol": "BCDT",
             "tags": []
         },
@@ -521,7 +521,7 @@
             "address": "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Concentrated Voting Power",
+            "name": "Concentrated Voting",
             "symbol": "CVP",
             "tags": []
         },
@@ -545,7 +545,7 @@
             "address": "0x4688a8b1F292FDaB17E9a90c8Bc379dC1DBd8713",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Cover Protocol Governance Token",
+            "name": "Cover Protocol Gover",
             "symbol": "COVER",
             "tags": []
         },
@@ -649,7 +649,7 @@
             "address": "0xc719d010B63E5bbF2C0551872CD5316ED26AcD83",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Decentralized Insurance Protocol",
+            "name": "Decentralized Insura",
             "symbol": "DIP",
             "tags": []
         },
@@ -873,7 +873,7 @@
             "address": "0x178c820f862B14f316509ec36b13123DA19A6054",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Energy Web Token Bridged",
+            "name": "Energy Web Token Bri",
             "symbol": "EWTB",
             "tags": []
         },
@@ -897,7 +897,7 @@
             "address": "0x9f49ed43C90A540d1cF12f6170aCE8d0B88a14E6",
             "chainId": 43114,
             "decimals": 18,
-            "name": "ETH RSI 60/40 Yield II",
+            "name": "ETH RSI 60/40 Yield",
             "symbol": "ETHRSIAPY",
             "tags": []
         },
@@ -1113,7 +1113,7 @@
             "address": "0x83cee9e086A77e492eE0bB93C2B0437aD6fdECCc",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Goldmint MNT Prelaunch Token",
+            "name": "Goldmint MNT Prelaun",
             "symbol": "MNTP",
             "tags": []
         },
@@ -1313,7 +1313,7 @@
             "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Kyber Network Crystal",
+            "name": "Kyber Network Crysta",
             "symbol": "KNC",
             "tags": []
         },
@@ -1337,7 +1337,7 @@
             "address": "0x4de2573e27E648607B50e1Cfff921A33E4A34405",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Lendroid Support Token",
+            "name": "Lendroid Support Tok",
             "symbol": "LST",
             "tags": []
         },
@@ -1361,7 +1361,7 @@
             "address": "0x0417912b3a7AF768051765040A55BB0925D4DDcF",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Liquidity Dividends Protocol",
+            "name": "Liquidity Dividends",
             "symbol": "LID",
             "tags": []
         },
@@ -1489,7 +1489,7 @@
             "address": "0x814e0908b12A99FeCf5BC101bB5d0b8B5cDf7d26",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Measurable Data Token",
+            "name": "Measurable Data Toke",
             "symbol": "MDT",
             "tags": []
         },
@@ -1529,7 +1529,7 @@
             "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Meter Governance mapped by Meter.io",
+            "name": "Meter Governance map",
             "symbol": "eMTRG",
             "tags": []
         },
@@ -1553,7 +1553,7 @@
             "address": "0x80c8C3dCfB854f9542567c8Dac3f44D709eBc1de",
             "chainId": 43114,
             "decimals": 18,
-            "name": "MilkyWay Token by SpaceSwap v2",
+            "name": "MilkyWay Token by Sp",
             "symbol": "MILK2",
             "tags": []
         },
@@ -1865,7 +1865,7 @@
             "address": "0x6758B7d441a9739b98552B373703d8d3d14f9e62",
             "chainId": 43114,
             "decimals": 18,
-            "name": "POA ERC20 on Foundation",
+            "name": "POA ERC20 on Foundat",
             "symbol": "POA20",
             "tags": []
         },
@@ -1905,7 +1905,7 @@
             "address": "0x26607aC599266b21d13c7aCF7942c7701a8b699c",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Power Index Pool Token",
+            "name": "Power Index Pool Tok",
             "symbol": "PIPT",
             "tags": []
         },
@@ -1913,7 +1913,7 @@
             "address": "0xC57d533c50bC22247d49a368880fb49a1caA39F7",
             "chainId": 43114,
             "decimals": 18,
-            "name": "PowerTrade Fuel Token",
+            "name": "PowerTrade Fuel Toke",
             "symbol": "PTF",
             "tags": []
         },
@@ -1953,7 +1953,7 @@
             "address": "0x3166C570935a7D8554c8f4eA792ff965D2EFe1f2",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Q DAO Governance token v1.0",
+            "name": "Q DAO Governance tok",
             "symbol": "QDAO",
             "tags": []
         },
@@ -2017,7 +2017,7 @@
             "address": "0xD291E7a03283640FDc51b121aC401383A46cC623",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Rari Governance Token",
+            "name": "Rari Governance Toke",
             "symbol": "RGT",
             "tags": []
         },
@@ -2097,7 +2097,7 @@
             "address": "0xF970b8E36e23F7fC3FD752EeA86f8Be8D83375A6",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Ripio Credit Network Token",
+            "name": "Ripio Credit Network",
             "symbol": "RCN",
             "tags": []
         },
@@ -2105,7 +2105,7 @@
             "address": "0x08AD83D779BDf2BBE1ad9cc0f78aa0D24AB97802",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Robonomics Web Services :: V1",
+            "name": "Robonomics Web Servi",
             "symbol": "RWS",
             "tags": []
         },
@@ -2161,7 +2161,7 @@
             "address": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098",
             "chainId": 43114,
             "decimals": 18,
-            "name": "SANtiment network token",
+            "name": "SANtiment network to",
             "symbol": "SAN",
             "tags": []
         },
@@ -2177,7 +2177,7 @@
             "address": "0x6006FC2a849fEdABa8330ce36F5133DE01F96189",
             "chainId": 43114,
             "decimals": 18,
-            "name": "SHAKE token by SpaceSwap v2",
+            "name": "SHAKE token by Space",
             "symbol": "SHAKE",
             "tags": []
         },
@@ -2417,7 +2417,7 @@
             "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Synthetix Network Token",
+            "name": "Synthetix Network To",
             "symbol": "SNX",
             "tags": []
         },
@@ -2577,7 +2577,7 @@
             "address": "0x679131F591B4f369acB8cd8c51E68596806c3916",
             "chainId": 43114,
             "decimals": 18,
-            "name": "Trustlines Network Token",
+            "name": "Trustlines Network T",
             "symbol": "TLN",
             "tags": []
         },
@@ -2649,7 +2649,7 @@
             "address": "0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
             "chainId": 43114,
             "decimals": 18,
-            "name": "UniLend Finance Token",
+            "name": "UniLend Finance Toke",
             "symbol": "UFT",
             "tags": []
         },
@@ -2697,7 +2697,7 @@
             "address": "0x4954Db6391F4feB5468b6B943D4935353596aEC9",
             "chainId": 43114,
             "decimals": 18,
-            "name": "USDQ Stablecoin by Q DAO v1.0",
+            "name": "USDQ Stablecoin by Q",
             "symbol": "USDQ",
             "tags": []
         },
@@ -2833,7 +2833,7 @@
             "address": "0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
             "chainId": 43114,
             "decimals": 18,
-            "name": "yearn Curve.fi yDAI/yUSDC/yUSDT/yTUSD",
+            "name": "yearn Curve.fi yDAI",
             "symbol": "yyDAI+yUSDC+yUSDT",
             "tags": []
         },
