@@ -42,7 +42,7 @@
             "address": "0xa99DFda608D5c9E7f091e857EfB256cEDA48D57e",
             "decimals": 18,
             "name": "ROPE",
-            "symbol": "$ROPE",
+            "symbol": "ROPE",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa99DFda608D5c9E7f091e857EfB256cEDA48D57e/logo.png"
         },
         {
@@ -194,7 +194,7 @@
             "address": "0x68Fa782392ff75689b6EE6E1559de2Afc634DCe8",
             "decimals": 18,
             "name": "AnRKey X",
-            "symbol": "$ANRX",
+            "symbol": "ANRX",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x68Fa782392ff75689b6EE6E1559de2Afc634DCe8/logo.png"
         },
         {
@@ -769,7 +769,7 @@
             "chainId": 43114,
             "address": "0x6CB5008Ca0CC13862CB47906F541672e8f51A6EF",
             "decimals": 18,
-            "name": "DMM: DAI",
+            "name": "DMM - DAI",
             "symbol": "mDAI",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x6CB5008Ca0CC13862CB47906F541672e8f51A6EF/logo.png"
         },
@@ -777,7 +777,7 @@
             "chainId": 43114,
             "address": "0x6FEC3a5e49748088C2b9b1Ef9A6a762ABdD07805",
             "decimals": 18,
-            "name": "DMM: ETH",
+            "name": "DMM - ETH",
             "symbol": "mETH",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x6FEC3a5e49748088C2b9b1Ef9A6a762ABdD07805/logo.png"
         },
@@ -785,7 +785,7 @@
             "chainId": 43114,
             "address": "0xe9925Cd8639c21DFcEA667D40dD2c8f54f420618",
             "decimals": 18,
-            "name": "DMM: Governance",
+            "name": "DMM - Governance",
             "symbol": "DMG",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xe9925Cd8639c21DFcEA667D40dD2c8f54f420618/logo.png"
         },
@@ -2105,7 +2105,7 @@
             "chainId": 43114,
             "address": "0x0Cb3Fe222303e1419EE73216e90322ae4635Fc5E",
             "decimals": 18,
-            "name": "Robonomics Web Services :: V1",
+            "name": "Robonomics Web Services - V1",
             "symbol": "RWS",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x0Cb3Fe222303e1419EE73216e90322ae4635Fc5E/logo.png"
         },
