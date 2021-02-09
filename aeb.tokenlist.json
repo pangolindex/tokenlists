@@ -9,10 +9,18 @@
     ],
     "version": {
         "major": 2,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
+        {
+            "chainId": 43114,
+            "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+            "decimals": 18,
+            "name": "Pangolin",
+            "symbol": "PNG",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+        },
         {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
@@ -2958,5 +2966,5 @@
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8DF92E9C0508aB0030d432DA9F2C65EB1Ee97620/logo.png"
         }
     ],
-    "timestamp": "2021-02-09T03:51:00+00:00"
+    "timestamp": "2021-02-09T17:49:00+00:00"
 }
