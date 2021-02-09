@@ -8,2963 +8,2955 @@
         "bridge"
     ],
     "version": {
-        "major": 1,
-        "minor": 3,
+        "major": 2,
+        "minor": 0,
         "patch": 0
     },
     "tokens": [
         {
-            "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "chainId": 43114,
+            "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+            "decimals": 18,
             "name": "Wrapped AVAX",
             "symbol": "WAVAX",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round_inverted.png"
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
         },
         {
-            "address": "0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23",
             "chainId": 43114,
+            "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
+            "decimals": 18,
+            "name": "Ether",
+            "symbol": "ETH",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x96CE026f10890f4836937e6FDe75f13252fdf414",
             "decimals": 18,
             "name": "Poolz Finance",
             "symbol": "POOLZ",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x96CE026f10890f4836937e6FDe75f13252fdf414/logo.png"
         },
         {
-            "address": "0x9D47894f8BECB68B9cF3428d256311Affe8B068B",
             "chainId": 43114,
+            "address": "0xa99DFda608D5c9E7f091e857EfB256cEDA48D57e",
             "decimals": 18,
             "name": "ROPE",
             "symbol": "$ROPE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa99DFda608D5c9E7f091e857EfB256cEDA48D57e/logo.png"
         },
         {
-            "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
             "chainId": 43114,
+            "address": "0xC8E94215b75F5B9c3b5fB041eC3A97B7D17a37Ff",
             "decimals": 18,
             "name": "0x Protocol Token",
             "symbol": "ZRX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC8E94215b75F5B9c3b5fB041eC3A97B7D17a37Ff/logo.png"
         },
         {
-            "address": "0x035dF12E0F3ac6671126525f1015E47D79dFEDDF",
             "chainId": 43114,
+            "address": "0xC309fd43f845A46AA2A4C75459b076543C6E9F4a",
             "decimals": 18,
             "name": "0xMonero",
             "symbol": "0xMR",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC309fd43f845A46AA2A4C75459b076543C6E9F4a/logo.png"
         },
         {
-            "address": "0x111111111117dC0aa78b770fA6A738034120C302",
             "chainId": 43114,
+            "address": "0xE54EB2C3009Fa411BF24fB017F9725b973CE36F0",
             "decimals": 18,
             "name": "1INCH Token",
             "symbol": "1INCH",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xE54EB2C3009Fa411BF24fB017F9725b973CE36F0/logo.png"
         },
         {
-            "address": "0x8888801aF4d980682e47f1A9036e589479e835C5",
             "chainId": 43114,
+            "address": "0xa477b670C46fe58cF48708D9519a5E8875a48062",
             "decimals": 18,
             "name": "88mph.app",
             "symbol": "MPH",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa477b670C46fe58cF48708D9519a5E8875a48062/logo.png"
         },
         {
-            "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
             "chainId": 43114,
+            "address": "0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9",
             "decimals": 18,
             "name": "Aave Token",
             "symbol": "AAVE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9/logo.png"
         },
         {
-            "address": "0x0E8d6b471e332F140e7d9dbB99E5E3822F728DA6",
             "chainId": 43114,
+            "address": "0x2C4Ac7ABe6D09F81a775DE153E5593c8C56884eb",
             "decimals": 18,
             "name": "ABYSS",
             "symbol": "ABYSS",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x2C4Ac7ABe6D09F81a775DE153E5593c8C56884eb/logo.png"
         },
         {
-            "address": "0x4B3a0c6d668B43F3f07904E124328659b90Bb4Ca",
             "chainId": 43114,
+            "address": "0x0A15ed1B1F1BE0b2024b4d22B4f19Ebb99A6fd11",
             "decimals": 18,
             "name": "AceD",
             "symbol": "AceD",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x0A15ed1B1F1BE0b2024b4d22B4f19Ebb99A6fd11/logo.png"
         },
         {
-            "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
             "chainId": 43114,
+            "address": "0xEdd6ce14626B228D90aF0fB126a432e4b2174844",
             "decimals": 18,
             "name": "AdEx Network",
             "symbol": "ADX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xEdd6ce14626B228D90aF0fB126a432e4b2174844/logo.png"
         },
         {
-            "address": "0xa704fCe7b309Ec09DF16e2F5Ab8cAf6Fe8A4BAA9",
             "chainId": 43114,
+            "address": "0xcc6421b76190b5e7D1029824F6C988456C798291",
             "decimals": 18,
-            "name": "AgriChain Utility To",
+            "name": "AgriChain Utility Token",
             "symbol": "AGRI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xcc6421b76190b5e7D1029824F6C988456C798291/logo.png"
         },
         {
-            "address": "0x37E8789bB9996CaC9156cD5F5Fd32599E6b91289",
             "chainId": 43114,
+            "address": "0x2e1Bc9fA6F579471e7e09084a054a858d792D981",
             "decimals": 18,
             "name": "AidCoin",
             "symbol": "AID",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x2e1Bc9fA6F579471e7e09084a054a858d792D981/logo.png"
         },
         {
-            "address": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
             "chainId": 43114,
+            "address": "0x086A23685F2A33BfdeDF4dEd738e9afDdfb854Ed",
             "decimals": 18,
             "name": "Akropolis",
             "symbol": "AKRO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x086A23685F2A33BfdeDF4dEd738e9afDdfb854Ed/logo.png"
         },
         {
-            "address": "0x94d863173EE77439E4292284fF13fAD54b3BA182",
             "chainId": 43114,
+            "address": "0x98E1cF8b9D1DEb2F0C9F2a0A59Ee2fB60a6F10C9",
             "decimals": 18,
             "name": "Akropolis Delphi",
             "symbol": "ADEL",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x98E1cF8b9D1DEb2F0C9F2a0A59Ee2fB60a6F10C9/logo.png"
         },
         {
-            "address": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
             "chainId": 43114,
+            "address": "0x969A3f4481583843dB706332E344412235c0892a",
             "decimals": 18,
             "name": "aleph.im v2",
             "symbol": "ALEPH",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x969A3f4481583843dB706332E344412235c0892a/logo.png"
         },
         {
-            "address": "0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0",
             "chainId": 43114,
+            "address": "0xC0c9b6714a482AAD7b11327cCf4d7a0545A828a5",
             "decimals": 18,
             "name": "AllianceBlock Token",
             "symbol": "ALBT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC0c9b6714a482AAD7b11327cCf4d7a0545A828a5/logo.png"
         },
         {
-            "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
             "chainId": 43114,
+            "address": "0x8Ea071D1903B27Ee57c82710B3a7cF660f285Bb8",
             "decimals": 18,
             "name": "AlphaToken",
             "symbol": "ALPHA",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8Ea071D1903B27Ee57c82710B3a7cF660f285Bb8/logo.png"
         },
         {
-            "address": "0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c",
             "chainId": 43114,
+            "address": "0xC95F62A06BA7Fb11389474EE1d4aA606A2A0D125",
             "decimals": 18,
             "name": "Amon",
             "symbol": "AMN",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC95F62A06BA7Fb11389474EE1d4aA606A2A0D125/logo.png"
         },
         {
-            "address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
             "chainId": 43114,
+            "address": "0x74A13926Df3e38a7BB7D12f566694f2E66Ba145E",
             "decimals": 18,
             "name": "Amp",
             "symbol": "AMP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x74A13926Df3e38a7BB7D12f566694f2E66Ba145E/logo.png"
         },
         {
-            "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
             "chainId": 43114,
+            "address": "0xd09Af6A3C12EC24CeD114A0829F5Bf73D40dC5A8",
             "decimals": 18,
             "name": "Ankr Network",
             "symbol": "ANKR",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xd09Af6A3C12EC24CeD114A0829F5Bf73D40dC5A8/logo.png"
         },
         {
-            "address": "0xCae72A7A0Fd9046cf6b165CA54c9e3a3872109E0",
             "chainId": 43114,
+            "address": "0x68Fa782392ff75689b6EE6E1559de2Afc634DCe8",
             "decimals": 18,
             "name": "AnRKey X",
             "symbol": "$ANRX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x68Fa782392ff75689b6EE6E1559de2Afc634DCe8/logo.png"
         },
         {
-            "address": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
             "chainId": 43114,
+            "address": "0xBf853B96F95Fae6883E9cBC813B4021FCcF1eED4",
             "decimals": 18,
             "name": "API3",
             "symbol": "API3",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xBf853B96F95Fae6883E9cBC813B4021FCcF1eED4/logo.png"
         },
         {
-            "address": "0x95a4492F028aa1fd432Ea71146b433E7B4446611",
             "chainId": 43114,
+            "address": "0x524CefBaD8aa1e7921d465A9f056fc52FF6a284F",
             "decimals": 18,
             "name": "APY Governance Token",
             "symbol": "APY",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x524CefBaD8aa1e7921d465A9f056fc52FF6a284F/logo.png"
         },
         {
-            "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
             "chainId": 43114,
+            "address": "0x6C67e7D38570d6c7FFFdbB930cF204D97C62C470",
             "decimals": 18,
             "name": "Aragon Network Token",
             "symbol": "ANT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x6C67e7D38570d6c7FFFdbB930cF204D97C62C470/logo.png"
         },
         {
-            "address": "0xeEEE2a622330E6d2036691e983DEe87330588603",
             "chainId": 43114,
+            "address": "0xaDCfCb796ab61Ebcd0676c6B6e13a270Fd55b402",
             "decimals": 18,
             "name": "Askobar Network",
             "symbol": "ASKO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xaDCfCb796ab61Ebcd0676c6B6e13a270Fd55b402/logo.png"
         },
         {
-            "address": "0xcbd55D4fFc43467142761A764763652b48b969ff",
             "chainId": 43114,
+            "address": "0xaDA58D37D13EF5B665C46e474ac4D1AEf12EBdB1",
             "decimals": 18,
             "name": "AstroTools.io",
             "symbol": "ASTRO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xaDA58D37D13EF5B665C46e474ac4D1AEf12EBdB1/logo.png"
         },
         {
-            "address": "0x821144518dfE9e7b44fCF4d0824e15e8390d4637",
             "chainId": 43114,
+            "address": "0x77619878ccDd644Dd5e67cA0f8F04Dfaae42D542",
             "decimals": 18,
             "name": "ATIS Token",
             "symbol": "ATIS",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x77619878ccDd644Dd5e67cA0f8F04Dfaae42D542/logo.png"
         },
         {
-            "address": "0xc12d099be31567add4e4e4d0D45691C3F58f5663",
             "chainId": 43114,
+            "address": "0xAeaDfDc09c284E848aeBA876FF086Ed06A95B4b2",
             "decimals": 18,
             "name": "Auctus Token",
             "symbol": "AUC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xAeaDfDc09c284E848aeBA876FF086Ed06A95B4b2/logo.png"
         },
         {
-            "address": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
             "chainId": 43114,
+            "address": "0x8e32F45c87b39F15529787A77cFa7bA48CFAC7f0",
             "decimals": 18,
             "name": "Audius",
             "symbol": "AUDIO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8e32F45c87b39F15529787A77cFa7bA48CFAC7f0/logo.png"
         },
         {
-            "address": "0x9dEbca6eA3af87Bf422Cea9ac955618ceb56EfB4",
             "chainId": 43114,
-            "decimals": 18,
-            "name": "Avalanche",
-            "symbol": "AVAX",
-            "tags": []
-        },
-        {
-            "address": "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA",
-            "chainId": 43114,
+            "address": "0x860d87C4EE3bf2F001a641e32FbeF8F0342Ba924",
             "decimals": 18,
             "name": "Axie Infinity Shard",
             "symbol": "AXS",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x860d87C4EE3bf2F001a641e32FbeF8F0342Ba924/logo.png"
         },
         {
-            "address": "0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a",
             "chainId": 43114,
+            "address": "0x17002A182B20F7a393808c5E013EC5fe770C9302",
             "decimals": 18,
             "name": "BAC",
             "symbol": "BAC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x17002A182B20F7a393808c5E013EC5fe770C9302/logo.png"
         },
         {
-            "address": "0xba100000625a3754423978a60c9317c58a424e3D",
             "chainId": 43114,
+            "address": "0xA2A035Dd93b0e963864FA14A240401d6CeAc5558",
             "decimals": 18,
             "name": "Balancer",
             "symbol": "BAL",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xA2A035Dd93b0e963864FA14A240401d6CeAc5558/logo.png"
         },
         {
-            "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
             "chainId": 43114,
+            "address": "0xeD44979561a797515767B0201121afC4b5eE2838",
             "decimals": 18,
             "name": "Bancor Network Token",
             "symbol": "BNT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xeD44979561a797515767B0201121afC4b5eE2838/logo.png"
         },
         {
-            "address": "0x309627af60F0926daa6041B8279484312f2bf060",
             "chainId": 43114,
+            "address": "0x764CC68cd46cB00644216682C3ee120b2f1EB5F6",
             "decimals": 18,
             "name": "Bancor USD Token",
             "symbol": "USDB",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x764CC68cd46cB00644216682C3ee120b2f1EB5F6/logo.png"
         },
         {
-            "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
             "chainId": 43114,
+            "address": "0x6Fd02c0789797e595751208a2446faF721B9f3C2",
             "decimals": 18,
             "name": "BandToken",
             "symbol": "BAND",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x6Fd02c0789797e595751208a2446faF721B9f3C2/logo.png"
         },
         {
-            "address": "0x6b785a0322126826d8226d77e173d75DAfb84d11",
             "chainId": 43114,
+            "address": "0xd02D849512780BF29Cf48D56900a4B025e478D3E",
             "decimals": 18,
             "name": "Bankroll Vault",
             "symbol": "VLT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xd02D849512780BF29Cf48D56900a4B025e478D3E/logo.png"
         },
         {
-            "address": "0x374CB8C27130E2c9E04F44303f3c8351B9De61C1",
             "chainId": 43114,
+            "address": "0x353Be78373b6b75B5A61d952fccCb95C1d3e0bc8",
             "decimals": 18,
             "name": "BaoToken",
             "symbol": "BAO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x353Be78373b6b75B5A61d952fccCb95C1d3e0bc8/logo.png"
         },
         {
-            "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
             "chainId": 43114,
+            "address": "0x59Cd8bb3E49930F313eD744585E4067bc45cF85d",
             "decimals": 18,
-            "name": "BarnBridge Governanc",
+            "name": "BarnBridge Governance Token",
             "symbol": "BOND",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x59Cd8bb3E49930F313eD744585E4067bc45cF85d/logo.png"
         },
         {
-            "address": "0xa7ED29B253D8B4E3109ce07c80fc570f81B63696",
             "chainId": 43114,
+            "address": "0x3f4409c13C3BB310317643C6ee15576b3d427Ddd",
             "decimals": 18,
             "name": "BAS",
             "symbol": "BAS",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3f4409c13C3BB310317643C6ee15576b3d427Ddd/logo.png"
         },
         {
-            "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
             "chainId": 43114,
+            "address": "0x6b329326E0F6b95B93b52229b213334278D6f277",
             "decimals": 18,
-            "name": "Basic Attention Toke",
+            "name": "Basic Attention Token",
             "symbol": "BAT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x6b329326E0F6b95B93b52229b213334278D6f277/logo.png"
         },
         {
-            "address": "0x03066dA434e5264ef0B32f787923f974A5726fDc",
             "chainId": 43114,
+            "address": "0xF7427e4A97f3c68fEbC6E6a90632c369524db9Ea",
             "decimals": 18,
             "name": "BCS",
             "symbol": "BCS",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xF7427e4A97f3c68fEbC6E6a90632c369524db9Ea/logo.png"
         },
         {
-            "address": "0x763186eB8d4856D536eD4478302971214FEbc6A9",
             "chainId": 43114,
+            "address": "0xa6c55D876E920e34203072891c720Ac19f425a2B",
             "decimals": 18,
             "name": "Better Betting",
             "symbol": "BETR",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa6c55D876E920e34203072891c720Ac19f425a2B/logo.png"
         },
         {
-            "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
             "chainId": 43114,
+            "address": "0xaEb044650278731Ef3DC244692AB9F64C78FfaEA",
             "decimals": 18,
             "name": "Binance USD",
             "symbol": "BUSD",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xaEb044650278731Ef3DC244692AB9F64C78FfaEA/logo.png"
         },
         {
-            "address": "0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0",
             "chainId": 43114,
+            "address": "0xC83F0172352692A4481dBf07Ddd9F0e3dC5c70D1",
             "decimals": 18,
             "name": "Bird.Money",
             "symbol": "BIRD",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC83F0172352692A4481dBf07Ddd9F0e3dC5c70D1/logo.png"
         },
         {
-            "address": "0x1234567461d3f8Db7496581774Bd869C83D51c93",
             "chainId": 43114,
+            "address": "0x024fC8Fe444CFf7682499c08F5bb14241E082d49",
             "decimals": 18,
             "name": "BitClave",
             "symbol": "CAT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x024fC8Fe444CFf7682499c08F5bb14241E082d49/logo.png"
         },
         {
-            "address": "0x05079687D35b93538cbd59fe5596380cae9054A9",
             "chainId": 43114,
+            "address": "0xc5bac6dc06d1FC9F5eD7b0a04D08747b4c938B6d",
             "decimals": 18,
             "name": "BitSong",
             "symbol": "BTSG",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xc5bac6dc06d1FC9F5eD7b0a04D08747b4c938B6d/logo.png"
         },
         {
-            "address": "0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40",
             "chainId": 43114,
+            "address": "0x1F5AE9F37A18Aa6797cdb58838F2E05160082Ae7",
             "decimals": 18,
             "name": "BlitzPredict",
             "symbol": "XBP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1F5AE9F37A18Aa6797cdb58838F2E05160082Ae7/logo.png"
         },
         {
-            "address": "0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d",
             "chainId": 43114,
+            "address": "0xEEE72b81fc4cf5A4bf9dC10c1d12F73C440ff7e9",
             "decimals": 18,
             "name": "Blocery Token",
             "symbol": "BLY",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xEEE72b81fc4cf5A4bf9dC10c1d12F73C440ff7e9/logo.png"
         },
         {
-            "address": "0xAcfa209Fb73bF3Dd5bBfb1101B9Bc999C49062a5",
             "chainId": 43114,
+            "address": "0x57D4A335260af430F5e0754D99d20Da2f1528BdF",
             "decimals": 18,
-            "name": "Blockchain Certified",
+            "name": "Blockchain Certified Data Token",
             "symbol": "BCDT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x57D4A335260af430F5e0754D99d20Da2f1528BdF/logo.png"
         },
         {
-            "address": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
             "chainId": 43114,
+            "address": "0xFE017733FF7E4D2AE17C98B2774fB4d5E3EA46DD",
             "decimals": 18,
             "name": "BLOCKv Token",
             "symbol": "VEE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xFE017733FF7E4D2AE17C98B2774fB4d5E3EA46DD/logo.png"
         },
         {
-            "address": "0x5732046A883704404F284Ce41FfADd5b007FD668",
             "chainId": 43114,
+            "address": "0x6572450E88918154B6f059aa7fCAbA37f5ddc490",
             "decimals": 18,
             "name": "Bluzelle Token",
             "symbol": "BLZ",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x6572450E88918154B6f059aa7fCAbA37f5ddc490/logo.png"
         },
         {
-            "address": "0xD2dDa223b2617cB616c1580db421e4cFAe6a8a85",
             "chainId": 43114,
+            "address": "0xD61B293AEFb71f9B83670133d1FAad8487567a53",
             "decimals": 18,
             "name": "Bondly Token",
             "symbol": "BONDLY",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xD61B293AEFb71f9B83670133d1FAad8487567a53/logo.png"
         },
         {
-            "address": "0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78",
             "chainId": 43114,
+            "address": "0x7Ffc73532E29Ac0845E494ec021F1A0791EBd4A7",
             "decimals": 18,
             "name": "Boosted Finance",
             "symbol": "BOOST",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x7Ffc73532E29Ac0845E494ec021F1A0791EBd4A7/logo.png"
         },
         {
-            "address": "0x5bEaBAEBB3146685Dd74176f68a0721F91297D37",
             "chainId": 43114,
+            "address": "0x4AcEA0eB348a6DB49cb3F8A1D62625342D5f8751",
             "decimals": 18,
             "name": "Bounce Token",
             "symbol": "BOT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4AcEA0eB348a6DB49cb3F8A1D62625342D5f8751/logo.png"
         },
         {
-            "address": "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f",
             "chainId": 43114,
+            "address": "0x211960f8260DB1B0171c33931a2aeFd9562592B0",
             "decimals": 18,
             "name": "BTU Protocol",
             "symbol": "BTU",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x211960f8260DB1B0171c33931a2aeFd9562592B0/logo.png"
         },
         {
-            "address": "0x43044f861ec040DB59A7e324c40507adDb673142",
             "chainId": 43114,
+            "address": "0xb2Fb27f45189F3c621545e5E3aAe668A9B1BDf1d",
             "decimals": 18,
             "name": "Cap",
             "symbol": "CAP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xb2Fb27f45189F3c621545e5E3aAe668A9B1BDf1d/logo.png"
         },
         {
-            "address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
             "chainId": 43114,
+            "address": "0x71C677beD0DF55AF6d6b19114Dab10E1dE45d9F7",
             "decimals": 18,
             "name": "Cartesi Token",
             "symbol": "CTSI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x71C677beD0DF55AF6d6b19114Dab10E1dE45d9F7/logo.png"
         },
         {
-            "address": "0xCf8f9555D55CE45a3A33a81D6eF99a2a2E71Dee2",
             "chainId": 43114,
+            "address": "0xeeD4DcDFaE91D39d2b851338433F0013AF5D1406",
             "decimals": 18,
             "name": "CBI Index 7",
             "symbol": "CBIX7",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xeeD4DcDFaE91D39d2b851338433F0013AF5D1406/logo.png"
         },
         {
-            "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
             "chainId": 43114,
+            "address": "0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651",
             "decimals": 18,
             "name": "ChainLink Token",
             "symbol": "LINK",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png"
         },
         {
-            "address": "0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
             "chainId": 43114,
+            "address": "0xEFb603A7844f11D17aDA15B63e3A876AB443372C",
             "decimals": 18,
             "name": "COL",
             "symbol": "COL",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xEFb603A7844f11D17aDA15B63e3A876AB443372C/logo.png"
         },
         {
-            "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
             "chainId": 43114,
+            "address": "0x53CEedB4f6f277edfDDEdB91373B044FE6AB5958",
             "decimals": 18,
             "name": "Compound",
             "symbol": "COMP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x53CEedB4f6f277edfDDEdB91373B044FE6AB5958/logo.png"
         },
         {
-            "address": "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1",
             "chainId": 43114,
+            "address": "0xDF9A6628235C90da0a475519D85C9CFFa2a11D4C",
             "decimals": 18,
-            "name": "Concentrated Voting",
+            "name": "Concentrated Voting Power",
             "symbol": "CVP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xDF9A6628235C90da0a475519D85C9CFFa2a11D4C/logo.png"
         },
         {
-            "address": "0x5c872500c00565505F3624AB435c222E558E9ff8",
             "chainId": 43114,
+            "address": "0xa8cE5107A2770959edB27529E56E84e11eF55a58",
             "decimals": 18,
             "name": "CoTrader",
             "symbol": "COT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa8cE5107A2770959edB27529E56E84e11eF55a58/logo.png"
         },
         {
-            "address": "0x5D8d9F5b96f4438195BE9b99eee6118Ed4304286",
             "chainId": 43114,
+            "address": "0xE0976dCa075C4055cADa33C2452429572885aE7E",
             "decimals": 18,
             "name": "Cover Protocol",
             "symbol": "COVER",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xE0976dCa075C4055cADa33C2452429572885aE7E/logo.png"
         },
         {
-            "address": "0x4688a8b1F292FDaB17E9a90c8Bc379dC1DBd8713",
             "chainId": 43114,
+            "address": "0xe35f68f3DE8590F3FD6884Eef166AF9f414D75F7",
             "decimals": 18,
-            "name": "Cover Protocol Gover",
+            "name": "Cover Protocol Governance Token",
             "symbol": "COVER",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xe35f68f3DE8590F3FD6884Eef166AF9f414D75F7/logo.png"
         },
         {
-            "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
             "chainId": 43114,
+            "address": "0xb9AB39F9b4E3af0c97aE55EA48A960656C681A88",
             "decimals": 18,
             "name": "Cream",
             "symbol": "CREAM",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xb9AB39F9b4E3af0c97aE55EA48A960656C681A88/logo.png"
         },
         {
-            "address": "0x1D09144F3479bb805CB7c92346987420BcbDC10C",
             "chainId": 43114,
+            "address": "0x3a9ea8880643211413609A7B717e3884816D15e7",
             "decimals": 18,
             "name": "CreamY USD",
             "symbol": "cyUSD",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3a9ea8880643211413609A7B717e3884816D15e7/logo.png"
         },
         {
-            "address": "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08",
             "chainId": 43114,
+            "address": "0x3E8a3b1db5401938F6F34E4e6f2560354C182c46",
             "decimals": 18,
             "name": "CryptoFranc",
             "symbol": "XCHF",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3E8a3b1db5401938F6F34E4e6f2560354C182c46/logo.png"
         },
         {
-            "address": "0x817bbDbC3e8A1204f3691d14bB44992841e3dB35",
             "chainId": 43114,
+            "address": "0x422b2328A16b41ecCA56E1854be9943526aD7647",
             "decimals": 18,
             "name": "CudosToken",
             "symbol": "CUDOS",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x422b2328A16b41ecCA56E1854be9943526aD7647/logo.png"
         },
         {
-            "address": "0x13339fD07934CD674269726EdF3B5ccEE9DD93de",
             "chainId": 43114,
+            "address": "0x06f9FD59D9E009E7e47a07Df79BC994A07dcFb95",
             "decimals": 18,
             "name": "CurToken",
             "symbol": "CUR",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x06f9FD59D9E009E7e47a07Df79BC994A07dcFb95/logo.png"
         },
         {
-            "address": "0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7",
             "chainId": 43114,
+            "address": "0x424587becE1A7436Ae4a38eD9E8686992236618B",
             "decimals": 18,
             "name": "cVault.finance",
             "symbol": "CORE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x424587becE1A7436Ae4a38eD9E8686992236618B/logo.png"
         },
         {
-            "address": "0x63b4f3e3fa4e438698CE330e365E831F7cCD1eF4",
             "chainId": 43114,
+            "address": "0xd77b301D644608eE1E3dC56C3CF8540E6C9EC60F",
             "decimals": 18,
             "name": "CyberFi Token",
             "symbol": "CFi",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xd77b301D644608eE1E3dC56C3CF8540E6C9EC60F/logo.png"
         },
         {
-            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
             "chainId": 43114,
+            "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
             "decimals": 18,
             "name": "Dai Stablecoin",
             "symbol": "DAI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png"
         },
         {
-            "address": "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
             "chainId": 43114,
+            "address": "0x2263483B187d8C99d1E7D1f737183097c7071fe2",
             "decimals": 18,
             "name": "DAOstack",
             "symbol": "GEN",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x2263483B187d8C99d1E7D1f737183097c7071fe2/logo.png"
         },
         {
-            "address": "0x9248c485b0B80f76DA451f167A8db30F33C70907",
             "chainId": 43114,
+            "address": "0xA449DE69B549B416690aB15D2E67E7fCcD464347",
             "decimals": 18,
             "name": "Debase",
             "symbol": "DEBASE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xA449DE69B549B416690aB15D2E67E7fCcD464347/logo.png"
         },
         {
-            "address": "0x30f271C9E86D2B7d00a6376Cd96A1cFBD5F0b9b3",
             "chainId": 43114,
+            "address": "0xdC6D33821606f6c5FfceD7Bb315152210F3f31d9",
             "decimals": 18,
             "name": "Decentr",
             "symbol": "DEC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xdC6D33821606f6c5FfceD7Bb315152210F3f31d9/logo.png"
         },
         {
-            "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
             "chainId": 43114,
+            "address": "0x332877d7b83D98eFC3e22C203c54E6e62F7f35e9",
             "decimals": 18,
             "name": "Decentraland MANA",
             "symbol": "MANA",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x332877d7b83D98eFC3e22C203c54E6e62F7f35e9/logo.png"
         },
         {
-            "address": "0xc719d010B63E5bbF2C0551872CD5316ED26AcD83",
             "chainId": 43114,
+            "address": "0xa571971CD50b3c17c9F82f43965319907D50341E",
             "decimals": 18,
-            "name": "Decentralized Insura",
+            "name": "Decentralized Insurance Protocol",
             "symbol": "DIP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa571971CD50b3c17c9F82f43965319907D50341E/logo.png"
         },
         {
-            "address": "0x5BC25f649fc4e26069dDF4cF4010F9f706c23831",
             "chainId": 43114,
+            "address": "0x71645323F647488209eAAB8d08900576502160c8",
             "decimals": 18,
             "name": "DefiDollar",
             "symbol": "DUSD",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x71645323F647488209eAAB8d08900576502160c8/logo.png"
         },
         {
-            "address": "0x20c36f062a31865bED8a5B1e512D9a1A20AA333A",
             "chainId": 43114,
+            "address": "0x30EB0D35147B7a40dB1A54a98F25317E844670e5",
             "decimals": 18,
             "name": "DefiDollar DAO",
             "symbol": "DFD",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x30EB0D35147B7a40dB1A54a98F25317E844670e5/logo.png"
         },
         {
-            "address": "0x054f76beED60AB6dBEb23502178C52d6C5dEbE40",
             "chainId": 43114,
+            "address": "0x7FA965Ebd5bBBee983681E571091A31dDDB2E510",
             "decimals": 18,
             "name": "DeFiner",
             "symbol": "FIN",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x7FA965Ebd5bBBee983681E571091A31dDDB2E510/logo.png"
         },
         {
-            "address": "0x607C794cDa77efB21F8848B7910ecf27451Ae842",
             "chainId": 43114,
+            "address": "0x8320c3cd3a0d671650F5600Cc9d907749AeDa7E1",
             "decimals": 18,
             "name": "DeFiPIE Token",
             "symbol": "PIE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8320c3cd3a0d671650F5600Cc9d907749AeDa7E1/logo.png"
         },
         {
-            "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
             "chainId": 43114,
+            "address": "0x150DC9795908a27988aBf71C30E9B1647922A7B3",
             "decimals": 18,
             "name": "DefiPulse Index",
             "symbol": "DPI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x150DC9795908a27988aBf71C30E9B1647922A7B3/logo.png"
         },
         {
-            "address": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
             "chainId": 43114,
+            "address": "0x5eC7E661fB06ccFBC371Fb463a284705D53DF32a",
             "decimals": 18,
             "name": "Dether",
             "symbol": "DTH",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x5eC7E661fB06ccFBC371Fb463a284705D53DF32a/logo.png"
         },
         {
-            "address": "0x5cAf454Ba92e6F2c929DF14667Ee360eD9fD5b26",
             "chainId": 43114,
+            "address": "0xD7c26758CA255fb1d7559B02Ff36295be61f6822",
             "decimals": 18,
             "name": "Dev",
             "symbol": "DEV",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xD7c26758CA255fb1d7559B02Ff36295be61f6822/logo.png"
         },
         {
-            "address": "0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
             "chainId": 43114,
+            "address": "0x5574eDff4EF9Fce15B22DDB37A7F419b2Abd729E",
             "decimals": 18,
             "name": "Dexe",
             "symbol": "DEXE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x5574eDff4EF9Fce15B22DDB37A7F419b2Abd729E/logo.png"
         },
         {
-            "address": "0x26CE25148832C04f3d7F26F32478a9fe55197166",
             "chainId": 43114,
+            "address": "0x618B994F06F7168bd3e24C05321cCf0Afd30D6bc",
             "decimals": 18,
             "name": "DEXTools",
             "symbol": "DEXT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x618B994F06F7168bd3e24C05321cCf0Afd30D6bc/logo.png"
         },
         {
-            "address": "0xD6F0Bb2A45110f819e908a915237D652Ac7c5AA8",
             "chainId": 43114,
+            "address": "0x30D26864af10565CEdD9E4d5b1fdBd52B49144DD",
             "decimals": 18,
             "name": "DFOHub",
             "symbol": "BUIDL",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x30D26864af10565CEdD9E4d5b1fdBd52B49144DD/logo.png"
         },
         {
-            "address": "0x7b123f53421b1bF8533339BFBdc7C98aA94163db",
             "chainId": 43114,
+            "address": "0x933753c297aDe672D68fa3296FdafFD76Db7DFA2",
             "decimals": 18,
             "name": "dfohub",
             "symbol": "buidl",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x933753c297aDe672D68fa3296FdafFD76Db7DFA2/logo.png"
         },
         {
-            "address": "0x355C665e101B9DA58704A8fDDb5FeeF210eF20c0",
             "chainId": 43114,
+            "address": "0xe3EDb25E952e9b3575EFb71DE14651EF3F2e8FaF",
             "decimals": 18,
             "name": "dForce",
             "symbol": "GOLDx",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xe3EDb25E952e9b3575EFb71DE14651EF3F2e8FaF/logo.png"
         },
         {
-            "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
             "chainId": 43114,
+            "address": "0xeE33c5804b759cCf3A9de88c9E772374147dCdEE",
             "decimals": 18,
             "name": "dHedge DAO Token",
             "symbol": "DHT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xeE33c5804b759cCf3A9de88c9E772374147dCdEE/logo.png"
         },
         {
-            "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
             "chainId": 43114,
+            "address": "0xd072dEcEb5FD919bF8853CeB1068438652a06c00",
             "decimals": 18,
             "name": "DIAToken",
             "symbol": "DIA",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xd072dEcEb5FD919bF8853CeB1068438652a06c00/logo.png"
         },
         {
-            "address": "0x06301057D77D54B6e14c7FafFB11Ffc7Cab4eaa7",
             "chainId": 43114,
+            "address": "0x6CB5008Ca0CC13862CB47906F541672e8f51A6EF",
             "decimals": 18,
             "name": "DMM: DAI",
             "symbol": "mDAI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x6CB5008Ca0CC13862CB47906F541672e8f51A6EF/logo.png"
         },
         {
-            "address": "0xdF9307DFf0a1B57660F60f9457D32027a55ca0B2",
             "chainId": 43114,
+            "address": "0x6FEC3a5e49748088C2b9b1Ef9A6a762ABdD07805",
             "decimals": 18,
             "name": "DMM: ETH",
             "symbol": "mETH",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x6FEC3a5e49748088C2b9b1Ef9A6a762ABdD07805/logo.png"
         },
         {
-            "address": "0xEd91879919B71bB6905f23af0A68d231EcF87b14",
             "chainId": 43114,
+            "address": "0xe9925Cd8639c21DFcEA667D40dD2c8f54f420618",
             "decimals": 18,
             "name": "DMM: Governance",
             "symbol": "DMG",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xe9925Cd8639c21DFcEA667D40dD2c8f54f420618/logo.png"
         },
         {
-            "address": "0xF29992D7b589A0A6bD2de7Be29a97A6EB73EaF85",
             "chainId": 43114,
+            "address": "0xF64DBa678d653D5Bb743b1E764De0A11fAb0f0a3",
             "decimals": 18,
             "name": "DMScript",
             "symbol": "DMST",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xF64DBa678d653D5Bb743b1E764De0A11fAb0f0a3/logo.png"
         },
         {
-            "address": "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd",
             "chainId": 43114,
+            "address": "0x480d6193B2a2Db2702F3ce6FE5Bc1F0c8a95336B",
             "decimals": 18,
             "name": "DODO bird",
             "symbol": "DODO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x480d6193B2a2Db2702F3ce6FE5Bc1F0c8a95336B/logo.png"
         },
         {
-            "address": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
             "chainId": 43114,
+            "address": "0xb2Ef3c8A2b27C219FC3396F0e9320df0E29Ec037",
             "decimals": 18,
             "name": "Donut",
             "symbol": "DONUT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xb2Ef3c8A2b27C219FC3396F0e9320df0E29Ec037/logo.png"
         },
         {
-            "address": "0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
             "chainId": 43114,
+            "address": "0x2C05b134888419b497fE5489D2762031a2de8031",
             "decimals": 18,
             "name": "DOS Network Token",
             "symbol": "DOS",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x2C05b134888419b497fE5489D2762031a2de8031/logo.png"
         },
         {
-            "address": "0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20",
             "chainId": 43114,
+            "address": "0xF40920212A74387387328Db8e30726C0cc62ae33",
             "decimals": 18,
             "name": "DuckDaoDime",
             "symbol": "DDIM",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xF40920212A74387387328Db8e30726C0cc62ae33/logo.png"
         },
         {
-            "address": "0xBD2F0Cd039E0BFcf88901C98c0bFAc5ab27566e3",
             "chainId": 43114,
+            "address": "0xcE4Af1de4A61C02E590cA8AD2a1493FF2A3D5fB5",
             "decimals": 18,
             "name": "Dynamic Set Dollar",
             "symbol": "DSD",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xcE4Af1de4A61C02E590cA8AD2a1493FF2A3D5fB5/logo.png"
         },
         {
-            "address": "0x6468e79A80C0eaB0F9A2B574c8d5bC374Af59414",
             "chainId": 43114,
+            "address": "0x535E15B13f2A82350E8C02d62BDbA385a6307c30",
             "decimals": 18,
             "name": "E-RADIX",
             "symbol": "eXRD",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x535E15B13f2A82350E8C02d62BDbA385a6307c30/logo.png"
         },
         {
-            "address": "0x34950Ff2b487d9E5282c5aB342d08A2f712eb79F",
             "chainId": 43114,
+            "address": "0x1830DD37A0ddd3207fFAc9013E4F4D60FEC22036",
             "decimals": 18,
             "name": "EFFORCE IEO",
             "symbol": "WOZX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1830DD37A0ddd3207fFAc9013E4F4D60FEC22036/logo.png"
         },
         {
-            "address": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
             "chainId": 43114,
+            "address": "0xfCDf63735c1Cf3203CE64fEf59DcA6A7aC9A6D54",
             "decimals": 18,
             "name": "ELF Token",
             "symbol": "ELF",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xfCDf63735c1Cf3203CE64fEf59DcA6A7aC9A6D54/logo.png"
         },
         {
-            "address": "0x36F3FD68E7325a35EB768F1AedaAe9EA0689d723",
             "chainId": 43114,
+            "address": "0x455b3FD5eF7bcA83C0c1Cd71695Ec7aEda773E4f",
             "decimals": 18,
             "name": "Empty Set Dollar",
             "symbol": "ESD",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x455b3FD5eF7bcA83C0c1Cd71695Ec7aEda773E4f/logo.png"
         },
         {
-            "address": "0x178c820f862B14f316509ec36b13123DA19A6054",
             "chainId": 43114,
+            "address": "0x3447d187934d323bDd1BCc6EDC643D3C8d05D86c",
             "decimals": 18,
-            "name": "Energy Web Token Bri",
+            "name": "Energy Web Token Bridged",
             "symbol": "EWTB",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3447d187934d323bDd1BCc6EDC643D3C8d05D86c/logo.png"
         },
         {
-            "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
             "chainId": 43114,
+            "address": "0xCde255522146ddF36d57BA5Cd8D74695bD13C994",
             "decimals": 18,
             "name": "Enjin Coin",
             "symbol": "ENJ",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xCde255522146ddF36d57BA5Cd8D74695bD13C994/logo.png"
         },
         {
-            "address": "0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195",
             "chainId": 43114,
+            "address": "0x964A11836e6Ac44E07F8632a9FF6C380Ef0113fd",
             "decimals": 18,
             "name": "EQUUSMiningToken",
             "symbol": "EQMT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x964A11836e6Ac44E07F8632a9FF6C380Ef0113fd/logo.png"
         },
         {
-            "address": "0x9f49ed43C90A540d1cF12f6170aCE8d0B88a14E6",
             "chainId": 43114,
+            "address": "0xD7b63a3Cf593E72c385A72e28029Bcae6db766D5",
             "decimals": 18,
-            "name": "ETH RSI 60/40 Yield",
+            "name": "ETH RSI 60/40 Yield II",
             "symbol": "ETHRSIAPY",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xD7b63a3Cf593E72c385A72e28029Bcae6db766D5/logo.png"
         },
         {
-            "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
             "chainId": 43114,
+            "address": "0xaeF85E9F467b2Dc187351b37BF63124C0A9bB913",
             "decimals": 18,
             "name": "EthLend Token",
             "symbol": "LEND",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xaeF85E9F467b2Dc187351b37BF63124C0A9bB913/logo.png"
         },
         {
-            "address": "0xEeEeeeeEe2aF8D0e1940679860398308e0eF24d6",
             "chainId": 43114,
+            "address": "0xb98B8Ea9E894Caa5155Da32646152303839890a3",
             "decimals": 18,
             "name": "Ethverse Token",
             "symbol": "ETHV",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xb98B8Ea9E894Caa5155Da32646152303839890a3/logo.png"
         },
         {
-            "address": "0xefBd6D7deF37ffae990503EcdB1291B2f7E38788",
             "chainId": 43114,
+            "address": "0xC636AD16dd87C2D412d2c62276813dFC35558A81",
             "decimals": 18,
             "name": "Evolution",
             "symbol": "EVO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC636AD16dd87C2D412d2c62276813dFC35558A81/logo.png"
         },
         {
-            "address": "0xee573a945B01B788B9287CE062A0CFC15bE9fd86",
             "chainId": 43114,
+            "address": "0x0DCE209Cd97C8bd136E433703645Dc431eF93075",
             "decimals": 18,
             "name": "Exeedme",
             "symbol": "XED",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x0DCE209Cd97C8bd136E433703645Dc431eF93075/logo.png"
         },
         {
-            "address": "0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB",
             "chainId": 43114,
+            "address": "0x479914df5B637aa9d439246116d49245Db678f97",
             "decimals": 18,
             "name": "FalconSwap Token",
             "symbol": "FSW",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x479914df5B637aa9d439246116d49245Db678f97/logo.png"
         },
         {
-            "address": "0xa0246c9032bC3A600820415aE600c6388619A14D",
             "chainId": 43114,
+            "address": "0x5E92Fb74d337cd3914E0E48a7E679f87f2585471",
             "decimals": 18,
             "name": "FARM Reward Token",
             "symbol": "FARM",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x5E92Fb74d337cd3914E0E48a7E679f87f2585471/logo.png"
         },
         {
-            "address": "0x539F3615C1dBAfa0D008d87504667458acBd16Fa",
             "chainId": 43114,
+            "address": "0x5dc1E85C8Db7F79bbd63e6Ae35AbEb50AD55756D",
             "decimals": 18,
             "name": "FERA",
             "symbol": "FERA",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x5dc1E85C8Db7F79bbd63e6Ae35AbEb50AD55756D/logo.png"
         },
         {
-            "address": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
             "chainId": 43114,
+            "address": "0x23D7e6Af758883F4976617DAB2641af94FF7CA1F",
             "decimals": 18,
             "name": "Fetch",
             "symbol": "FET",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x23D7e6Af758883F4976617DAB2641af94FF7CA1F/logo.png"
         },
         {
-            "address": "0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
             "chainId": 43114,
+            "address": "0x85B87e0A36865dbdeF50bdFAFB49B272077E0026",
             "decimals": 18,
             "name": "FinNexus",
             "symbol": "FNX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x85B87e0A36865dbdeF50bdFAFB49B272077E0026/logo.png"
         },
         {
-            "address": "0xd559f20296FF4895da39b5bd9ADd54b442596a61",
             "chainId": 43114,
+            "address": "0xaD4c2Ba8C983E6A06685b6F90D0c517cD3C4301e",
             "decimals": 18,
             "name": "FintruX Network",
             "symbol": "FTX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xaD4c2Ba8C983E6A06685b6F90D0c517cD3C4301e/logo.png"
         },
         {
-            "address": "0x4a57E687b9126435a9B19E4A802113e266AdeBde",
             "chainId": 43114,
+            "address": "0xE9C418927B36F2668dC4fe02028Aa08535a8E347",
             "decimals": 18,
             "name": "Flexacoin",
             "symbol": "FXC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xE9C418927B36F2668dC4fe02028Aa08535a8E347/logo.png"
         },
         {
-            "address": "0xf04a8ac553FceDB5BA99A64799155826C136b0Be",
             "chainId": 43114,
+            "address": "0x5d1CE423031a2661F960740f15a93073e6ccAb13",
             "decimals": 18,
             "name": "Flixx",
             "symbol": "FLIXX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x5d1CE423031a2661F960740f15a93073e6ccAb13/logo.png"
         },
         {
-            "address": "0x4946Fcea7C692606e8908002e55A582af44AC121",
             "chainId": 43114,
+            "address": "0x23F3C4fF7ef5C752593966BDe70de2Db81398Aa6",
             "decimals": 18,
             "name": "FOAM Token",
             "symbol": "FOAM",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x23F3C4fF7ef5C752593966BDe70de2Db81398Aa6/logo.png"
         },
         {
-            "address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
             "chainId": 43114,
+            "address": "0x7e7034845b581B959Ad90a6D7424382DDd70C196",
             "decimals": 18,
             "name": "FOX",
             "symbol": "FOX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x7e7034845b581B959Ad90a6D7424382DDd70C196/logo.png"
         },
         {
-            "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
             "chainId": 43114,
+            "address": "0xBB69c92FBb4F1aFf528875056650c862F94D3CC1",
             "decimals": 18,
             "name": "Frax",
             "symbol": "FRAX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xBB69c92FBb4F1aFf528875056650c862F94D3CC1/logo.png"
         },
         {
-            "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
             "chainId": 43114,
+            "address": "0xb1BA5Cf8EAa4D3c3439e91c190553E9c92e98E30",
             "decimals": 18,
             "name": "Frax Share",
             "symbol": "FXS",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xb1BA5Cf8EAa4D3c3439e91c190553E9c92e98E30/logo.png"
         },
         {
-            "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
             "chainId": 43114,
+            "address": "0x3441061CbfDF2351E010DF5D962f1cF0626CF19F",
             "decimals": 18,
             "name": "Frontier Token",
             "symbol": "FRONT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3441061CbfDF2351E010DF5D962f1cF0626CF19F/logo.png"
         },
         {
-            "address": "0x493C57C4763932315A328269E1ADaD09653B9081",
             "chainId": 43114,
+            "address": "0x8A8DD8dd5639174F032877b2D6c7467D8B51D561",
             "decimals": 18,
             "name": "Fulcrum DAI iToken",
             "symbol": "iDAI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8A8DD8dd5639174F032877b2D6c7467D8B51D561/logo.png"
         },
         {
-            "address": "0x77f973FCaF871459aa58cd81881Ce453759281bC",
             "chainId": 43114,
+            "address": "0x2Ae2CD4e23c09a2B68a24D56D5cf3c4e887Da849",
             "decimals": 18,
             "name": "Fulcrum ETH iToken",
             "symbol": "iETH",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x2Ae2CD4e23c09a2B68a24D56D5cf3c4e887Da849/logo.png"
         },
         {
-            "address": "0xfFffFffF2ba8F66D4e51811C5190992176930278",
             "chainId": 43114,
+            "address": "0xF8fc972343698Ac3C466858ce6CF48bBc83a0852",
             "decimals": 18,
             "name": "Furucombo",
             "symbol": "COMBO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xF8fc972343698Ac3C466858ce6CF48bBc83a0852/logo.png"
         },
         {
-            "address": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
             "chainId": 43114,
+            "address": "0xd3974AE5A9BCD4AE4c9037a25A67374a11df4154",
             "decimals": 18,
             "name": "Fuse Token",
             "symbol": "FUSE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xd3974AE5A9BCD4AE4c9037a25A67374a11df4154/logo.png"
         },
         {
-            "address": "0x6B9f031D718dDed0d681c20cB754F97b3BB81b78",
             "chainId": 43114,
+            "address": "0x3326235Ec1AFf2799dE463413114b800d251089d",
             "decimals": 18,
             "name": "Geeq",
             "symbol": "GEEQ",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3326235Ec1AFf2799dE463413114b800d251089d/logo.png"
         },
         {
-            "address": "0x103c3A209da59d3E7C4A89307e66521e081CFDF0",
             "chainId": 43114,
+            "address": "0x9D3b7a5e30654Ab86039c929880b078B34c41625",
             "decimals": 18,
             "name": "Genesis Vision Token",
             "symbol": "GVT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x9D3b7a5e30654Ab86039c929880b078B34c41625/logo.png"
         },
         {
-            "address": "0xbEa98c05eEAe2f3bC8c3565Db7551Eb738c8CCAb",
             "chainId": 43114,
+            "address": "0x6419e589dB783c5396d94f3237879a010fdB5C44",
             "decimals": 18,
             "name": "Geyser",
             "symbol": "GYSR",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x6419e589dB783c5396d94f3237879a010fdB5C44/logo.png"
         },
         {
-            "address": "0x4c327471C44B2dacD6E90525f9D629bd2e4f662C",
             "chainId": 43114,
+            "address": "0x4F229fF652D4dB584BF4b3512aE430edECb85971",
             "decimals": 18,
             "name": "GHOST",
             "symbol": "GHOST",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4F229fF652D4dB584BF4b3512aE430edECb85971/logo.png"
         },
         {
-            "address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
             "chainId": 43114,
+            "address": "0xBAA66822055AD37EC05638eC5AAfDC6Ef0e96445",
             "decimals": 18,
             "name": "Gnosis Token",
             "symbol": "GNO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xBAA66822055AD37EC05638eC5AAfDC6Ef0e96445/logo.png"
         },
         {
-            "address": "0x83cee9e086A77e492eE0bB93C2B0437aD6fdECCc",
             "chainId": 43114,
+            "address": "0x56f45Ca7C6e8d5550b36f4C69a0dEA44defEe3Ef",
             "decimals": 18,
-            "name": "Goldmint MNT Prelaun",
+            "name": "Goldmint MNT Prelaunch Token",
             "symbol": "MNTP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x56f45Ca7C6e8d5550b36f4C69a0dEA44defEe3Ef/logo.png"
         },
         {
-            "address": "0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c",
             "chainId": 43114,
+            "address": "0x44D24Df9732DA8b230c819b0bf22b6C6377B42c4",
             "decimals": 18,
             "name": "Golff.finance",
             "symbol": "GOF",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x44D24Df9732DA8b230c819b0bf22b6C6377B42c4/logo.png"
         },
         {
-            "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
             "chainId": 43114,
+            "address": "0x46C54b16aF7747067f412c78eBaDaE203a26aDa0",
             "decimals": 18,
             "name": "Graph Token",
             "symbol": "GRT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x46C54b16aF7747067f412c78eBaDaE203a26aDa0/logo.png"
         },
         {
-            "address": "0x09e64c2B61a5f1690Ee6fbeD9baf5D6990F8dFd0",
             "chainId": 43114,
+            "address": "0xBAd7b06c436200dB693Dd49418A96E2bF857f9a2",
             "decimals": 18,
             "name": "Growth",
             "symbol": "GRO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xBAd7b06c436200dB693Dd49418A96E2bF857f9a2/logo.png"
         },
         {
-            "address": "0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd",
             "chainId": 43114,
+            "address": "0xf21074038dc2ea2A280EC890be55Ae3Be84616e3",
             "decimals": 18,
             "name": "Hakka Finance",
             "symbol": "HAKKA",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf21074038dc2ea2A280EC890be55Ae3Be84616e3/logo.png"
         },
         {
-            "address": "0x584bC13c7D411c00c01A62e8019472dE68768430",
             "chainId": 43114,
+            "address": "0x20642e9cdd6BFe701817A7b50dE89777C8F2b208",
             "decimals": 18,
             "name": "Hegic",
             "symbol": "HEGIC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x20642e9cdd6BFe701817A7b50dE89777C8F2b208/logo.png"
         },
         {
-            "address": "0xEEF9f339514298C6A857EfCfC1A762aF84438dEE",
             "chainId": 43114,
+            "address": "0x79c340eAFaC9Cc81d9BF128aa1785E669e06FBe2",
             "decimals": 18,
             "name": "Hermez Network Token",
             "symbol": "HEZ",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x79c340eAFaC9Cc81d9BF128aa1785E669e06FBe2/logo.png"
         },
         {
-            "address": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
             "chainId": 43114,
+            "address": "0xA471033610995EEdF0D6E4C598a4A9b4EC99c700",
             "decimals": 18,
             "name": "HoloToken",
             "symbol": "HOT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xA471033610995EEdF0D6E4C598a4A9b4EC99c700/logo.png"
         },
         {
-            "address": "0x39eAE99E685906fF1C11A962a743440d0a1A6e09",
             "chainId": 43114,
+            "address": "0x2167d6A882e9beB324D08e6663d4D419ac578792",
             "decimals": 18,
             "name": "Holyheld",
             "symbol": "HOLY",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x2167d6A882e9beB324D08e6663d4D419ac578792/logo.png"
         },
         {
-            "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
             "chainId": 43114,
+            "address": "0x8c1632b83D9E2D3C31B0728e953A22B7B33348A3",
             "decimals": 18,
             "name": "Huobi BTC",
             "symbol": "HBTC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8c1632b83D9E2D3C31B0728e953A22B7B33348A3/logo.png"
         },
         {
-            "address": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161",
             "chainId": 43114,
+            "address": "0x421b2a69b886BA17a61C7dAd140B9070d5Ef300B",
             "decimals": 18,
             "name": "HuobiToken",
             "symbol": "HT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x421b2a69b886BA17a61C7dAd140B9070d5Ef300B/logo.png"
         },
         {
-            "address": "0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
             "chainId": 43114,
+            "address": "0x59535b9BA6029edb7588dF41Ed388584FBEA706C",
             "decimals": 18,
             "name": "IDEX Token",
             "symbol": "IDEX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x59535b9BA6029edb7588dF41Ed388584FBEA706C/logo.png"
         },
         {
-            "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
             "chainId": 43114,
+            "address": "0x3d26cefE5fAE96FFd48801e1E61975b3CB75036B",
             "decimals": 18,
             "name": "Index",
             "symbol": "INDEX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3d26cefE5fAE96FFd48801e1E61975b3CB75036B/logo.png"
         },
         {
-            "address": "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83",
             "chainId": 43114,
+            "address": "0x7633b4710042F9Dd22e3FC63E59E4BFDcb6813B9",
             "decimals": 18,
             "name": "Indexed",
             "symbol": "NDX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x7633b4710042F9Dd22e3FC63E59E4BFDcb6813B9/logo.png"
         },
         {
-            "address": "0xf8e386EDa857484f5a12e4B5DAa9984E06E73705",
             "chainId": 43114,
+            "address": "0xB9d0574a8049e5fd4331ACDc1CF3ce2FF3261bE9",
             "decimals": 18,
             "name": "Indorse Token",
             "symbol": "IND",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB9d0574a8049e5fd4331ACDc1CF3ce2FF3261bE9/logo.png"
         },
         {
-            "address": "0x159751323A9E0415DD3d6D42a1212fe9F4a0848C",
             "chainId": 43114,
+            "address": "0x1d590AD61A7b56071A5858301aCe7DD3D31f0Dd0",
             "decimals": 18,
             "name": "INFI",
             "symbol": "INFI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1d590AD61A7b56071A5858301aCe7DD3D31f0Dd0/logo.png"
         },
         {
-            "address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
             "chainId": 43114,
+            "address": "0xfE057C0496eF3CCa8d85d847dA99c9815ba9981F",
             "decimals": 18,
             "name": "Injective Token",
             "symbol": "INJ",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xfE057C0496eF3CCa8d85d847dA99c9815ba9981F/logo.png"
         },
         {
-            "address": "0xBC86727E770de68B1060C91f6BB6945c73e10388",
             "chainId": 43114,
+            "address": "0x703a3cC60E5E7ed2b28Bdc50D66C260b4aAB03dC",
             "decimals": 18,
             "name": "Ink Protocol",
             "symbol": "XNK",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x703a3cC60E5E7ed2b28Bdc50D66C260b4aAB03dC/logo.png"
         },
         {
-            "address": "0x5580ab97F226C324c671746a1787524AEF42E415",
             "chainId": 43114,
+            "address": "0xC839E0D590BBb1b64A46A3F6aB6Feb596ced7439",
             "decimals": 18,
             "name": "JUL",
             "symbol": "JUL",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC839E0D590BBb1b64A46A3F6aB6Feb596ced7439/logo.png"
         },
         {
-            "address": "0xD9Ec3ff1f8be459Bb9369b4E79e9Ebcf7141C093",
             "chainId": 43114,
+            "address": "0x1D81360dADf2E1756FaeAe46072dD12997170F46",
             "decimals": 18,
             "name": "KardiaChain Token",
             "symbol": "KAI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1D81360dADf2E1756FaeAe46072dD12997170F46/logo.png"
         },
         {
-            "address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
             "chainId": 43114,
+            "address": "0x73945347fbCBFed872D590110f817621440a9d39",
             "decimals": 18,
             "name": "KEEP Token",
             "symbol": "KEEP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x73945347fbCBFed872D590110f817621440a9d39/logo.png"
         },
         {
-            "address": "0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
             "chainId": 43114,
+            "address": "0xB42F2c83b4ee3C3620789B5603f4bdf01792e0a0",
             "decimals": 18,
             "name": "Keep3rV1",
             "symbol": "KP3R",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB42F2c83b4ee3C3620789B5603f4bdf01792e0a0/logo.png"
         },
         {
-            "address": "0xA89ac6e529aCf391CfbBD377F3aC9D93eae9664e",
             "chainId": 43114,
+            "address": "0xEeB395dEc67742cCF7E6Aea920DC2b7FCF01e725",
             "decimals": 18,
             "name": "Keep4r",
             "symbol": "KP4R",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xEeB395dEc67742cCF7E6Aea920DC2b7FCF01e725/logo.png"
         },
         {
-            "address": "0x6A7Ef4998eB9d0f706238756949F311a59E05745",
             "chainId": 43114,
+            "address": "0x833A32E28Bbb289C0ba13c69A08dB9E9526D4907",
             "decimals": 18,
             "name": "Kenysians Network",
             "symbol": "KEN",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x833A32E28Bbb289C0ba13c69A08dB9E9526D4907/logo.png"
         },
         {
-            "address": "0x3F09400313e83d53366147e3ea0e4e2279D80850",
             "chainId": 43114,
+            "address": "0x47e4c63922766e1b386fa7296c994aC474062Bd4",
             "decimals": 18,
             "name": "KUSH.FINANCE",
             "symbol": "kSEED",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x47e4c63922766e1b386fa7296c994aC474062Bd4/logo.png"
         },
         {
-            "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
             "chainId": 43114,
+            "address": "0xb7f7C9347f55d6d6265e152c636cD29aB17Dc9F6",
             "decimals": 18,
-            "name": "Kyber Network Crysta",
+            "name": "Kyber Network Crystal",
             "symbol": "KNC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xb7f7C9347f55d6d6265e152c636cD29aB17Dc9F6/logo.png"
         },
         {
-            "address": "0xc27A2F05fa577a83BA0fDb4c38443c0718356501",
             "chainId": 43114,
+            "address": "0x4D49159F233506087426094CDa371B5817f30331",
             "decimals": 18,
             "name": "Lamden Tau",
             "symbol": "TAU",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4D49159F233506087426094CDa371B5817f30331/logo.png"
         },
         {
-            "address": "0x5102791cA02FC3595398400BFE0e33d7B6C82267",
             "chainId": 43114,
+            "address": "0x78c703129FA14c96164c6e14497edAB6CF215A93",
             "decimals": 18,
             "name": "LEADCOIN",
             "symbol": "LDC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x78c703129FA14c96164c6e14497edAB6CF215A93/logo.png"
         },
         {
-            "address": "0x4de2573e27E648607B50e1Cfff921A33E4A34405",
             "chainId": 43114,
+            "address": "0x4E0226a638adCBB43C99131c743B9Aba15Ff3040",
             "decimals": 18,
-            "name": "Lendroid Support Tok",
+            "name": "Lendroid Support Token",
             "symbol": "LST",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4E0226a638adCBB43C99131c743B9Aba15Ff3040/logo.png"
         },
         {
-            "address": "0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d",
             "chainId": 43114,
+            "address": "0x548A24D7eB18ea8A771645651EE799807d41F2dF",
             "decimals": 18,
             "name": "LGCY Network",
             "symbol": "LGCY",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x548A24D7eB18ea8A771645651EE799807d41F2dF/logo.png"
         },
         {
-            "address": "0x6226caA1857AFBc6DFB6ca66071Eb241228031A1",
             "chainId": 43114,
+            "address": "0xc162e489C7f39676F6376CA79df3e728f101a895",
             "decimals": 18,
             "name": "Linkart",
             "symbol": "LAR",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xc162e489C7f39676F6376CA79df3e728f101a895/logo.png"
         },
         {
-            "address": "0x0417912b3a7AF768051765040A55BB0925D4DDcF",
             "chainId": 43114,
+            "address": "0xB9b00fbac0F8B7c25a360664CE0Bf819771B4144",
             "decimals": 18,
-            "name": "Liquidity Dividends",
+            "name": "Liquidity Dividends Protocol",
             "symbol": "LID",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB9b00fbac0F8B7c25a360664CE0Bf819771B4144/logo.png"
         },
         {
-            "address": "0x58b6A8A3302369DAEc383334672404Ee733aB239",
             "chainId": 43114,
+            "address": "0x2c67EC45B2E7138823dee0576D0d17Ac6Aa36b74",
             "decimals": 18,
             "name": "Livepeer Token",
             "symbol": "LPT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x2c67EC45B2E7138823dee0576D0d17Ac6Aa36b74/logo.png"
         },
         {
-            "address": "0x5e3346444010135322268a4630d2ED5F8D09446c",
             "chainId": 43114,
+            "address": "0xb7617ad97645729f41cfd969312532e080f03864",
             "decimals": 18,
             "name": "LockChain",
             "symbol": "LOC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xb7617ad97645729f41cfd969312532e080f03864/logo.png"
         },
         {
-            "address": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0",
             "chainId": 43114,
+            "address": "0xfA178938Da2d58e55e52dc6dB92B99d9B2102EaE",
             "decimals": 18,
             "name": "LoomToken",
             "symbol": "LOOM",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xfA178938Da2d58e55e52dc6dB92B99d9B2102EaE/logo.png"
         },
         {
-            "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
             "chainId": 43114,
+            "address": "0x628A9639cc78F46604A625452C0242c7B487BA3c",
             "decimals": 18,
             "name": "LoopringCoin V2",
             "symbol": "LRC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x628A9639cc78F46604A625452C0242c7B487BA3c/logo.png"
         },
         {
-            "address": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
             "chainId": 43114,
+            "address": "0xeCd99fe115553493C6BF41C27da69E131766baAd",
             "decimals": 18,
             "name": "LuaToken",
             "symbol": "LUA",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xeCd99fe115553493C6BF41C27da69E131766baAd/logo.png"
         },
         {
-            "address": "0xA8b919680258d369114910511cc87595aec0be6D",
             "chainId": 43114,
+            "address": "0xcd82B8f5f145abb08f8c495BDB675d1Ac4D40Eb2",
             "decimals": 18,
             "name": "LUKSO Token",
             "symbol": "LYXe",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xcd82B8f5f145abb08f8c495BDB675d1Ac4D40Eb2/logo.png"
         },
         {
-            "address": "0x66fD97a78d8854fEc445cd1C80a07896B0b4851f",
             "chainId": 43114,
+            "address": "0x8a86e6dC6611c34d5c92fC563f426D2E378b3f1C",
             "decimals": 18,
             "name": "Lunch Money",
             "symbol": "LMY",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8a86e6dC6611c34d5c92fC563f426D2E378b3f1C/logo.png"
         },
         {
-            "address": "0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8",
             "chainId": 43114,
+            "address": "0x8CFD9b30B18B3aF9Ce905561F749626ef06B1717",
             "decimals": 18,
             "name": "MachiX Token",
             "symbol": "MCX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8CFD9b30B18B3aF9Ce905561F749626ef06B1717/logo.png"
         },
         {
-            "address": "0xB4d930279552397bbA2ee473229f89Ec245bc365",
             "chainId": 43114,
+            "address": "0xb0cb6B9C9B47a3974044AE906E8865165D2e0889",
             "decimals": 18,
             "name": "MahaDAO",
             "symbol": "MAHA",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xb0cb6B9C9B47a3974044AE906E8865165D2e0889/logo.png"
         },
         {
-            "address": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
             "chainId": 43114,
+            "address": "0x254Aa21D2996400b19CeE93623C307D6E973Ea3f",
             "decimals": 18,
             "name": "Mainframe Token",
             "symbol": "MFT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x254Aa21D2996400b19CeE93623C307D6E973Ea3f/logo.png"
         },
         {
-            "address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
             "chainId": 43114,
+            "address": "0x33d6584872635e1BA681Ad814B98b57198cf33eF",
             "decimals": 18,
             "name": "MANTRA DAO",
             "symbol": "OM",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x33d6584872635e1BA681Ad814B98b57198cf33eF/logo.png"
         },
         {
-            "address": "0x57B946008913B82E4dF85f501cbAeD910e58D26C",
             "chainId": 43114,
+            "address": "0xbeeA21cC5D10e21dF6aB42Bd2D5e748e4EF59293",
             "decimals": 18,
             "name": "Marlin POND",
             "symbol": "POND",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xbeeA21cC5D10e21dF6aB42Bd2D5e748e4EF59293/logo.png"
         },
         {
-            "address": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
             "chainId": 43114,
+            "address": "0x374C62a3B07350de41C4A95c4094474f84d7BF66",
             "decimals": 18,
             "name": "MATH Token",
             "symbol": "MATH",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x374C62a3B07350de41C4A95c4094474f84d7BF66/logo.png"
         },
         {
-            "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
             "chainId": 43114,
+            "address": "0x885ca6663E1E19DAD31c1e08D9958a2b8F538D53",
             "decimals": 18,
             "name": "Matic Token",
             "symbol": "MATIC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x885ca6663E1E19DAD31c1e08D9958a2b8F538D53/logo.png"
         },
         {
-            "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
             "chainId": 43114,
+            "address": "0xD4355F4608277a616111B35A77E6C58F4B4B69c6",
             "decimals": 18,
             "name": "MCDEX Token",
             "symbol": "MCB",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xD4355F4608277a616111B35A77E6C58F4B4B69c6/logo.png"
         },
         {
-            "address": "0x814e0908b12A99FeCf5BC101bB5d0b8B5cDf7d26",
             "chainId": 43114,
+            "address": "0x66a41BAD9103435c57E1dABE10093Dc5a19ee99f",
             "decimals": 18,
-            "name": "Measurable Data Toke",
+            "name": "Measurable Data Token",
             "symbol": "MDT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x66a41BAD9103435c57E1dABE10093Dc5a19ee99f/logo.png"
         },
         {
-            "address": "0x3218A02F8F8B5c3894ce30EB255F10Bcba13E654",
             "chainId": 43114,
+            "address": "0x0C452CCc765Ac4A5d90E40585487c482597dFDdE",
             "decimals": 18,
-            "name": "MegaCryptoPolis",
+            "name": "MegaCryptoPolis MEGA Token",
             "symbol": "MEGA",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x0C452CCc765Ac4A5d90E40585487c482597dFDdE/logo.png"
         },
         {
-            "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
             "chainId": 43114,
+            "address": "0x2bD2e0C3d39d6c82EaCA300958aa2E4be6740223",
             "decimals": 18,
             "name": "Melon Token",
             "symbol": "MLN",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x2bD2e0C3d39d6c82EaCA300958aa2E4be6740223/logo.png"
         },
         {
-            "address": "0x95172ccBe8344fecD73D0a30F54123652981BD6F",
             "chainId": 43114,
+            "address": "0xDC59a3AC96dc1e86bB93Ed0248fB4bA6127BA64c",
             "decimals": 18,
             "name": "Meridian Network",
             "symbol": "LOCK",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xDC59a3AC96dc1e86bB93Ed0248fB4bA6127BA64c/logo.png"
         },
         {
-            "address": "0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2",
             "chainId": 43114,
+            "address": "0x61EDA5B986b9da6A67a2a128e67ee7CED890DEAb",
             "decimals": 18,
             "name": "Meta",
             "symbol": "MTA",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x61EDA5B986b9da6A67a2a128e67ee7CED890DEAb/logo.png"
         },
         {
-            "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
             "chainId": 43114,
+            "address": "0x99B1b197D53511929A082EE66e7aC7E23257a4c4",
             "decimals": 18,
-            "name": "Meter Governance map",
+            "name": "Meter Governance mapped by Meter.io",
             "symbol": "eMTRG",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x99B1b197D53511929A082EE66e7aC7E23257a4c4/logo.png"
         },
         {
-            "address": "0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e",
             "chainId": 43114,
+            "address": "0x74F691fe2F89055cb1E641b840C8e7f12552dd6A",
             "decimals": 18,
             "name": "Metronome",
             "symbol": "MET",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x74F691fe2F89055cb1E641b840C8e7f12552dd6A/logo.png"
         },
         {
-            "address": "0x368B3a58B5f49392e5C9E4C998cb0bB966752E51",
             "chainId": 43114,
+            "address": "0x3C4dd53806347D37aF1F9CCA08C5aCA7363abADe",
             "decimals": 18,
             "name": "MIC",
             "symbol": "MIC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3C4dd53806347D37aF1F9CCA08C5aCA7363abADe/logo.png"
         },
         {
-            "address": "0x80c8C3dCfB854f9542567c8Dac3f44D709eBc1de",
             "chainId": 43114,
+            "address": "0x1A4a456DcB9415D6FBac1148A656BD93a78c43e1",
             "decimals": 18,
-            "name": "MilkyWay Token by Sp",
+            "name": "MilkyWay Token by SpaceSwap v2",
             "symbol": "MILK2",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1A4a456DcB9415D6FBac1148A656BD93a78c43e1/logo.png"
         },
         {
-            "address": "0x4D953cf077c0C95Ba090226E59A18FcF97db44EC",
             "chainId": 43114,
+            "address": "0xF553b0fA370E11d945D1eDA4267437C9e4C51D8a",
             "decimals": 18,
             "name": "MINISWAP",
             "symbol": "MINI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xF553b0fA370E11d945D1eDA4267437C9e4C51D8a/logo.png"
         },
         {
-            "address": "0x4b4D2e899658FB59b1D518b68fe836B100ee8958",
             "chainId": 43114,
+            "address": "0x7823dAa7A5B86dd4E7a54c1ae70A14cf15758316",
             "decimals": 18,
             "name": "MIS",
             "symbol": "MIS",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x7823dAa7A5B86dd4E7a54c1ae70A14cf15758316/logo.png"
         },
         {
-            "address": "0x6251E725CD45Fb1AF99354035a414A2C0890B929",
             "chainId": 43114,
+            "address": "0x77d208c2b37051957C2B7D88a3682C280d70e7e6",
             "decimals": 18,
             "name": "MixTrust",
             "symbol": "MXT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x77d208c2b37051957C2B7D88a3682C280d70e7e6/logo.png"
         },
         {
-            "address": "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
             "chainId": 43114,
+            "address": "0x4D06D5296c0BE7857a9C43B5EB1770909d40CB25",
             "decimals": 18,
             "name": "mStable USD",
             "symbol": "mUSD",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4D06D5296c0BE7857a9C43B5EB1770909d40CB25/logo.png"
         },
         {
-            "address": "0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC",
             "chainId": 43114,
+            "address": "0x3D7af5Cc0143402A65d0dDC7E4C559fed65AE78c",
             "decimals": 18,
             "name": "MyBit",
             "symbol": "MYB",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3D7af5Cc0143402A65d0dDC7E4C559fed65AE78c/logo.png"
         },
         {
-            "address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
             "chainId": 43114,
+            "address": "0xfe87Aba89d58da09d5bC13b4A1dC873C1b901806",
             "decimals": 18,
             "name": "Nexo",
             "symbol": "NEXO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xfe87Aba89d58da09d5bC13b4A1dC873C1b901806/logo.png"
         },
         {
-            "address": "0x2e2364966267B5D7D2cE6CD9A9B5bD19d9C7C6A9",
             "chainId": 43114,
+            "address": "0x3E6867bB936e83BC686A89fdBfab3FD0D6ee3DE8",
             "decimals": 18,
             "name": "NIX Bridge Token",
             "symbol": "NBT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3E6867bB936e83BC686A89fdBfab3FD0D6ee3DE8/logo.png"
         },
         {
-            "address": "0x20945cA1df56D237fD40036d47E866C7DcCD2114",
             "chainId": 43114,
+            "address": "0x6169F17c609D14F253d0d54a96df6eFD2A44147a",
             "decimals": 18,
             "name": "Nsure Network Token",
             "symbol": "Nsure",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x6169F17c609D14F253d0d54a96df6eFD2A44147a/logo.png"
         },
         {
-            "address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
             "chainId": 43114,
+            "address": "0x32141622A7C79790176670ffFcA17154678A9A24",
             "decimals": 18,
             "name": "NuCypher",
             "symbol": "NU",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x32141622A7C79790176670ffFcA17154678A9A24/logo.png"
         },
         {
-            "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
             "chainId": 43114,
+            "address": "0x57541c10591Df7568BDc9D93f769d44eAc1e3c3a",
             "decimals": 18,
             "name": "Numeraire",
             "symbol": "NMR",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x57541c10591Df7568BDc9D93f769d44eAc1e3c3a/logo.png"
         },
         {
-            "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
             "chainId": 43114,
+            "address": "0x0057371Cd534577b6040E140654DE0958116Cf3A",
             "decimals": 18,
             "name": "Ocean Token",
             "symbol": "OCEAN",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x0057371Cd534577b6040E140654DE0958116Cf3A/logo.png"
         },
         {
-            "address": "0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
             "chainId": 43114,
+            "address": "0xC0735F8b43B6879FED7070044211bFcd9C3d633B",
             "decimals": 18,
             "name": "Octo.fi",
             "symbol": "OCTO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC0735F8b43B6879FED7070044211bFcd9C3d633B/logo.png"
         },
         {
-            "address": "0x2baEcDf43734F22FD5c152DB08E3C27233F0c7d2",
             "chainId": 43114,
+            "address": "0x27850FcbCfF7DAFB16176144B9193C6D310DCF72",
             "decimals": 18,
             "name": "OM Token",
             "symbol": "OM",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x27850FcbCfF7DAFB16176144B9193C6D310DCF72/logo.png"
         },
         {
-            "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
             "chainId": 43114,
+            "address": "0x276C6670b97F22cE7Ad754b08CB330DECb6a3332",
             "decimals": 18,
             "name": "OMGToken",
             "symbol": "OMG",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x276C6670b97F22cE7Ad754b08CB330DECb6a3332/logo.png"
         },
         {
-            "address": "0xd341d1680Eeee3255b8C4c75bCCE7EB57f144dAe",
             "chainId": 43114,
+            "address": "0xbAeE145A92A0c7C2FEd63d62d61E9B7eAe0396d9",
             "decimals": 18,
             "name": "onG",
             "symbol": "ONG",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xbAeE145A92A0c7C2FEd63d62d61E9B7eAe0396d9/logo.png"
         },
         {
-            "address": "0x4FE5851C9af07df9e5AD8217aFAE1ea72737Ebda",
             "chainId": 43114,
+            "address": "0x2378B1EEb109bd40FF585AB9A92aC3Fd9E90cee3",
             "decimals": 18,
             "name": "Open Predict Token",
             "symbol": "OPT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x2378B1EEb109bd40FF585AB9A92aC3Fd9E90cee3/logo.png"
         },
         {
-            "address": "0x4c11249814f11b9346808179Cf06e71ac328c1b5",
             "chainId": 43114,
+            "address": "0xD9A0B28305951758b9CdBbf7e18CC85B868f973C",
             "decimals": 18,
             "name": "Oraichain Token",
             "symbol": "ORAI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xD9A0B28305951758b9CdBbf7e18CC85B868f973C/logo.png"
         },
         {
-            "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
             "chainId": 43114,
+            "address": "0x9A1712dBEd062dB70c6c4C235Be9dCd10a9Dac59",
             "decimals": 18,
             "name": "OriginToken",
             "symbol": "OGN",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x9A1712dBEd062dB70c6c4C235Be9dCd10a9Dac59/logo.png"
         },
         {
-            "address": "0xc3Eb2622190c57429aac3901808994443b64B466",
             "chainId": 43114,
+            "address": "0x2796213bd26CE2270839b6d40E8D5904d8cDAA42",
             "decimals": 18,
             "name": "ORO Token",
             "symbol": "ORO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x2796213bd26CE2270839b6d40E8D5904d8cDAA42/logo.png"
         },
         {
-            "address": "0x1A5F9352Af8aF974bFC03399e3767DF6370d82e4",
             "chainId": 43114,
+            "address": "0xe49403892253A3d7952A45d43C630126D0b8D1f2",
             "decimals": 18,
             "name": "OWL Token",
             "symbol": "OWL",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xe49403892253A3d7952A45d43C630126D0b8D1f2/logo.png"
         },
         {
-            "address": "0xF0FAC7104aAC544e4a7CE1A55ADF2B5a25c65bD1",
             "chainId": 43114,
+            "address": "0x5b1cdDC4e6C9E6864832954d0cF43f91952CD7B9",
             "decimals": 18,
             "name": "Pamp Network",
             "symbol": "PAMP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x5b1cdDC4e6C9E6864832954d0cF43f91952CD7B9/logo.png"
         },
         {
-            "address": "0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44",
             "chainId": 43114,
+            "address": "0xF6Ef95FaD0CdddfCCC312679779516107a980E0a",
             "decimals": 18,
             "name": "Panvala pan",
             "symbol": "PAN",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xF6Ef95FaD0CdddfCCC312679779516107a980E0a/logo.png"
         },
         {
-            "address": "0x1BeEF31946fbbb40B877a72E4ae04a8D1A5Cee06",
             "chainId": 43114,
+            "address": "0x53b464Bb9EfEBe9b314f97e631b47e1C0300FE21",
             "decimals": 18,
             "name": "Parachute",
             "symbol": "PAR",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x53b464Bb9EfEBe9b314f97e631b47e1C0300FE21/logo.png"
         },
         {
-            "address": "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc",
             "chainId": 43114,
+            "address": "0x54266edA68834321B5BB81a8A8a48d5459c92456",
             "decimals": 18,
             "name": "Pareto Network Token",
             "symbol": "PARETO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x54266edA68834321B5BB81a8A8a48d5459c92456/logo.png"
         },
         {
-            "address": "0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
             "chainId": 43114,
+            "address": "0x6A8E6794ab77C63c3C90A62F1088F16AC61F463D",
             "decimals": 18,
             "name": "Parsiq Token",
             "symbol": "PRQ",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x6A8E6794ab77C63c3C90A62F1088F16AC61F463D/logo.png"
         },
         {
-            "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
             "chainId": 43114,
+            "address": "0x1687b16087B576E403C8d6926fBc0798e48FD0de",
             "decimals": 18,
             "name": "Paxos Gold",
             "symbol": "PAXG",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1687b16087B576E403C8d6926fBc0798e48FD0de/logo.png"
         },
         {
-            "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
             "chainId": 43114,
+            "address": "0x403985fD6628E44b6fca9876575b9503cB80A47A",
             "decimals": 18,
             "name": "Paxos Standard",
             "symbol": "PAX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x403985fD6628E44b6fca9876575b9503cB80A47A/logo.png"
         },
         {
-            "address": "0x3C6ff50c9Ec362efa359317009428d52115fe643",
             "chainId": 43114,
+            "address": "0x02f8a8e78E02768A5c2f9Cf1Bfa8Ec2f821E869d",
             "decimals": 18,
             "name": "PeerEx Network",
             "symbol": "PERX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x02f8a8e78E02768A5c2f9Cf1Bfa8Ec2f821E869d/logo.png"
         },
         {
-            "address": "0xeca82185adCE47f39c684352B0439f030f860318",
             "chainId": 43114,
+            "address": "0x8f4Dee85B841723bdCEcdc9Ed68Cda662f56e82A",
             "decimals": 18,
             "name": "Perlin",
             "symbol": "PERL",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8f4Dee85B841723bdCEcdc9Ed68Cda662f56e82A/logo.png"
         },
         {
-            "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
             "chainId": 43114,
+            "address": "0x88Af8D172e64326A71C1a7756CB4F6125D98F2A5",
             "decimals": 18,
             "name": "Perpetual",
             "symbol": "PERP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x88Af8D172e64326A71C1a7756CB4F6125D98F2A5/logo.png"
         },
         {
-            "address": "0x6c5bA91642F10282b576d91922Ae6448C9d52f4E",
             "chainId": 43114,
+            "address": "0x5535483ed8781784b1b1cC431c4dc9c25D39eCB5",
             "decimals": 18,
             "name": "Phala",
             "symbol": "PHA",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x5535483ed8781784b1b1cC431c4dc9c25D39eCB5/logo.png"
         },
         {
-            "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
             "chainId": 43114,
+            "address": "0xD9eD8258c3ECBB5E4ECf3b91dc0ca693e80934CC",
             "decimals": 18,
             "name": "PickleToken",
             "symbol": "PICKLE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xD9eD8258c3ECBB5E4ECf3b91dc0ca693e80934CC/logo.png"
         },
         {
-            "address": "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17",
             "chainId": 43114,
+            "address": "0xD523c90aCb4415A48e1504BaAd3a2Aa8fd86dEF9",
             "decimals": 18,
             "name": "PILLAR",
             "symbol": "PLR",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xD523c90aCb4415A48e1504BaAd3a2Aa8fd86dEF9/logo.png"
         },
         {
-            "address": "0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
             "chainId": 43114,
+            "address": "0x3B295608d13083270214C0778624BCebCa5df3DA",
             "decimals": 18,
             "name": "Plasma",
             "symbol": "PPAY",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3B295608d13083270214C0778624BCebCa5df3DA/logo.png"
         },
         {
-            "address": "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb",
             "chainId": 43114,
+            "address": "0x5643c59d08d9ac382EeB224894608D52c7fcd908",
             "decimals": 18,
             "name": "PLOT",
             "symbol": "PLOT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x5643c59d08d9ac382EeB224894608D52c7fcd908/logo.png"
         },
         {
-            "address": "0xD8912C10681D8B21Fd3742244f44658dBA12264E",
             "chainId": 43114,
+            "address": "0x680e3f5d629ECF176150E343D9EfA1aA1062659D",
             "decimals": 18,
             "name": "Pluton",
             "symbol": "PLU",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x680e3f5d629ECF176150E343D9EfA1aA1062659D/logo.png"
         },
         {
-            "address": "0x9fBFed658919A896B5Dc7b00456Ce22D780f9B65",
             "chainId": 43114,
+            "address": "0xBc6e632244FD9a79e863B87841FFD9962B725895",
             "decimals": 18,
             "name": "PlutusDeFi",
             "symbol": "PLT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xBc6e632244FD9a79e863B87841FFD9962B725895/logo.png"
         },
         {
-            "address": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
             "chainId": 43114,
+            "address": "0xa4EFc8d7007851CFE5313c02aC2516f33f199364",
             "decimals": 18,
             "name": "pNetwork Token",
             "symbol": "PNT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa4EFc8d7007851CFE5313c02aC2516f33f199364/logo.png"
         },
         {
-            "address": "0x6758B7d441a9739b98552B373703d8d3d14f9e62",
             "chainId": 43114,
+            "address": "0x153446d731f6a23661BebCD3e86431c36bA440fB",
             "decimals": 18,
-            "name": "POA ERC20 on Foundat",
+            "name": "POA ERC20 on Foundation",
             "symbol": "POA20",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x153446d731f6a23661BebCD3e86431c36bA440fB/logo.png"
         },
         {
-            "address": "0x0D6ae2a429df13e44A07Cd2969E085e4833f64A0",
             "chainId": 43114,
+            "address": "0x3c09D70fB667e2B680d4FeE2951d6BCD3f8Fbaf9",
             "decimals": 18,
             "name": "PolkaBridge",
             "symbol": "PBR",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3c09D70fB667e2B680d4FeE2951d6BCD3f8Fbaf9/logo.png"
         },
         {
-            "address": "0x3C03b4EC9477809072FF9CC9292C9B25d4A8e6c6",
             "chainId": 43114,
+            "address": "0x606E714710b0426d3E786394Ada61d5B1492C39f",
             "decimals": 18,
             "name": "PolkaCover",
             "symbol": "CVR",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x606E714710b0426d3E786394Ada61d5B1492C39f/logo.png"
         },
         {
-            "address": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
             "chainId": 43114,
+            "address": "0xE1463E8991c8A62e64b77b5Fb6B22F190344C2A9",
             "decimals": 18,
             "name": "PolkastarterToken",
             "symbol": "POLS",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xE1463E8991c8A62e64b77b5Fb6B22F190344C2A9/logo.png"
         },
         {
-            "address": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
             "chainId": 43114,
+            "address": "0x1676C3D77ac75741678d6Ca28f288352a57D0973",
             "decimals": 18,
             "name": "Polymath",
             "symbol": "POLY",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1676C3D77ac75741678d6Ca28f288352a57D0973/logo.png"
         },
         {
-            "address": "0x26607aC599266b21d13c7aCF7942c7701a8b699c",
             "chainId": 43114,
+            "address": "0x606f5C16c01372C28345de54cf6F4ff901d934B6",
             "decimals": 18,
-            "name": "Power Index Pool Tok",
+            "name": "Power Index Pool Token",
             "symbol": "PIPT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x606f5C16c01372C28345de54cf6F4ff901d934B6/logo.png"
         },
         {
-            "address": "0xC57d533c50bC22247d49a368880fb49a1caA39F7",
             "chainId": 43114,
+            "address": "0x01cC32A282050740a88c43DAc0B56bf90f6435eF",
             "decimals": 18,
-            "name": "PowerTrade Fuel Toke",
+            "name": "PowerTrade Fuel Token",
             "symbol": "PTF",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x01cC32A282050740a88c43DAc0B56bf90f6435eF/logo.png"
         },
         {
-            "address": "0x556148562d5DdeB72545D7EC4B3eC8edc8F55Ba7",
             "chainId": 43114,
+            "address": "0x693656BE08A4C74236110ccdf4da42Ef31379E25",
             "decimals": 18,
             "name": "Predix Network",
             "symbol": "PRDX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x693656BE08A4C74236110ccdf4da42Ef31379E25/logo.png"
         },
         {
-            "address": "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41",
             "chainId": 43114,
+            "address": "0x2A5A930d00110a4970bC68cF4Bcb207588cA0D2d",
             "decimals": 18,
             "name": "Props Token",
             "symbol": "PROPS",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x2A5A930d00110a4970bC68cF4Bcb207588cA0D2d/logo.png"
         },
         {
-            "address": "0x5228a22e72ccC52d415EcFd199F99D0665E7733b",
             "chainId": 43114,
+            "address": "0xe6338226c321f3089c645ab526f844713C2F7Be3",
             "decimals": 18,
             "name": "pTokens BTC",
             "symbol": "pBTC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xe6338226c321f3089c645ab526f844713C2F7Be3/logo.png"
         },
         {
-            "address": "0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3",
             "chainId": 43114,
+            "address": "0x07d83B7101c540fcC1720c3d51923f218Ae9b6Ac",
             "decimals": 18,
             "name": "Pundi X Token",
             "symbol": "NPXS",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x07d83B7101c540fcC1720c3d51923f218Ae9b6Ac/logo.png"
         },
         {
-            "address": "0x3166C570935a7D8554c8f4eA792ff965D2EFe1f2",
             "chainId": 43114,
+            "address": "0xc57719864387B11B8915eDE8f84A8d2CCA282451",
             "decimals": 18,
-            "name": "Q DAO Governance tok",
+            "name": "Q DAO Governance token v1.0",
             "symbol": "QDAO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xc57719864387B11B8915eDE8f84A8d2CCA282451/logo.png"
         },
         {
-            "address": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
             "chainId": 43114,
+            "address": "0xA8990B4FA2ba67f3B14814Be106B88f251397D3F",
             "decimals": 18,
             "name": "QuadrantProtocol",
             "symbol": "eQUAD",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xA8990B4FA2ba67f3B14814Be106B88f251397D3F/logo.png"
         },
         {
-            "address": "0x4a220E6096B25EADb88358cb44068A3248254675",
             "chainId": 43114,
+            "address": "0x4fcC1E009ef85B35d39B3Fe533d27751e4CFa8f7",
             "decimals": 18,
             "name": "Quant",
             "symbol": "QNT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4fcC1E009ef85B35d39B3Fe533d27751e4CFa8f7/logo.png"
         },
         {
-            "address": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
             "chainId": 43114,
+            "address": "0xa9B41c348717F755101189b907F37Ee4ec703E8C",
             "decimals": 18,
             "name": "QuarkChain Token",
             "symbol": "QKC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa9B41c348717F755101189b907F37Ee4ec703E8C/logo.png"
         },
         {
-            "address": "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8",
             "chainId": 43114,
+            "address": "0xBB9a99de392Fb34d9f4F59c2b7Ea72cE7f1570e4",
             "decimals": 18,
             "name": "QuiverX",
             "symbol": "QRX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xBB9a99de392Fb34d9f4F59c2b7Ea72cE7f1570e4/logo.png"
         },
         {
-            "address": "0xE5a3229CCb22b6484594973A03a3851dCd948756",
             "chainId": 43114,
+            "address": "0x4732Cc19937e4DaF4BDcA6698f2552b2E9F04813",
             "decimals": 18,
             "name": "RAE Token",
             "symbol": "RAE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4732Cc19937e4DaF4BDcA6698f2552b2E9F04813/logo.png"
         },
         {
-            "address": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6",
             "chainId": 43114,
+            "address": "0x4A8918352cCB78CF6bd34Bf89D501d5578ee6504",
             "decimals": 18,
             "name": "Raiden Token",
             "symbol": "RDN",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4A8918352cCB78CF6bd34Bf89D501d5578ee6504/logo.png"
         },
         {
-            "address": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
             "chainId": 43114,
+            "address": "0x182795eE69b458930633A60DA79E8F9787A4828c",
             "decimals": 18,
             "name": "RAMP DEFI",
             "symbol": "RAMP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x182795eE69b458930633A60DA79E8F9787A4828c/logo.png"
         },
         {
-            "address": "0xD291E7a03283640FDc51b121aC401383A46cC623",
             "chainId": 43114,
+            "address": "0x337e4Ff263BC2E8dFb9a1a8a1AF883f0AdF953f0",
             "decimals": 18,
-            "name": "Rari Governance Toke",
+            "name": "Rari Governance Token",
             "symbol": "RGT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x337e4Ff263BC2E8dFb9a1a8a1AF883f0AdF953f0/logo.png"
         },
         {
-            "address": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
             "chainId": 43114,
+            "address": "0x10D56b868A32670f27478Ac628a2376A235F9bB8",
             "decimals": 18,
             "name": "Rarible",
             "symbol": "RARI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x10D56b868A32670f27478Ac628a2376A235F9bB8/logo.png"
         },
         {
-            "address": "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
             "chainId": 43114,
+            "address": "0x90557E63339cAed393ee15Cb6236Bb746DeD11D3",
             "decimals": 18,
             "name": "Reef.finance",
             "symbol": "REEF",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x90557E63339cAed393ee15Cb6236Bb746DeD11D3/logo.png"
         },
         {
-            "address": "0xb6c4267C4877BB0D6b1685Cfd85b0FBe82F105ec",
             "chainId": 43114,
+            "address": "0x8FF91E20Aab3D5A21b0c5ecd45FC942c52f578b3",
             "decimals": 18,
             "name": "Relevant",
             "symbol": "REL",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8FF91E20Aab3D5A21b0c5ecd45FC942c52f578b3/logo.png"
         },
         {
-            "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
             "chainId": 43114,
+            "address": "0xAc6C38f2DeC391b478144Ae7F078D08B08d0a284",
             "decimals": 18,
             "name": "Republic Token",
             "symbol": "REN",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xAc6C38f2DeC391b478144Ae7F078D08B08d0a284/logo.png"
         },
         {
-            "address": "0x221657776846890989a759BA2973e427DfF5C9bB",
             "chainId": 43114,
+            "address": "0xBe7AFAa2833d7F461D8751f1f46bF259fc4459C6",
             "decimals": 18,
             "name": "Reputation",
             "symbol": "REPv2",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xBe7AFAa2833d7F461D8751f1f46bF259fc4459C6/logo.png"
         },
         {
-            "address": "0x1985365e9f78359a9B6AD760e32412f4a445E862",
             "chainId": 43114,
+            "address": "0xb9924372Ddc7e7F13757C8B9ae0F03906a684D65",
             "decimals": 18,
             "name": "Reputation",
             "symbol": "REP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xb9924372Ddc7e7F13757C8B9ae0F03906a684D65/logo.png"
         },
         {
-            "address": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a",
             "chainId": 43114,
+            "address": "0x8E729Ad67D81d220B7aB6e00440f785bD08187fE",
             "decimals": 18,
             "name": "Request Token",
             "symbol": "REQ",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8E729Ad67D81d220B7aB6e00440f785bD08187fE/logo.png"
         },
         {
-            "address": "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8",
             "chainId": 43114,
+            "address": "0x91C20a30ebA9795BBdEd46df9ad5b215DFa04fcD",
             "decimals": 18,
             "name": "Reserve Rights",
             "symbol": "RSR",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x91C20a30ebA9795BBdEd46df9ad5b215DFa04fcD/logo.png"
         },
         {
-            "address": "0xaf9f549774ecEDbD0966C52f250aCc548D3F36E5",
             "chainId": 43114,
+            "address": "0x3361a925eCBa04e4De70C0Fa6310e710a2079a28",
             "decimals": 18,
             "name": "Rio Fuel Token",
             "symbol": "RFuel",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3361a925eCBa04e4De70C0Fa6310e710a2079a28/logo.png"
         },
         {
-            "address": "0xF970b8E36e23F7fC3FD752EeA86f8Be8D83375A6",
             "chainId": 43114,
+            "address": "0xd2427C8a8dA88c0Ea24370A971Dad6EEd2ff63b7",
             "decimals": 18,
-            "name": "Ripio Credit Network",
+            "name": "Ripio Credit Network Token",
             "symbol": "RCN",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xd2427C8a8dA88c0Ea24370A971Dad6EEd2ff63b7/logo.png"
         },
         {
-            "address": "0x08AD83D779BDf2BBE1ad9cc0f78aa0D24AB97802",
             "chainId": 43114,
+            "address": "0x0Cb3Fe222303e1419EE73216e90322ae4635Fc5E",
             "decimals": 18,
-            "name": "Robonomics Web Servi",
+            "name": "Robonomics Web Services :: V1",
             "symbol": "RWS",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x0Cb3Fe222303e1419EE73216e90322ae4635Fc5E/logo.png"
         },
         {
-            "address": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
             "chainId": 43114,
+            "address": "0x5cDAD843078930C8fEB1d50bE474acCf11B7ada1",
             "decimals": 18,
             "name": "Rocket Pool",
             "symbol": "RPL",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x5cDAD843078930C8fEB1d50bE474acCf11B7ada1/logo.png"
         },
         {
-            "address": "0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a",
             "chainId": 43114,
+            "address": "0x052c1e9de172366F30F300e805707a6520615977",
             "decimals": 18,
             "name": "ROOK",
             "symbol": "ROOK",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x052c1e9de172366F30F300e805707a6520615977/logo.png"
         },
         {
-            "address": "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3",
             "chainId": 43114,
+            "address": "0x88f87bb181cd974f3AaE5002F5E6D4E1EB463f9C",
             "decimals": 18,
             "name": "Rubic",
             "symbol": "RBC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x88f87bb181cd974f3AaE5002F5E6D4E1EB463f9C/logo.png"
         },
         {
-            "address": "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244",
             "chainId": 43114,
+            "address": "0x26526EBD75Ed27d5B553d06d6bcE8210bA0bc50b",
             "decimals": 18,
             "name": "RvT",
             "symbol": "RVT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x26526EBD75Ed27d5B553d06d6bcE8210bA0bc50b/logo.png"
         },
         {
-            "address": "0x250a3500f48666561386832f1F1f1019b89a2699",
             "chainId": 43114,
+            "address": "0x2a1F8a24575261919f839f4254FdE9bc4b8edE7A",
             "decimals": 18,
             "name": "SAFE2",
             "symbol": "SAFE2",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x2a1F8a24575261919f839f4254FdE9bc4b8edE7A/logo.png"
         },
         {
-            "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
             "chainId": 43114,
+            "address": "0xA29d60Ef9706571bBDa9b505A117e1D36a0D683C",
             "decimals": 18,
             "name": "SAND",
             "symbol": "SAND",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xA29d60Ef9706571bBDa9b505A117e1D36a0D683C/logo.png"
         },
         {
-            "address": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098",
             "chainId": 43114,
+            "address": "0x8ae71C763700F22f1bb137F1D8767826d7f02d3a",
             "decimals": 18,
-            "name": "SANtiment network to",
+            "name": "SANtiment network token",
             "symbol": "SAN",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8ae71C763700F22f1bb137F1D8767826d7f02d3a/logo.png"
         },
         {
-            "address": "0x4CC19356f2D37338b9802aa8E8fc58B0373296E7",
             "chainId": 43114,
+            "address": "0x858950767B333d45B90C28709e97605e1829f907",
             "decimals": 18,
             "name": "SelfKey",
             "symbol": "KEY",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x858950767B333d45B90C28709e97605e1829f907/logo.png"
         },
         {
-            "address": "0x6006FC2a849fEdABa8330ce36F5133DE01F96189",
             "chainId": 43114,
+            "address": "0x0680298EEA69e413eD02b393Fc269C2757033Ab0",
             "decimals": 18,
-            "name": "SHAKE token by Space",
+            "name": "SHAKE token by SpaceSwap v2",
             "symbol": "SHAKE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x0680298EEA69e413eD02b393Fc269C2757033Ab0/logo.png"
         },
         {
-            "address": "0xe25b0BBA01Dc5630312B6A21927E578061A13f55",
             "chainId": 43114,
+            "address": "0xCCD9a2fa0A31506E5D881981B702e9476feFAE56",
             "decimals": 18,
             "name": "ShipChain SHIP",
             "symbol": "SHIP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xCCD9a2fa0A31506E5D881981B702e9476feFAE56/logo.png"
         },
         {
-            "address": "0x9B02dD390a603Add5c07f9fd9175b7DABE8D63B7",
             "chainId": 43114,
+            "address": "0xDCd9b9b00a7bA3afb6E8F5058945a1A946810D29",
             "decimals": 18,
             "name": "Shopping.io",
             "symbol": "SPI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xDCd9b9b00a7bA3afb6E8F5058945a1A946810D29/logo.png"
         },
         {
-            "address": "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA",
             "chainId": 43114,
+            "address": "0x7De7dFE1A594BCBab1C0cd2AE0a530A019cE14Ed",
             "decimals": 18,
             "name": "Simple Token",
             "symbol": "ST",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x7De7dFE1A594BCBab1C0cd2AE0a530A019cE14Ed/logo.png"
         },
         {
-            "address": "0x68d57c9a1C35f63E2c83eE8e49A64e9d70528D25",
             "chainId": 43114,
+            "address": "0x3365A191353a7670CaAC8B4BE19C2F34DcD07320",
             "decimals": 18,
             "name": "SIRIN",
             "symbol": "SRN",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3365A191353a7670CaAC8B4BE19C2F34DcD07320/logo.png"
         },
         {
-            "address": "0xfe9A29aB92522D14Fc65880d817214261D8479AE",
             "chainId": 43114,
+            "address": "0x40eB65be917e7A5AE529B2e1279E4b548A36C465",
             "decimals": 18,
             "name": "SnowSwap",
             "symbol": "SNOW",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x40eB65be917e7A5AE529B2e1279E4b548A36C465/logo.png"
         },
         {
-            "address": "0x40FD72257597aA14C7231A7B1aaa29Fce868F677",
             "chainId": 43114,
+            "address": "0x307A2a7127429f0C24c607E4633d17B6E98E8372",
             "decimals": 18,
             "name": "Sora Token",
             "symbol": "XOR",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x307A2a7127429f0C24c607E4633d17B6E98E8372/logo.png"
         },
         {
-            "address": "0xe88f8313e61A97cEc1871EE37fBbe2a8bf3ed1E4",
             "chainId": 43114,
+            "address": "0x7583FD3Aa918896700F4F106Df7387e1943a31aa",
             "decimals": 18,
             "name": "Sora Validator Token",
             "symbol": "VAL",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x7583FD3Aa918896700F4F106Df7387e1943a31aa/logo.png"
         },
         {
-            "address": "0x86ed939B500E121C0C5f493F399084Db596dAd20",
             "chainId": 43114,
+            "address": "0x9E692659CdEDf13e85eADC38fCf7bC9F6329Db69",
             "decimals": 18,
             "name": "SpaceChainV2",
             "symbol": "SPC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x9E692659CdEDf13e85eADC38fCf7bC9F6329Db69/logo.png"
         },
         {
-            "address": "0x42d6622deCe394b54999Fbd73D108123806f6a18",
             "chainId": 43114,
+            "address": "0xAdcE0b08127EFd11d4A6CDAA82feDe77b0Fa57F9",
             "decimals": 18,
             "name": "SPANK",
             "symbol": "SPANK",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xAdcE0b08127EFd11d4A6CDAA82feDe77b0Fa57F9/logo.png"
         },
         {
-            "address": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
             "chainId": 43114,
+            "address": "0xC386282f66c090A1e42c39e83dBD2c2d447dE506",
             "decimals": 18,
             "name": "Spice",
             "symbol": "SFI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC386282f66c090A1e42c39e83dBD2c2d447dE506/logo.png"
         },
         {
-            "address": "0x1fDaB294EDA5112B7d066ED8F2E4E562D5bCc664",
             "chainId": 43114,
+            "address": "0x9F7841A719e26cE4Ab7374806857f91C83F05f33",
             "decimals": 18,
             "name": "Spice",
             "symbol": "SPICE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x9F7841A719e26cE4Ab7374806857f91C83F05f33/logo.png"
         },
         {
-            "address": "0x1dEa979ae76f26071870F824088dA78979eb91C8",
             "chainId": 43114,
+            "address": "0x3BfCDB1Ec986430ffF0e35C00D71888D305E48f3",
             "decimals": 18,
             "name": "SPINDLE",
             "symbol": "SPD",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3BfCDB1Ec986430ffF0e35C00D71888D305E48f3/logo.png"
         },
         {
-            "address": "0xB987D48Ed8f2C468D52D6405624EADBa5e76d723",
             "chainId": 43114,
+            "address": "0x5a21a9e09667A67a898dE061D4bC61e92f20404e",
             "decimals": 18,
             "name": "Stabilize Token",
             "symbol": "STBZ",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x5a21a9e09667A67a898dE061D4bC61e92f20404e/logo.png"
         },
         {
-            "address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
             "chainId": 43114,
+            "address": "0x540641C9B0fcb979496A8c03C711033239C841d5",
             "decimals": 18,
             "name": "STAKE",
             "symbol": "STAKE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x540641C9B0fcb979496A8c03C711033239C841d5/logo.png"
         },
         {
-            "address": "0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F",
             "chainId": 43114,
+            "address": "0xC19CD5D80B52118A99B23941Eaf1bb58Bb79f1fa",
             "decimals": 18,
             "name": "Stake DAO Token",
             "symbol": "SDT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC19CD5D80B52118A99B23941Eaf1bb58Bb79f1fa/logo.png"
         },
         {
-            "address": "0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
             "chainId": 43114,
+            "address": "0x8194f4FE1fb50A945eB5dB226689066BE5E208D4",
             "decimals": 18,
             "name": "Statera",
             "symbol": "STA",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8194f4FE1fb50A945eB5dB226689066BE5E208D4/logo.png"
         },
         {
-            "address": "0xb4058411967D5046f3510943103805be61f0600E",
             "chainId": 43114,
+            "address": "0x571FB151CC10F76d5A9a4b48f6D568Fb7E1eEbF8",
             "decimals": 18,
             "name": "STONK",
             "symbol": "STONK",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x571FB151CC10F76d5A9a4b48f6D568Fb7E1eEbF8/logo.png"
         },
         {
-            "address": "0xbE9375C6a420D2eEB258962efB95551A5b722803",
             "chainId": 43114,
+            "address": "0xD6C7f1C0b553B820739A9bEFa30e1A4990DB67dC",
             "decimals": 18,
             "name": "StormX",
             "symbol": "STMX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xD6C7f1C0b553B820739A9bEFa30e1A4990DB67dC/logo.png"
         },
         {
-            "address": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
             "chainId": 43114,
+            "address": "0x232F79C05CB34de19C79104068E76452B624baB3",
             "decimals": 18,
             "name": "Stox",
             "symbol": "STX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x232F79C05CB34de19C79104068E76452B624baB3/logo.png"
         },
         {
-            "address": "0x0E22734e078d6e399BCeE40a549DB591C4EA46cB",
             "chainId": 43114,
+            "address": "0xA62CBCB4F5485Ee6EF6B44083c561f9E1f2B740a",
             "decimals": 18,
             "name": "Streamity",
             "symbol": "STM",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xA62CBCB4F5485Ee6EF6B44083c561f9E1f2B740a/logo.png"
         },
         {
-            "address": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023",
             "chainId": 43114,
+            "address": "0x7b73CEEed704556355D03aF8888da3bCD4434CF9",
             "decimals": 18,
             "name": "Streamr DATAcoin",
             "symbol": "DATA",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x7b73CEEed704556355D03aF8888da3bCD4434CF9/logo.png"
         },
         {
-            "address": "0x990f341946A3fdB507aE7e52d17851B87168017c",
             "chainId": 43114,
+            "address": "0xCf68248eeF35b725512724178Da55ad7DB59A5F1",
             "decimals": 18,
             "name": "Strong",
             "symbol": "STRONG",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xCf68248eeF35b725512724178Da55ad7DB59A5F1/logo.png"
         },
         {
-            "address": "0xEa319e87Cf06203DAe107Dd8E5672175e3Ee976c",
             "chainId": 43114,
+            "address": "0xfa0bDf9dF8bb8b3d7687a44dAD2F69Bc7a7B294f",
             "decimals": 18,
             "name": "SURF.Finance",
             "symbol": "SURF",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xfa0bDf9dF8bb8b3d7687a44dAD2F69Bc7a7B294f/logo.png"
         },
         {
-            "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
             "chainId": 43114,
+            "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
             "decimals": 18,
             "name": "SushiToken",
             "symbol": "SUSHI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc/logo.png"
         },
         {
-            "address": "0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6",
             "chainId": 43114,
+            "address": "0xE8ddE6E36ae86E3c61Dc13DFf908B4a12d50F754",
             "decimals": 18,
             "name": "Swag Token",
             "symbol": "SWAG",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xE8ddE6E36ae86E3c61Dc13DFf908B4a12d50F754/logo.png"
         },
         {
-            "address": "0xBa21Ef4c9f433Ede00badEFcC2754B8E74bd538A",
             "chainId": 43114,
+            "address": "0x733793e8F93afD40d9322a4FBA46de661e4F8B83",
             "decimals": 18,
             "name": "Swapfolio",
             "symbol": "SWFL",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x733793e8F93afD40d9322a4FBA46de661e4F8B83/logo.png"
         },
         {
-            "address": "0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
             "chainId": 43114,
+            "address": "0x3AfAD3EB65DeAf28f594958717530bC66D6Cdd1c",
             "decimals": 18,
             "name": "Swipe",
             "symbol": "SXP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3AfAD3EB65DeAf28f594958717530bC66D6Cdd1c/logo.png"
         },
         {
-            "address": "0xD6a55C63865AffD67E2FB9f284F87b7a9E5FF3bD",
             "chainId": 43114,
+            "address": "0xCff97feeC839C59BA94FA453D47263a9Cf4d4C28",
             "decimals": 18,
             "name": "Switch",
             "symbol": "ESH",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xCff97feeC839C59BA94FA453D47263a9Cf4d4C28/logo.png"
         },
         {
-            "address": "0x1695936d6a953df699C38CA21c2140d497C08BD9",
             "chainId": 43114,
+            "address": "0x09f60a231C989d0c5AdC9d3609936A3409885Bd0",
             "decimals": 18,
             "name": "SynLev",
             "symbol": "SYN",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x09f60a231C989d0c5AdC9d3609936A3409885Bd0/logo.png"
         },
         {
-            "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
             "chainId": 43114,
+            "address": "0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9",
             "decimals": 18,
-            "name": "Synthetix Network To",
+            "name": "Synthetix Network Token",
             "symbol": "SNX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9/logo.png"
         },
         {
-            "address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
             "chainId": 43114,
+            "address": "0x1c24D4ef397F6F8c80403f52E9D11Bef1D129a93",
             "decimals": 18,
             "name": "tBTC",
             "symbol": "TBTC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1c24D4ef397F6F8c80403f52E9D11Bef1D129a93/logo.png"
         },
         {
-            "address": "0x1453Dbb8A29551ADe11D89825CA812e05317EAEB",
             "chainId": 43114,
+            "address": "0x9D8CA87A15230b112D90f9eEE7C1C6fDAB92cAed",
             "decimals": 18,
             "name": "Tendies Token",
             "symbol": "TEND",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x9D8CA87A15230b112D90f9eEE7C1C6fDAB92cAed/logo.png"
         },
         {
-            "address": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280",
             "chainId": 43114,
+            "address": "0xBdFc6443428DEcf3cCDc7472DF5d96c2FA8C2E70",
             "decimals": 18,
             "name": "TenX Pay Token",
             "symbol": "PAY",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xBdFc6443428DEcf3cCDc7472DF5d96c2FA8C2E70/logo.png"
         },
         {
-            "address": "0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988",
             "chainId": 43114,
+            "address": "0xbE53F019a8786227E3D258A47a0D96BCf24A09A6",
             "decimals": 18,
             "name": "Terra Virtua Kolect",
             "symbol": "TVK",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xbE53F019a8786227E3D258A47a0D96BCf24A09A6/logo.png"
         },
         {
-            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "chainId": 43114,
+            "address": "0xde3A24028580884448a5397872046a019649b084",
             "decimals": 6,
             "name": "Tether USD",
             "symbol": "USDT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xde3A24028580884448a5397872046a019649b084/logo.png"
         },
         {
-            "address": "0x3155BA85D5F96b2d030a4966AF206230e46849cb",
             "chainId": 43114,
+            "address": "0x390ba0fb0Bd3Aa2a5484001606329701148074e6",
             "decimals": 18,
             "name": "THORChain ETH.RUNE",
             "symbol": "RUNE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x390ba0fb0Bd3Aa2a5484001606329701148074e6/logo.png"
         },
         {
-            "address": "0x3A92bD396aEf82af98EbC0Aa9030D25a23B11C6b",
             "chainId": 43114,
+            "address": "0xbAb918cfBD3c53Ce1516E6AA97c8342B15c26BcC",
             "decimals": 18,
             "name": "Tokenbox",
             "symbol": "TBX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xbAb918cfBD3c53Ce1516E6AA97c8342B15c26BcC/logo.png"
         },
         {
-            "address": "0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa",
             "chainId": 43114,
+            "address": "0x7657F9ee5f31868CcaC0EC4306a92B0E2F5660d2",
             "decimals": 18,
             "name": "TomoChain",
             "symbol": "TOMOE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x7657F9ee5f31868CcaC0EC4306a92B0E2F5660d2/logo.png"
         },
         {
-            "address": "0x77777FeDdddFfC19Ff86DB637967013e6C6A116C",
             "chainId": 43114,
+            "address": "0x7CCF19824c351e57C00633b46bbbff495E12d89d",
             "decimals": 18,
             "name": "TornadoCash",
             "symbol": "TORN",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x7CCF19824c351e57C00633b46bbbff495E12d89d/logo.png"
         },
         {
-            "address": "0x220B71671b649c03714dA9c621285943f3cbcDC6",
             "chainId": 43114,
+            "address": "0xf981547a1D9A0c59C9aba1e2b826BF01a2e5E263",
             "decimals": 18,
             "name": "TosDis",
             "symbol": "DIS",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf981547a1D9A0c59C9aba1e2b826BF01a2e5E263/logo.png"
         },
         {
-            "address": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F",
             "chainId": 43114,
+            "address": "0xdEA3Da33bDee64487358DB66d9AbC9EC256D1BFb",
             "decimals": 18,
             "name": "Trace Token",
             "symbol": "TRAC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xdEA3Da33bDee64487358DB66d9AbC9EC256D1BFb/logo.png"
         },
         {
-            "address": "0xb0280743b44bF7db4B6bE482b2Ba7b75E5dA096C",
             "chainId": 43114,
+            "address": "0x6b944c575376460edC27Be19c999654E5982D971",
             "decimals": 18,
             "name": "Transcodium",
             "symbol": "TNS",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x6b944c575376460edC27Be19c999654E5982D971/logo.png"
         },
         {
-            "address": "0xc3dD23A0a854b4f9aE80670f528094E9Eb607CCb",
             "chainId": 43114,
+            "address": "0x3a2d191AE83223ed0668d9AAF180Be147Ec05ad3",
             "decimals": 18,
             "name": "Trendering",
             "symbol": "TRND",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3a2d191AE83223ed0668d9AAF180Be147Ec05ad3/logo.png"
         },
         {
-            "address": "0x00006100F7090010005F1bd7aE6122c3C2CF0090",
             "chainId": 43114,
+            "address": "0x82913383A48712C6A876E611A0412395B86e74B1",
             "decimals": 18,
             "name": "TrueAUD",
             "symbol": "TAUD",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x82913383A48712C6A876E611A0412395B86e74B1/logo.png"
         },
         {
-            "address": "0x00000100F2A2bd000715001920eB70D229700085",
             "chainId": 43114,
+            "address": "0xbf65c0f333954EBC49aab45fB6F04Bee27F72495",
             "decimals": 18,
             "name": "TrueCAD",
             "symbol": "TCAD",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xbf65c0f333954EBC49aab45fB6F04Bee27F72495/logo.png"
         },
         {
-            "address": "0x00000000441378008EA67F4284A57932B1c000a5",
             "chainId": 43114,
+            "address": "0x9018775d36d3e39AE5d88a5F502d4cBe430734C5",
             "decimals": 18,
             "name": "TrueGBP",
             "symbol": "TGBP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x9018775d36d3e39AE5d88a5F502d4cBe430734C5/logo.png"
         },
         {
-            "address": "0x0000852600CEB001E08e00bC008be620d60031F2",
             "chainId": 43114,
+            "address": "0xc8Eb95dac0033024B4b3fc87569824C4416F495d",
             "decimals": 18,
             "name": "TrueHKD",
             "symbol": "THKD",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xc8Eb95dac0033024B4b3fc87569824C4416F495d/logo.png"
         },
         {
-            "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
             "chainId": 43114,
+            "address": "0xc458770B5fA66f4DF1498c3D824261D5f5EC3582",
             "decimals": 18,
             "name": "TrueUSD",
             "symbol": "TUSD",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xc458770B5fA66f4DF1498c3D824261D5f5EC3582/logo.png"
         },
         {
-            "address": "0x57700244B20f84799a31c6C96DadFF373ca9D6c5",
             "chainId": 43114,
+            "address": "0x0B483a7E8119d9f9FbFF4a86cd751c51B6a81af9",
             "decimals": 18,
             "name": "TRUST DAO",
             "symbol": "TRUST",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x0B483a7E8119d9f9FbFF4a86cd751c51B6a81af9/logo.png"
         },
         {
-            "address": "0x679131F591B4f369acB8cd8c51E68596806c3916",
             "chainId": 43114,
+            "address": "0xC394FBa894e6cD201478BC0F2EF121Acb3182EB4",
             "decimals": 18,
-            "name": "Trustlines Network T",
+            "name": "Trustlines Network Token",
             "symbol": "TLN",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC394FBa894e6cD201478BC0F2EF121Acb3182EB4/logo.png"
         },
         {
-            "address": "0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
             "chainId": 43114,
+            "address": "0x17908a369a1884Ce287Bf79c269a16F0Fb84082E",
             "decimals": 18,
             "name": "TrustSwap Token",
             "symbol": "SWAP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x17908a369a1884Ce287Bf79c269a16F0Fb84082E/logo.png"
         },
         {
-            "address": "0xE48972fCd82a274411c01834e2f031D4377Fa2c0",
             "chainId": 43114,
+            "address": "0x3F6372f530203daA26eF31F55017a36d6f7405E5",
             "decimals": 18,
             "name": "TwoKeyEconomy",
             "symbol": "2KEY",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3F6372f530203daA26eF31F55017a36d6f7405E5/logo.png"
         },
         {
-            "address": "0x79256DB1BDB6259315a1a3D7Dd237F69cADFd8FC",
             "chainId": 43114,
+            "address": "0xFb59DE6961D7D7D153bb82FCBCc2a7F5Da8Db56D",
             "decimals": 18,
             "name": "Typhoon",
             "symbol": "PHOON",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xFb59DE6961D7D7D153bb82FCBCc2a7F5Da8Db56D/logo.png"
         },
         {
-            "address": "0x12f649A9E821F90BB143089a6e56846945892ffB",
             "chainId": 43114,
+            "address": "0xeaa4F0C8bDC6109C92f0A5bE88A035ee11D40928",
             "decimals": 18,
             "name": "uDOO",
             "symbol": "uDOO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xeaa4F0C8bDC6109C92f0A5bE88A035ee11D40928/logo.png"
         },
         {
-            "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
             "chainId": 43114,
+            "address": "0xC84d7bfF2555955b44BDF6A307180810412D751B",
             "decimals": 18,
             "name": "UMA Voting Token v1",
             "symbol": "UMA",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC84d7bfF2555955b44BDF6A307180810412D751B/logo.png"
         },
         {
-            "address": "0xbaA70614C7AAfB568a93E62a98D55696bcc85DFE",
             "chainId": 43114,
+            "address": "0x8C32D46C073694045E8409251BE1FFD6720a94F3",
             "decimals": 18,
             "name": "UniCap.finance",
             "symbol": "UCAP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8C32D46C073694045E8409251BE1FFD6720a94F3/logo.png"
         },
         {
-            "address": "0xf29e46887FFAE92f1ff87DfE39713875Da541373",
             "chainId": 43114,
+            "address": "0xD084b89B8f04f3E2360EBd600360C358aA122BfB",
             "decimals": 18,
             "name": "UniCrypt",
             "symbol": "UNC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xD084b89B8f04f3E2360EBd600360C358aA122BfB/logo.png"
         },
         {
-            "address": "0x0fF6ffcFDa92c53F615a4A75D982f399C989366b",
             "chainId": 43114,
+            "address": "0xF8342EBdc7C4860Fe16eaB3318ddA110305F6597",
             "decimals": 18,
             "name": "Unilayer",
             "symbol": "LAYER",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xF8342EBdc7C4860Fe16eaB3318ddA110305F6597/logo.png"
         },
         {
-            "address": "0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
             "chainId": 43114,
+            "address": "0xF5182C77B4a5Dd11a59a83FB54aBaf7Dd3099041",
             "decimals": 18,
-            "name": "UniLend Finance Toke",
+            "name": "UniLend Finance Token",
             "symbol": "UFT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xF5182C77B4a5Dd11a59a83FB54aBaf7Dd3099041/logo.png"
         },
         {
-            "address": "0xF2f9A7e93f845b3ce154EfbeB64fB9346FCCE509",
             "chainId": 43114,
+            "address": "0xFBD70543a1456ECa6570743256dc2D6E5CE43a2e",
             "decimals": 18,
             "name": "UniPower",
             "symbol": "POWER",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xFBD70543a1456ECa6570743256dc2D6E5CE43a2e/logo.png"
         },
         {
-            "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
             "chainId": 43114,
+            "address": "0xf39f9671906d8630812f9d9863bBEf5D523c84Ab",
             "decimals": 18,
             "name": "Uniswap",
             "symbol": "UNI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf39f9671906d8630812f9d9863bBEf5D523c84Ab/logo.png"
         },
         {
-            "address": "0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1",
             "chainId": 43114,
+            "address": "0xc95d97181857469f7d3CcACB20a84fC0Dfd69a1b",
             "decimals": 18,
             "name": "UniTrade",
             "symbol": "TRADE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xc95d97181857469f7d3CcACB20a84fC0Dfd69a1b/logo.png"
         },
         {
-            "address": "0x07597255910a51509CA469568B048F2597E72504",
             "chainId": 43114,
+            "address": "0x7fB11D8945653F0978cCA2Ef51442bF31c84e142",
             "decimals": 18,
             "name": "Uptrennd",
             "symbol": "1UP",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x7fB11D8945653F0978cCA2Ef51442bF31c84e142/logo.png"
         },
         {
-            "address": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
             "chainId": 43114,
+            "address": "0x28A9f61B5dB4F4349C2edFE7a9B234f71e4ad2A7",
             "decimals": 18,
             "name": "USDK",
             "symbol": "USDK",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x28A9f61B5dB4F4349C2edFE7a9B234f71e4ad2A7/logo.png"
         },
         {
-            "address": "0x4954Db6391F4feB5468b6B943D4935353596aEC9",
             "chainId": 43114,
+            "address": "0x4247beA779fE14dabD38547A7eA49d7f57bd1bea",
             "decimals": 18,
-            "name": "USDQ Stablecoin by Q",
+            "name": "USDQ Stablecoin by Q DAO v1.0",
             "symbol": "USDQ",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4247beA779fE14dabD38547A7eA49d7f57bd1bea/logo.png"
         },
         {
-            "address": "0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
             "chainId": 43114,
+            "address": "0x994921baDc83D4F16eEde22B81b64162c50A49EB",
             "decimals": 18,
             "name": "Utrust Token",
             "symbol": "UTK",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x994921baDc83D4F16eEde22B81b64162c50A49EB/logo.png"
         },
         {
-            "address": "0x297E4e5e59Ad72B1B0A2fd446929e76117be0E0a",
             "chainId": 43114,
+            "address": "0x5499B77D5Ddc35680A26Ff270D96A5c2eB859df4",
             "decimals": 18,
             "name": "ValorToken",
             "symbol": "VALOR",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x5499B77D5Ddc35680A26Ff270D96A5c2eB859df4/logo.png"
         },
         {
-            "address": "0x49E833337ECe7aFE375e44F4E3e8481029218E5c",
             "chainId": 43114,
+            "address": "0x05Fe3039ecc7E03342521f583e9B3bb8B1bf5EB1",
             "decimals": 18,
             "name": "Value Liquidity",
             "symbol": "VALUE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x05Fe3039ecc7E03342521f583e9B3bb8B1bf5EB1/logo.png"
         },
         {
-            "address": "0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724",
             "chainId": 43114,
+            "address": "0x81C8d264f14bF69a083446Fd19fFE9A8fE80E3C0",
             "decimals": 18,
             "name": "Vibe",
             "symbol": "VIB",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x81C8d264f14bF69a083446Fd19fFE9A8fE80E3C0/logo.png"
         },
         {
-            "address": "0xfeF4185594457050cC9c23980d301908FE057Bb1",
             "chainId": 43114,
+            "address": "0xE1Df06E09531aeD339Cf6C97bEb59De94675d5a8",
             "decimals": 18,
             "name": "VIDT Datalink",
             "symbol": "VIDT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xE1Df06E09531aeD339Cf6C97bEb59De94675d5a8/logo.png"
         },
         {
-            "address": "0x456AE45c0CE901E2e7c99c0718031cEc0A7A59Ff",
             "chainId": 43114,
+            "address": "0x3aCf5DfE16cE85ED98339Dfebf2283537F2229d0",
             "decimals": 18,
             "name": "Vision Network",
             "symbol": "VSN",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3aCf5DfE16cE85ED98339Dfebf2283537F2229d0/logo.png"
         },
         {
-            "address": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
             "chainId": 43114,
+            "address": "0xB6F1A43ccc654026DEAd1b566b948dBFBa23f75A",
             "decimals": 18,
             "name": "WINGS",
             "symbol": "WINGS",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB6F1A43ccc654026DEAd1b566b948dBFBa23f75A/logo.png"
         },
         {
-            "address": "0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6",
             "chainId": 43114,
+            "address": "0x5940b937d1dc86Bd44E535b75C95e9bA10e1ac33",
             "decimals": 18,
             "name": "Wise Token",
             "symbol": "WISE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x5940b937d1dc86Bd44E535b75C95e9bA10e1ac33/logo.png"
         },
         {
-            "address": "0x3383c5a8969Dc413bfdDc9656Eb80A1408E4bA20",
             "chainId": 43114,
+            "address": "0xD3e6c7E9Dc08173276A17d23546cb9C24D7cD7b0",
             "decimals": 18,
             "name": "Wrapped ANATHA",
             "symbol": "wANATHA",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xD3e6c7E9Dc08173276A17d23546cb9C24D7cD7b0/logo.png"
         },
         {
-            "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "chainId": 43114,
+            "address": "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB",
             "decimals": 8,
             "name": "Wrapped BTC",
             "symbol": "WBTC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png"
         },
         {
-            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "chainId": 43114,
-            "decimals": 18,
-            "name": "Wrapped Ether",
-            "symbol": "WETH",
-            "tags": []
-        },
-        {
-            "address": "0x0d438F3b5175Bebc262bF23753C1E53d03432bDE",
-            "chainId": 43114,
+            "address": "0x3585E1f43Af5A0E5a9429A8058BDf999ED67f81d",
             "decimals": 18,
             "name": "Wrapped NXM",
             "symbol": "wNXM",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3585E1f43Af5A0E5a9429A8058BDf999ED67f81d/logo.png"
         },
         {
-            "address": "0x910Dfc18D6EA3D6a7124A6F8B5458F281060fa4c",
             "chainId": 43114,
+            "address": "0x974E0e514D1413001201D5a629fF8dEfd188E3fd",
             "decimals": 18,
             "name": "X8XToken",
             "symbol": "X8X",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x974E0e514D1413001201D5a629fF8dEfd188E3fd/logo.png"
         },
         {
-            "address": "0x41AB1b6fcbB2fA9DCEd81aCbdeC13Ea6315F2Bf2",
             "chainId": 43114,
+            "address": "0x3a162d08Fbfa687Ca00F5682c5c4F51b3aEe181C",
             "decimals": 18,
             "name": "XinFin XDCE",
             "symbol": "XDCE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x3a162d08Fbfa687Ca00F5682c5c4F51b3aEe181C/logo.png"
         },
         {
-            "address": "0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704",
             "chainId": 43114,
+            "address": "0x1Ce24Ac9EC3fbc4BA0c3836123953EA0c86336b9",
             "decimals": 18,
             "name": "XIO Network",
             "symbol": "XIO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1Ce24Ac9EC3fbc4BA0c3836123953EA0c86336b9/logo.png"
         },
         {
-            "address": "0xb1dC9124c395c1e97773ab855d66E879f053A289",
             "chainId": 43114,
+            "address": "0x977788025632E20360E4bB4867ef2C498A4EE4a6",
             "decimals": 18,
             "name": "yAxis",
             "symbol": "YAX",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x977788025632E20360E4bB4867ef2C498A4EE4a6/logo.png"
         },
         {
-            "address": "0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
             "chainId": 43114,
+            "address": "0x23f717b177eaf0bB93a726D2b8C4Bd11d4c4950b",
             "decimals": 18,
-            "name": "yearn Curve.fi yDAI",
+            "name": "yearn Curve.fi yDAI/yUSDC/yUSDT/yTUSD",
             "symbol": "yyDAI+yUSDC+yUSDT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x23f717b177eaf0bB93a726D2b8C4Bd11d4c4950b/logo.png"
         },
         {
-            "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
             "chainId": 43114,
+            "address": "0x99519AcB025a0e0d44c3875A4BbF03af65933627",
             "decimals": 18,
             "name": "yearn.finance",
             "symbol": "YFI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x99519AcB025a0e0d44c3875A4BbF03af65933627/logo.png"
         },
         {
-            "address": "0xa665FED1b0C9dA00e91ca582f77dF36E325048c5",
             "chainId": 43114,
+            "address": "0xFC492B9DC6aDE871c20e9169f2600DFd2718dF4E",
             "decimals": 18,
             "name": "yfarm.finance",
             "symbol": "YFM",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xFC492B9DC6aDE871c20e9169f2600DFd2718dF4E/logo.png"
         },
         {
-            "address": "0xf4CD3d3Fda8d7Fd6C5a500203e38640A70Bf9577",
             "chainId": 43114,
+            "address": "0xE09CD46BBE2144b53C6265c2D1B3d01cfDadB786",
             "decimals": 18,
             "name": "YfDAI.finance",
             "symbol": "Yf-DAI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xE09CD46BBE2144b53C6265c2D1B3d01cfDadB786/logo.png"
         },
         {
-            "address": "0xCee1d3c3A02267e37E6B373060F79d5d7b9e1669",
             "chainId": 43114,
+            "address": "0x5777E014b585A5F05dB9902ef944Df9C45F2054C",
             "decimals": 18,
             "name": "yffi.finance",
             "symbol": "YFFI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x5777E014b585A5F05dB9902ef944Df9C45F2054C/logo.png"
         },
         {
-            "address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
             "chainId": 43114,
+            "address": "0xA0e1645A594a3ac2556Ad0707D89B908B1A17d03",
             "decimals": 18,
             "name": "YFII.finance",
             "symbol": "YFII",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xA0e1645A594a3ac2556Ad0707D89B908B1A17d03/logo.png"
         },
         {
-            "address": "0x28cb7e841ee97947a86B06fA4090C8451f64c0be",
             "chainId": 43114,
+            "address": "0xE3a13E41eCAdcc611a5D8415c2b8C0802197bA96",
             "decimals": 18,
             "name": "YFLink",
             "symbol": "YFL",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xE3a13E41eCAdcc611a5D8415c2b8C0802197bA96/logo.png"
         },
         {
-            "address": "0x45f24BaEef268BB6d63AEe5129015d69702BCDfa",
             "chainId": 43114,
+            "address": "0xd79FA6aC3D484CbbcbE3208518bD4Ae03519E0DB",
             "decimals": 18,
             "name": "YFValue",
             "symbol": "YFV",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xd79FA6aC3D484CbbcbE3208518bD4Ae03519E0DB/logo.png"
         },
         {
-            "address": "0x1Aa61c196E76805fcBe394eA00e4fFCEd24FC469",
             "chainId": 43114,
+            "address": "0x0439b92098Bf71Dd4AbF1bA73B974a8c52f1F5F3",
             "decimals": 18,
             "name": "yieldfarming.insure",
             "symbol": "SAFE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x0439b92098Bf71Dd4AbF1bA73B974a8c52f1F5F3/logo.png"
         },
         {
-            "address": "0xF0939011a9bb95c3B791f0cb546377Ed2693a574",
             "chainId": 43114,
+            "address": "0x9Bdd302e506C3F6c23c085C37789cce6d3C1a233",
             "decimals": 18,
             "name": "Zero.Exchange Token",
             "symbol": "ZERO",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x9Bdd302e506C3F6c23c085C37789cce6d3C1a233/logo.png"
         },
         {
-            "address": "0x2eDf094dB69d6Dcd487f1B3dB9febE2eeC0dd4c5",
             "chainId": 43114,
+            "address": "0x58DC26DA5bfc714F73fD4a4dc768901ed9B8Ed1a",
             "decimals": 18,
             "name": "ZeroSwapToken",
             "symbol": "ZEE",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x58DC26DA5bfc714F73fD4a4dc768901ed9B8Ed1a/logo.png"
         },
         {
-            "address": "0x4AaC461C86aBfA71e9d00d9a2cde8d74E4E1aeEa",
             "chainId": 43114,
+            "address": "0x14B1f37c46ECf29C9657585DF0Dd7CEe1eC7C569",
             "decimals": 18,
             "name": "ZINC",
             "symbol": "ZINC",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x14B1f37c46ECf29C9657585DF0Dd7CEe1eC7C569/logo.png"
         },
         {
-            "address": "0xEDD7c94FD7B4971b916d15067Bc454b9E1bAD980",
             "chainId": 43114,
+            "address": "0x5ED880a1a8e25515D2e881eEBa115462b824Ac5B",
             "decimals": 18,
             "name": "Zippie",
             "symbol": "ZIPT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x5ED880a1a8e25515D2e881eEBa115462b824Ac5B/logo.png"
         },
         {
-            "address": "0xe4815AE53B124e7263F08dcDBBB757d41Ed658c6",
             "chainId": 43114,
+            "address": "0x40871A08cd7b9751639a0831e5a83808F4c7EBA9",
             "decimals": 18,
             "name": "Zks",
             "symbol": "ZKS",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x40871A08cd7b9751639a0831e5a83808F4c7EBA9/logo.png"
         },
         {
-            "address": "0xA8e7AD77C60eE6f30BaC54E2E7c0617Bd7B5A03E",
             "chainId": 43114,
+            "address": "0xF9F0BB57D247a8c55c463b9a231de7E998bdc9a0",
             "decimals": 18,
             "name": "zLOT",
             "symbol": "zLOT",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xF9F0BB57D247a8c55c463b9a231de7E998bdc9a0/logo.png"
         },
         {
-            "address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
             "chainId": 43114,
+            "address": "0x095370AE41FF23798d96c1ADF7D58Ae6a2b05b18",
             "decimals": 18,
             "name": "Dai Stablecoin v1.0",
             "symbol": "DAI",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x095370AE41FF23798d96c1ADF7D58Ae6a2b05b18/logo.png"
         },
         {
-            "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
             "chainId": 43114,
+            "address": "0x8DF92E9C0508aB0030d432DA9F2C65EB1Ee97620",
             "decimals": 18,
             "name": "Maker",
             "symbol": "MKR",
-            "tags": []
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8DF92E9C0508aB0030d432DA9F2C65EB1Ee97620/logo.png"
         }
     ],
-    "timestamp": "2021-02-08T18:53:34+00:00"
+    "timestamp": "2021-02-09T03:51:00+00:00"
 }
