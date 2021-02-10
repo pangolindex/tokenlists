@@ -519,6 +519,14 @@
         },
         {
             "chainId": 43114,
+            "address": "0x3711c397B6c8F7173391361e27e67d72F252cAad",
+            "decimals": 18,
+            "name": "COMPLUS",
+            "symbol": "COM",
+            "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0x3711c397B6c8F7173391361e27e67d72F252cAad/logo.png"
+        },        
+        {
+            "chainId": 43114,
             "address": "0x53CEedB4f6f277edfDDEdB91373B044FE6AB5958",
             "decimals": 18,
             "name": "Compound",
