@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
@@ -103,11 +103,11 @@
         },
         {
             "chainId": 43114,
-            "address": "0x421b2a69b886BA17a61C7dAd140B9070d5Ef300B",
-            "decimals": 18,
-            "name": "HuobiToken",
-            "symbol": "HT",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x421b2a69b886BA17a61C7dAd140B9070d5Ef300B/logo.png"
+            "address": "0x1F1FE1eF06ab30a791d6357FdF0a7361B39b1537",
+            "decimals": 9,
+            "name": "sled.finance",
+            "symbol": "SFI",
+            "logoURI": "https://raw.githubusercontent.com/sled-finance/media/master/sled_token_fl.png"
         },
         {
             "chainId": 43114,
