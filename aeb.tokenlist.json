@@ -2964,6 +2964,14 @@
             "name": "Maker",
             "symbol": "MKR",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8DF92E9C0508aB0030d432DA9F2C65EB1Ee97620/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x488F73cddDA1DE3664775fFd91623637383D6404",
+            "decimals": 18,
+            "name": "YetiSwap",
+            "symbol": "YTS",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/yetiswap.app/master/src/assets/image/YTSCoin.png\n"
         }
     ],
     "timestamp": "2021-02-09T17:49:00+00:00"
