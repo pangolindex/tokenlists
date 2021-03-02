@@ -2847,6 +2847,14 @@
         },
         {
             "chainId": 43114,
+            "address": "0x488F73cddDA1DE3664775fFd91623637383D6404",
+            "decimals": 18,
+            "name": "YetiSwap",
+            "symbol": "YTS",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/yetiswap.app/master/src/assets/image/YTSCoin.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0xFC492B9DC6aDE871c20e9169f2600DFd2718dF4E",
             "decimals": 18,
             "name": "yfarm.finance",
