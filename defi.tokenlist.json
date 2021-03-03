@@ -1,0 +1,48 @@
+{
+    "name": "AVAX DeFi Tokens",
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
+    "keywords": [
+        "avalanche",
+        "defi",
+        "dex"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "timestamp": "2021-03-03T00:00:00+00:00",
+    "tokens": [
+        {
+            "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+            "chainId": 43114,
+            "name": "Pangolin",
+            "symbol": "PNG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x3711c397B6c8F7173391361e27e67d72F252cAad",
+            "decimals": 18,
+            "name": "COMPLUS",
+            "symbol": "COM",
+            "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0x3711c397B6c8F7173391361e27e67d72F252cAad/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x488F73cddDA1DE3664775fFd91623637383D6404",
+            "decimals": 18,
+            "name": "YetiSwap",
+            "symbol": "YTS",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/yetiswap.app/master/src/assets/image/YTSCoin.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x008E26068B3EB40B443d3Ea88c1fF99B789c10F7",
+            "decimals": 18,
+            "name": "Zero.Exchange Token",
+            "symbol": "ZERO"
+        }
+    ]
+}
