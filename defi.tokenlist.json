@@ -43,6 +43,14 @@
             "decimals": 18,
             "name": "Zero.Exchange Token",
             "symbol": "ZERO"
+        },
+          {
+            "chainId": 43114,
+            "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
+            "decimals": 18,
+            "name": "Snowball",
+            "symbol": "SNOB",
+            "logoURI": "https://raw.githubusercontent.com/Snowball-Finance/Assets/main/Uphill%20snowball.png"
         }
     ]
 }
