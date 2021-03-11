@@ -9,9 +9,9 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     },
-    "timestamp": "2021-03-03T00:00:00+00:00",
+    "timestamp": "2021-03-11T00:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
