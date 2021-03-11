@@ -9,9 +9,9 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     },
-    "timestamp": "2021-03-03T00:00:00+00:00",
+    "timestamp": "2021-03-11T00:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -43,6 +43,14 @@
             "decimals": 18,
             "name": "Zero.Exchange Token",
             "symbol": "ZERO"
+        },
+          {
+            "chainId": 43114,
+            "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
+            "decimals": 18,
+            "name": "Snowball",
+            "symbol": "SNOB",
+            "logoURI": "https://raw.githubusercontent.com/Snowball-Finance/Assets/main/Uphill%20snowball.png"
         }
     ]
 }
