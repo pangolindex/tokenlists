@@ -9,9 +9,9 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     },
-    "timestamp": "2021-03-11T00:00:00+00:00",
+    "timestamp": "2021-03-21T00:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -51,6 +51,14 @@
             "name": "Snowball",
             "symbol": "SNOB",
             "logoURI": "https://raw.githubusercontent.com/Snowball-Finance/Assets/main/Uphill%20snowball.png"
+        },
+          {
+            "chainId": 43114,
+            "address": "0x1F1FE1eF06ab30a791d6357FdF0a7361B39b1537",
+            "decimals": 9,
+            "name": "sled.finance",
+            "symbol": "SFI",
+            "logoURI": "https://raw.githubusercontent.com/sled-finance/media/main/sled_token_fl.png"
         }
     ]
 }
