@@ -9,9 +9,9 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 2
+        "patch": 3
     },
-    "timestamp": "2021-03-21T00:00:00+00:00",
+    "timestamp": "2021-03-23T21:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -59,6 +59,15 @@
             "name": "sled.finance",
             "symbol": "SFI",
             "logoURI": "https://raw.githubusercontent.com/sled-finance/media/main/sled_token_fl.png"
-        }
+        },
+        {
+          "chainId": 43114,
+          "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
+          "decimals": 9,
+          "name": "Spore Finance",
+          "symbol": "SPORE",
+          "logoURI": "https://github.com/SporeFinance/Spore-frontend/blob/master/src/utils/SPORE.png"
+      }
+
     ]
 }
