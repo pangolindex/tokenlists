@@ -9,9 +9,9 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 3
+        "patch": 4
     },
-    "timestamp": "2021-03-23T21:00:00+00:00",
+    "timestamp": "2021-03-23T22:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -66,7 +66,7 @@
           "decimals": 9,
           "name": "Spore Finance",
           "symbol": "SPORE",
-          "logoURI": "https://github.com/SporeFinance/Spore-frontend/blob/master/src/utils/SPORE.png"
+          "logoURI": "https://raw.githubusercontent.com/SporeFinance/Spore-frontend/master/src/utils/SPORE.png"
       }
 
     ]
