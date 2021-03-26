@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
@@ -2564,14 +2564,6 @@
             "name": "TrueHKD",
             "symbol": "THKD",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xc8Eb95dac0033024B4b3fc87569824C4416F495d/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xc458770B5fA66f4DF1498c3D824261D5f5EC3582",
-            "decimals": 18,
-            "name": "TrueUSD",
-            "symbol": "TUSD",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xc458770B5fA66f4DF1498c3D824261D5f5EC3582/logo.png"
         },
         {
             "chainId": 43114,
