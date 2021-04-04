@@ -8,7 +8,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     },
     "timestamp": "2021-04-04T22:00:00+00:00",
     "tokens": [
@@ -43,7 +43,14 @@
             "name": "SushiToken",
             "symbol": "SUSHI",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc/logo.png"
+        },
+        {
+            "chainId": 43113,
+            "address": "0x47523b7C935671d6e4AC0CB8f9F6a3Fa60Fe298b",
+            "decimals": 18,
+            "name": "ChainLink Token",
+            "symbol": "LINK",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png"
         }
-
     ]
 }
