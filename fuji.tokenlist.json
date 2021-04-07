@@ -13,6 +13,14 @@
     "timestamp": "2021-04-04T22:00:00+00:00",
     "tokens": [
         {
+            "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+            "chainId": 43113,
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+        },
+        {
             "address": "0x83080D4b5fC60e22dFFA8d14AD3BB41Dde48F199",
             "chainId": 43113,
             "name": "Pangolin",
@@ -46,7 +54,7 @@
         },
         {
             "chainId": 43113,
-            "address": "0x47523b7C935671d6e4AC0CB8f9F6a3Fa60Fe298b",
+            "address": "0x2F0708E5FB96fd1E9F21eAbAd06EE5F337586A02",
             "decimals": 18,
             "name": "ChainLink Token",
             "symbol": "LINK",
