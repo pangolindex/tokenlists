@@ -9,7 +9,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 4
+        "patch": 5
     },
     "timestamp": "2021-03-23T22:00:00+00:00",
     "tokens": [
@@ -67,7 +67,14 @@
           "name": "Spore Finance",
           "symbol": "SPORE",
           "logoURI": "https://raw.githubusercontent.com/SporeFinance/Spore-frontend/master/src/utils/SPORE.png"
-      }
-
+      },
+        {
+            "chainId": 43114,
+            "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
+            "decimals": 18,
+            "name": "Penguin Finance",
+            "symbol": "PEFI",
+            "logoURI": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/PEFILOGOPNG.png"
+        }
     ]
 }
