@@ -9,9 +9,9 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 5
+        "patch": 6
     },
-    "timestamp": "2021-03-23T22:00:00+00:00",
+    "timestamp": "2021-04-22T22:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -75,6 +75,14 @@
             "name": "Penguin Finance",
             "symbol": "PEFI",
             "logoURI": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/PEFILOGOPNG.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xA0a924Dcb97A597351A5c3787234B706845E7510",
+            "decimals": 11,
+            "name": "Bonfire",
+            "symbol": "🔥",
+            "logoURI": "https://raw.githubusercontent.com/sled-finance/Bonfire-media/main/bonfire_icon.png"
         }
     ]
 }
