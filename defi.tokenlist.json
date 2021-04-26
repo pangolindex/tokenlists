@@ -14,6 +14,14 @@
     "timestamp": "2021-04-22T22:00:00+00:00",
     "tokens": [
         {
+            "address": "0xc931f61b1534eb21d8c11b24f3f5ab2471d4ab50",
+            "chainId": 43114,
+            "name": "Blocknet",
+            "symbol": "aaBLOCK",
+            "decimals": 8,
+            "logoURI": "https://github.com/blocknetdx/documentation/blob/master/docs/img/icons/Blocknet_symbol_dark_RGB.png"
+        },
+        {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
             "chainId": 43114,
             "name": "Pangolin",
