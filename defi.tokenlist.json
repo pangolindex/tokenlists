@@ -44,7 +44,7 @@
             "name": "Zero.Exchange Token",
             "symbol": "ZERO"
         },
-          {
+        {
             "chainId": 43114,
             "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
             "decimals": 18,
@@ -52,7 +52,7 @@
             "symbol": "SNOB",
             "logoURI": "https://raw.githubusercontent.com/Snowball-Finance/Assets/main/Uphill%20snowball.png"
         },
-          {
+        {
             "chainId": 43114,
             "address": "0x1F1FE1eF06ab30a791d6357FdF0a7361B39b1537",
             "decimals": 9,
@@ -61,13 +61,13 @@
             "logoURI": "https://raw.githubusercontent.com/sled-finance/media/main/sled_token_fl.png"
         },
         {
-          "chainId": 43114,
-          "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
-          "decimals": 9,
-          "name": "Spore Finance",
-          "symbol": "SPORE",
-          "logoURI": "https://raw.githubusercontent.com/SporeFinance/Spore-frontend/master/src/utils/SPORE.png"
-      },
+            "chainId": 43114,
+            "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
+            "decimals": 9,
+            "name": "Spore Finance",
+            "symbol": "SPORE",
+            "logoURI": "https://raw.githubusercontent.com/SporeFinance/Spore-frontend/master/src/utils/SPORE.png"
+        },
         {
             "chainId": 43114,
             "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
@@ -75,6 +75,14 @@
             "name": "Penguin Finance",
             "symbol": "PEFI",
             "logoURI": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/PEFILOGOPNG.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084",
+            "decimals": 18,
+            "name": "Lydia Finance",
+            "symbol": "LYD",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png"
         }
     ]
 }
