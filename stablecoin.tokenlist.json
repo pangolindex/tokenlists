@@ -7,10 +7,10 @@
     ],
     "version": {
         "major": 1,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
-    "timestamp": "2021-03-26T00:00:00+00:00",
+    "timestamp": "2021-05-01T00:00:00+00:00",
     "tokens": [
         {
             "chainId": 43114,
@@ -35,6 +35,14 @@
             "name": "Dai Stablecoin",
             "symbol": "DAI",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98",
+            "decimals": 18,
+            "name": "Frax",
+            "symbol": "FRAX",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98/logo.png"
         }
     ]
 }
