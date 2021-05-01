@@ -67,7 +67,7 @@
           "name": "Spore Finance",
           "symbol": "SPORE",
           "logoURI": "https://raw.githubusercontent.com/SporeFinance/Spore-frontend/master/src/utils/SPORE.png"
-      },
+        },
         {
             "chainId": 43114,
             "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
@@ -75,6 +75,14 @@
             "name": "Penguin Finance",
             "symbol": "PEFI",
             "logoURI": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/PEFILOGOPNG.png"
-        }
+        },
+        {
+            "chainId": 43114,
+            "address": "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a",
+            "decimals": 18,
+            "name": "Verso",
+            "symbol": "VSO",
+            "logoURI": "https://raw.githubusercontent.com/VersoOfficial/pr/master/icon_blue.png"
+      }
     ]
 }
