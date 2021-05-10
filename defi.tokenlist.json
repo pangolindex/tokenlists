@@ -99,6 +99,14 @@
             "name": "Verso",
             "symbol": "VSO",
             "logoURI": "https://raw.githubusercontent.com/VersoOfficial/pr/master/icon_blue.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xE9D00cBC5f02614d7281D742E6E815A47ce31107",
+            "decimals": 9,
+            "name": "Crack.Fi",
+            "symbol": "CRACK",
+            "logoURI": "https://raw.githubusercontent.com/crackfi/logo/master/crackfi_png.png"
         }
     ]
 }
