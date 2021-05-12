@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
@@ -79,11 +79,11 @@
         },
         {
             "chainId": 43114,
-            "address": "0x8DF92E9C0508aB0030d432DA9F2C65EB1Ee97620",
+            "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
             "decimals": 18,
-            "name": "Maker",
-            "symbol": "MKR",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8DF92E9C0508aB0030d432DA9F2C65EB1Ee97620/logo.png"
+            "name": "Penguin Finance",
+            "symbol": "PEFI",
+            "logoURI": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/PEFILOGOPNG.png"
         },
         {
             "chainId": 43114,
@@ -103,11 +103,11 @@
         },
         {
             "chainId": 43114,
-            "address": "0x421b2a69b886BA17a61C7dAd140B9070d5Ef300B",
+            "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
             "decimals": 18,
-            "name": "HuobiToken",
-            "symbol": "HT",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x421b2a69b886BA17a61C7dAd140B9070d5Ef300B/logo.png"
+            "name": "Snowball",
+            "symbol": "SNOB",
+            "logoURI": "https://raw.githubusercontent.com/Snowball-Finance/Assets/main/Uphill%20snowball.png"
         },
         {
             "chainId": 43114,
