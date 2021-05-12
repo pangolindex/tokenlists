@@ -107,6 +107,14 @@
             "name": "AV Me",
             "symbol": "AVME",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x4480B4DdFb15fE6518817ef024D8B493afF2Db54",
+            "decimals": 18,
+            "name": "Bird Token",
+            "symbol": "BIRD",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4480B4DdFb15fE6518817ef024D8B493afF2Db54/logo.png"
         }
     ]
 }
