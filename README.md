@@ -7,7 +7,7 @@ Go ahead and submit a PR. Format must match the standard tokenlist format: https
 
 Tokens must be added to a list that they qualify for. List requirements:
 
-1. Top 15: Token must be in the top 15 of eligible Avalanche tokens on Coin Market Cap.
+1. Top 15: Token must be in the top 15 of eligible Avalanche tokens by marketcap.
 2. AEB: Token must be bridgeable on the Avalanche-Ethereum Bridge.
 3. DeFi: Token must be connected to a DeFi protocol running on Avalanche.
 4. Stablecoin: Token must be a stablecoin.
