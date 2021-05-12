@@ -8,8 +8,8 @@
     ],
     "version": {
         "major": 2,
-        "minor": 2,
-        "patch": 0
+        "minor": 1,
+        "patch": 1
     },
     "timestamp": "2021-05-01T22:00:00+00:00",
     "tokens": [
@@ -64,9 +64,9 @@
             "chainId": 43114,
             "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
             "decimals": 9,
-            "name": "Spore Finance",
+            "name": "Spore",
             "symbol": "SPORE",
-            "logoURI": "https://raw.githubusercontent.com/SporeFinance/Spore-frontend/master/src/utils/SPORE.png"
+            "logoURI": "https://raw.githubusercontent.com/sporeproject/Spore-frontend/master/src/utils/SPORE.png"
         },
         {
             "chainId": 43114,
@@ -99,6 +99,14 @@
             "name": "Verso",
             "symbol": "VSO",
             "logoURI": "https://raw.githubusercontent.com/VersoOfficial/pr/master/icon_blue.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed",
+            "decimals": 18,
+            "name": "AV Me",
+            "symbol": "AVME",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png"
         },
         {
             "chainId": 43114,
