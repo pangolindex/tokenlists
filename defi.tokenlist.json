@@ -99,6 +99,14 @@
             "name": "Verso",
             "symbol": "VSO",
             "logoURI": "https://raw.githubusercontent.com/VersoOfficial/pr/master/icon_blue.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x9E7890B2E2dE38D764A29b0DE1e2B9b37C90Ddb9",
+            "decimals": 9,
+            "name": "BillMaher.Finance",
+            "symbol": "BMF",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x9E7890B2E2dE38D764A29b0DE1e2B9b37C90Ddb9/logo.png"
         }
     ]
 }
