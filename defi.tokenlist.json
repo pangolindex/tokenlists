@@ -8,7 +8,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 2,
+        "minor": 3,
         "patch": 1
     },
     "timestamp": "2021-05-01T22:00:00+00:00",
@@ -115,6 +115,14 @@
             "name": "Crack.Fi",
             "symbol": "CRACK",
             "logoURI": "https://raw.githubusercontent.com/crackfi/logo/master/crackfi_png.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
+            "decimals": 18,
+            "name": "Husky Avalanche",
+            "symbol": "HUSKY",
+            "logoURI": "https://raw.githubusercontent.com/safepoint-be/project-husky/main/img/logo.png"
         }
     ]
 }
