@@ -110,6 +110,14 @@
         },
         {
             "chainId": 43114,
+            "address": "0xE9D00cBC5f02614d7281D742E6E815A47ce31107",
+            "decimals": 9,
+            "name": "Crack.Fi",
+            "symbol": "CRACK",
+            "logoURI": "https://raw.githubusercontent.com/crackfi/logo/master/crackfi_png.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
             "decimals": 18,
             "name": "Avalaunch",
