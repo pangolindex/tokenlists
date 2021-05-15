@@ -20,7 +20,15 @@
             "symbol": "PNG",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
-        },
+        },     
+        {
+            "chainId": 43114,
+            "address": "0x76076880e1EBBcE597e6E15c47386cd34de4930F",
+            "decimals": 18,
+            "name": "Canopus",
+            "symbol": "OPUS",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x76076880e1EBBcE597e6E15c47386cd34de4930F/logo.png"
+        },    
         {
             "chainId": 43114,
             "address": "0x3711c397B6c8F7173391361e27e67d72F252cAad",
