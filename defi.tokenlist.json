@@ -13,10 +13,11 @@
     },
     "timestamp": "2021-05-01T22:00:00+00:00",
     "tokens": [
+       }, 
         {
             "address": "0x76076880e1EBBcE597e6E15c47386cd34de4930F",
             "chainId": 43114,
-            "name": "Canpous",
+            "name": "Canopus",
             "symbol": "OPUS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x76076880e1EBBcE597e6E15c47386cd34de4930F/logo.png
