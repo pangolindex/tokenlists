@@ -8,7 +8,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 2,
+        "minor": 3,
         "patch": 1
     },
     "timestamp": "2021-05-01T22:00:00+00:00",
@@ -115,6 +115,14 @@
             "name": "Crack.Fi",
             "symbol": "CRACK",
             "logoURI": "https://raw.githubusercontent.com/crackfi/logo/master/crackfi_png.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x81440C939f2C1E34fc7048E518a637205A632a74",
+            "decimals": 18,
+            "name": "Cycle Protocol",
+            "symbol": "CYCLE",
+            "logoURI": "https://raw.githubusercontent.com/CycleProtocol/assets/master/cycle-logo-round-small.png"
         }
     ]
 }
