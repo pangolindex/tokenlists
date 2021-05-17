@@ -8,7 +8,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 0,
+        "minor": 4,
         "patch": 0
     },
     "timestamp": "2021-05-01T22:00:00+00:00",
@@ -64,9 +64,9 @@
             "chainId": 43114,
             "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
             "decimals": 9,
-            "name": "Spore Finance",
+            "name": "Spore",
             "symbol": "SPORE",
-            "logoURI": "https://raw.githubusercontent.com/SporeFinance/Spore-frontend/master/src/utils/SPORE.png"
+            "logoURI": "https://raw.githubusercontent.com/sporeproject/Spore-frontend/master/src/utils/SPORE.png"
         },
         {
             "chainId": 43114,
@@ -107,6 +107,30 @@
             "name": "Gondola",
             "symbol": "GDL",
             "logoURI": "https://raw.githubusercontent.com/gondola-finance/frontend/master/src/assets/icons/brand_logo_darkmode.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed",
+            "decimals": 18,
+            "name": "AV Me",
+            "symbol": "AVME",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xE9D00cBC5f02614d7281D742E6E815A47ce31107",
+            "decimals": 9,
+            "name": "Crack.Fi",
+            "symbol": "CRACK",
+            "logoURI": "https://raw.githubusercontent.com/crackfi/logo/master/crackfi_png.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
+            "decimals": 18,
+            "name": "Husky Avalanche",
+            "symbol": "HUSKY",
+            "logoURI": "https://raw.githubusercontent.com/safepoint-be/project-husky/main/img/logo.png"
         }
     ]
 }
