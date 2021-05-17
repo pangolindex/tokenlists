@@ -8,7 +8,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 3,
+        "minor": 4,
         "patch": 1
     },
     "timestamp": "2021-05-01T22:00:00+00:00",
@@ -123,6 +123,15 @@
             "name": "Husky Avalanche",
             "symbol": "HUSKY",
             "logoURI": "https://raw.githubusercontent.com/safepoint-be/project-husky/main/img/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+            "decimals": 18,
+            "name": "Avalaunch",
+            "symbol": "XAVA",
+            "logoURI": "https://raw.githubusercontent.com/avalaunch-app/xava-protocol/master/logo.png"
         }
+
     ]
 }
