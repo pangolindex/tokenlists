@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
@@ -2959,4 +2959,4 @@
         }
     ],
     "timestamp": "2021-02-09T17:49:00+00:00"
-}
+} 
