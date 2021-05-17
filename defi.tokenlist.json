@@ -102,7 +102,7 @@
         },
         {
             "chainId": 43114,
-            "address": "0xd606199557c8ab6f4cc70bd03facc96ca576f142",
+            "address": "0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142",
             "decimals": 18,
             "name": "Gondola",
             "symbol": "GDL",
