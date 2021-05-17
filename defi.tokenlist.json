@@ -155,6 +155,13 @@
             "name": "Avalaunch",
             "symbol": "XAVA",
             "logoURI": "https://raw.githubusercontent.com/avalaunch-app/xava-protocol/master/logo.png"
+        {
+            "chainId": 43114,
+            "address": "0x76076880e1EBBcE597e6E15c47386cd34de4930F",
+            "decimals": 18,
+            "name": "Canopus",
+            "symbol": "OPUS",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x76076880e1EBBcE597e6E15c47386cd34de4930F/logo.png"
         }
     ]
 }
