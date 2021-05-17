@@ -8,8 +8,8 @@
     ],
     "version": {
         "major": 2,
-        "minor": 3,
-        "patch": 1
+        "minor": 4,
+        "patch": 0
     },
     "timestamp": "2021-05-01T22:00:00+00:00",
     "tokens": [
@@ -123,6 +123,38 @@
             "name": "Husky Avalanche",
             "symbol": "HUSKY",
             "logoURI": "https://raw.githubusercontent.com/safepoint-be/project-husky/main/img/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142",
+            "decimals": 18,
+            "name": "Gondola",
+            "symbol": "GDL",
+            "logoURI": "https://raw.githubusercontent.com/gondola-finance/frontend/master/src/assets/icons/brand_logo_darkmode.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x81440C939f2C1E34fc7048E518a637205A632a74",
+            "decimals": 18,
+            "name": "Cycle Protocol",
+            "symbol": "CYCLE",
+            "logoURI": "https://raw.githubusercontent.com/CycleProtocol/assets/master/cycle-logo-round-small.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x4480B4DdFb15fE6518817ef024D8B493afF2Db54",
+            "decimals": 18,
+            "name": "Birdy Finance",
+            "symbol": "BIRD",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4480B4DdFb15fE6518817ef024D8B493afF2Db54/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+            "decimals": 18,
+            "name": "Avalaunch",
+            "symbol": "XAVA",
+            "logoURI": "https://raw.githubusercontent.com/avalaunch-app/xava-protocol/master/logo.png"
         }
     ]
 }
