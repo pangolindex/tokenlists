@@ -8,7 +8,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
     "timestamp": "2021-05-01T22:00:00+00:00",
@@ -163,8 +163,8 @@
             "name": "TeslaBitcoin",
             "symbol": "TESLABTC",
             "logoURI": "https://raw.githubusercontent.com/crackfi/tesla_btc_logo/master/Tesla_Bitcoin_logo.png"
+           
             
-        }
         }
     ]
 }
