@@ -8,7 +8,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
     "timestamp": "2021-05-01T22:00:00+00:00",
@@ -155,6 +155,14 @@
             "name": "Avalaunch",
             "symbol": "XAVA",
             "logoURI": "https://raw.githubusercontent.com/avalaunch-app/xava-protocol/master/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x8349088C575cA45f5A63947FEAeaEcC41136fA01",
+            "decimals": 9,
+            "name": "TeslaBitcoin",
+            "symbol": "TESLABTC",
+            "logoURI": "https://raw.githubusercontent.com/crackfi/tesla_btc_logo/master/Tesla_Bitcoin_logo.png"            
         }
     ]
 }
