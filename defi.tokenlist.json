@@ -22,6 +22,14 @@
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
         },
         {
+            "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
+            "chainId": 43114,
+            "name": "Avaware",
+            "symbol": "AVE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/avaware/bridge-tokens/a35b91bcd9874683965ccea8d7c20f90f479af4d/avalanche-tokens/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png"
+        },
+        {
             "chainId": 43114,
             "address": "0x3711c397B6c8F7173391361e27e67d72F252cAad",
             "decimals": 18,
