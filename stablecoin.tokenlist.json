@@ -43,6 +43,14 @@
             "name": "Frax",
             "symbol": "FRAX",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x564A341Df6C126f90cf3ECB92120FD7190ACb401",
+            "decimals": 6,
+            "name": "BiLira",
+            "symbol": "TRYB",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x564a341df6c126f90cf3ecb92120fd7190acb401/logo.png"
         }
     ]
 }
