@@ -8,7 +8,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     },
     "timestamp": "2021-06-07T22:00:00+00:00",
@@ -178,7 +178,17 @@
             "decimals": 9,
             "name": "diamondtoken.world",
             "symbol": "Diamond",
-            "logoURI": "https://raw.githubusercontent.com/virtualdiamondtoken/site/main/logo.png"            
+            "logoURI": "https://raw.githubusercontent.com/virtualdiamondtoken/site/main/logo.png"  
+         },
+         {
+
+             "chainId": 43114,
+             "address": "0x76076880e1EBBcE597e6E15c47386cd34de4930F",
+             "decimals": 18,
+             "name": "Canopus",
+             "symbol": "OPUS",
+             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x76076880e1EBBcE597e6E15c47386cd34de4930F/logo.png"
+             
         }
     ]
 }
