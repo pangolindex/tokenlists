@@ -5,7 +5,7 @@ interfaces that needs one or more lists of tokens. Anyone can create and maintai
 the specification. The Pangolin community invites you to add your token to our tokenlists!
 
 
-## Adding a Token to an Existing List
+## Adding Your Token to an Existing List
 
 
 ### General Requirements
@@ -18,7 +18,7 @@ the specification. The Pangolin community invites you to add your token to our t
     * **[Fuji Tokenlist](./fuji.tokenlist.json)**: Token must be on the Fuji network.
 
 
-## Adding a Token
+## Adding Your Token
 1. Add an entry in the `tokens` field of the appropriate tokenlist. Here is an example using PNG:
     ```json
     {
