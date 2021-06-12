@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 3,
+        "major": 4,
         "minor": 0,
         "patch": 0
     },
@@ -87,22 +87,6 @@
         },
         {
             "chainId": 43114,
-            "address": "0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9",
-            "decimals": 18,
-            "name": "Synthetix Network Token",
-            "symbol": "SNX",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x53CEedB4f6f277edfDDEdB91373B044FE6AB5958",
-            "decimals": 18,
-            "name": "Compound",
-            "symbol": "COMP",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x53CEedB4f6f277edfDDEdB91373B044FE6AB5958/logo.png"
-        },
-        {
-            "chainId": 43114,
             "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
             "decimals": 18,
             "name": "Snowball",
@@ -119,28 +103,28 @@
         },
         {
             "chainId": 43114,
-            "address": "0xC84d7bfF2555955b44BDF6A307180810412D751B",
-            "decimals": 18,
-            "name": "UMA Voting Token v1",
-            "symbol": "UMA",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC84d7bfF2555955b44BDF6A307180810412D751B/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xaEb044650278731Ef3DC244692AB9F64C78FfaEA",
-            "decimals": 18,
-            "name": "Binance USD",
-            "symbol": "BUSD",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xaEb044650278731Ef3DC244692AB9F64C78FfaEA/logo.png"
-        },
-        {
-            "chainId": 43114,
             "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
             "decimals": 18,
             "name": "Dai Stablecoin",
             "symbol": "DAI",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+            "decimals": 18,
+            "name": "Avalaunch",
+            "symbol": "XAVA",
+            "logoURI": "https://raw.githubusercontent.com/avalaunch-app/xava-protocol/master/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a",
+            "decimals": 18,
+            "name": "Verso",
+            "symbol": "VSO",
+            "logoURI": "https://raw.githubusercontent.com/VersoOfficial/pr/master/icon_blue.png"
         }
     ],
-    "timestamp": "2021-02-09T17:49:00+00:00"
+    "timestamp": "2021-06-11T21:40:00+00:00"
 }
