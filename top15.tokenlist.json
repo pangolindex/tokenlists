@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 4,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
@@ -124,7 +124,15 @@
             "name": "Verso",
             "symbol": "VSO",
             "logoURI": "https://raw.githubusercontent.com/VersoOfficial/pr/master/icon_blue.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
+            "decimals": 9,
+            "name": "Spore",
+            "symbol": "SPORE",
+            "logoURI": "https://raw.githubusercontent.com/sporeproject/Spore-frontend/master/src/utils/SPORE.png"
         }
     ],
-    "timestamp": "2021-06-11T21:40:00+00:00"
+    "timestamp": "2021-06-27T12:49:00+00:00"
 }
