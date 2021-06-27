@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 4,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
@@ -134,5 +134,5 @@
             "logoURI": "https://raw.githubusercontent.com/sporeproject/Spore-frontend/master/src/utils/SPORE.png"
         }
     ],
-    "timestamp": "2021-06-11T21:40:00+00:00"
+    "timestamp": "2021-06-27T12:49:00+00:00"
 }
