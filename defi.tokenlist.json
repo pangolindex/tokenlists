@@ -8,7 +8,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 10,
+        "minor": 11,
         "patch": 0
     },
     "timestamp": "2021-06-11T03:00:00+00:00",
@@ -208,6 +208,16 @@
              "name": "Sherpa",
              "symbol": "SHERPA",
              "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png"
+             
+        },
+        {
+
+             "chainId": 43114,
+             "address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+             "decimals": 18,
+             "name": "DeFi Yield Protocol",
+             "symbol": "DYP",
+             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo.png"
              
         }
     ]
