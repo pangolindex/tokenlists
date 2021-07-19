@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 2,
-        "minor": 11,
+        "minor": 12,
         "patch": 0
     },
-    "timestamp": "2021-06-11T03:00:00+00:00",
+    "timestamp": "2021-07-19T18:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -181,17 +181,14 @@
             "logoURI": "https://raw.githubusercontent.com/virtualdiamondtoken/site/main/logo.png"  
          },
          {
-
              "chainId": 43114,
              "address": "0x76076880e1EBBcE597e6E15c47386cd34de4930F",
              "decimals": 18,
              "name": "Canopus",
              "symbol": "OPUS",
              "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x76076880e1EBBcE597e6E15c47386cd34de4930F/logo.png"
-             
         },
         {
-
              "chainId": 43114,
              "address": "0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf",
              "decimals": 18,
@@ -201,7 +198,6 @@
              
         },
         {
-
              "chainId": 43114,
              "address": "0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6",
              "decimals": 18,
@@ -211,14 +207,28 @@
              
         },
         {
-
              "chainId": 43114,
              "address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
              "decimals": 18,
              "name": "DeFi Yield Protocol",
              "symbol": "DYP",
              "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo.png"
-             
+        },
+        {
+            "chainId": 43114,
+            "address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+            "decimals": 18,
+            "name": "Beefy Finance",
+            "symbol": "BIFI",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xd6070ae98b8069de6B494332d1A1a81B6179D960/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
+            "decimals": 18,
+            "name": "Binance",
+            "symbol": "BNB",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x264c1383EA520f73dd837F915ef3a732e204a493/logo.png"
         }
     ]
 }
