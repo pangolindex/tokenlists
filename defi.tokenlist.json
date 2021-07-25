@@ -237,7 +237,7 @@
             "decimals": 18,
             "name": "Weble Ecosystem Token",
             "symbol": "WET",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png"
         }
     ]
 }
