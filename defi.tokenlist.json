@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 2,
-        "minor": 12,
+        "minor": 13,
         "patch": 0
     },
-    "timestamp": "2021-07-19T18:00:00+00:00",
+    "timestamp": "2021-07-25T20:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -229,6 +229,15 @@
             "name": "Binance",
             "symbol": "BNB",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x264c1383EA520f73dd837F915ef3a732e204a493/logo.png"
+        }
+        ,
+        {
+            "chainId": 43114,
+            "address": "0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D",
+            "decimals": 18,
+            "name": "Weble Ecosystem Token",
+            "symbol": "WET",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png"
         }
     ]
 }
