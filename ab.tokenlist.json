@@ -10,7 +10,7 @@
     "version": {
         "major": 1,
         "minor": 1,
-        "patch": 2
+        "patch": 3
     },
     "tokens": [
         {
@@ -34,7 +34,7 @@
             "address": "0xd501281565bf7789224523144Fe5D98e8B28f267",
             "decimals": 18,
             "name": "1INCH Token",
-            "symbol": "1INCHe",
+            "symbol": "1INCH.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/1INCH/logo.png"
         },
         {
@@ -42,7 +42,7 @@
             "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
             "decimals": 18,
             "name": "Aave Token",
-            "symbol": "AAVEe",
+            "symbol": "AAVE.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/AAVE/logo.png"
         },
         {
@@ -50,7 +50,7 @@
             "address": "0x98443b96ea4b0858fdf3219cd13e98c7a4690588",
             "decimals": 18,
             "name": "Basic Attention Token",
-            "symbol": "BATe",
+            "symbol": "BAT.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/BAT/logo.png"
         },
         {
@@ -58,7 +58,7 @@
             "address": "0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98",
             "decimals": 18,
             "name": "Binance USD",
-            "symbol": "BUSDe",
+            "symbol": "BUSD.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/BUSD/logo.png"
         },
         {
@@ -66,7 +66,7 @@
             "address": "0xc3048e19e76cb9a3aa9d77d8c03c29fc906e2437",
             "decimals": 18,
             "name": "Compound",
-            "symbol": "COMPe",
+            "symbol": "COMP.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/COMP/logo.png"
         },
         {
@@ -74,7 +74,7 @@
             "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
             "decimals": 18,
             "name": "Dai Stablecoin",
-            "symbol": "DAIe",
+            "symbol": "DAI.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/DAI/logo.png"
         },
         {
@@ -82,7 +82,7 @@
             "address": "0x8a0cac13c7da965a312f08ea4229c37869e85cb9",
             "decimals": 18,
             "name": "Graph Token",
-            "symbol": "GRTe",
+            "symbol": "GRT.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/GRT/logo.png"
         },
         {
@@ -90,7 +90,7 @@
             "address": "0x5947bb275c521040051d82396192181b413227a3",
             "decimals": 18,
             "name": "ChainLink Token",
-            "symbol": "LINKe",
+            "symbol": "LINK.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png"
         },
         {
@@ -98,7 +98,7 @@
             "address": "0x88128fd4b259552a9a1d457f435a6527aab72d42",
             "decimals": 18,
             "name": "Maker",
-            "symbol": "MKRe",
+            "symbol": "MKR.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/MKR/logo.png"
         },
         {
@@ -106,7 +106,7 @@
             "address": "0xbec243c995409e6520d7c41e404da5deba4b209b",
             "decimals": 18,
             "name": "Synthetix Network Token",
-            "symbol": "SNXe",
+            "symbol": "SNX.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SNX/logo.png"
         },
         {
@@ -114,7 +114,7 @@
             "address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
             "decimals": 18,
             "name": "SushiToken",
-            "symbol": "SUSHIe",
+            "symbol": "SUSHI.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SUSHI/logo.png"
         },
         {
@@ -122,7 +122,7 @@
             "address": "0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339",
             "decimals": 18,
             "name": "UMA Voting Token v1",
-            "symbol": "UMAe",
+            "symbol": "UMA.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/UMA/logo.png"
         },
         {
@@ -130,7 +130,7 @@
             "address": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580",
             "decimals": 18,
             "name": "Uniswap",
-            "symbol": "UNIe",
+            "symbol": "UNI.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/UNI/logo.png"
         },
         {
@@ -138,7 +138,7 @@
             "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
             "decimals": 18,
             "name": "Tether USD",
-            "symbol": "USDTe",
+            "symbol": "USDT.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
         },
         {
@@ -146,7 +146,7 @@
             "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
             "decimals": 18,
             "name": "Wrapped BTC",
-            "symbol": "WBTCe",
+            "symbol": "WBTC.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WBTC/logo.png"
         },
         {
@@ -154,7 +154,7 @@
             "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
             "decimals": 18,
             "name": "Wrapped ETH",
-            "symbol": "WETHe",
+            "symbol": "WETH.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
         },
         {
@@ -162,7 +162,7 @@
             "address": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
             "decimals": 18,
             "name": "yearn.finance",
-            "symbol": "YFIe",
+            "symbol": "YFI.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/YFI/logo.png"
         },
         {
@@ -170,9 +170,9 @@
             "address": "0x596fa47043f99a4e0f122243b841e55375cde0d2",
             "decimals": 18,
             "name": "0x Protocol Token",
-            "symbol": "ZRXe",
+            "symbol": "ZRX.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/ZRX/logo.png"
         }
     ],
-    "timestamp": "2021-07-28T16:00:00+00:00"
+    "timestamp": "2021-07-30T16:00:00+00:00"
 }
