@@ -30,7 +30,7 @@
             "logoURI": "https://raw.githubusercontent.com/avaware/bridge-tokens/a35b91bcd9874683965ccea8d7c20f90f479af4d/avalanche-tokens/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png"
         },
         {
-            "address": "0xdb333724fae72b4253fc3d44c8270cbbc86d147b",
+            "address": "0xdb333724fAE72b4253FC3d44c8270CBBC86d147b",
             "chainId": 43114,
             "name": "Cabbage.Cash",
             "symbol": "CABAG",
