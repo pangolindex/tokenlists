@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 2,
-        "minor": 13,
+        "minor": 14,
         "patch": 0
     },
-    "timestamp": "2021-07-25T20:00:00+00:00",
+    "timestamp": "2021-07-28T20:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -28,6 +28,14 @@
             "symbol": "AVE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/avaware/bridge-tokens/a35b91bcd9874683965ccea8d7c20f90f479af4d/avalanche-tokens/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png"
+        },
+        {
+            "address": "0xdb333724fAE72b4253FC3d44c8270CBBC86d147b",
+            "chainId": 43114,
+            "name": "Cabbage.Cash",
+            "symbol": "CABAG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/qualitycabbage/token/main/logo.png"
         },
         {
             "chainId": 43114,
