@@ -10,7 +10,7 @@
     "version": {
         "major": 2,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -136,7 +136,7 @@
         {
             "chainId": 43114,
             "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
-            "decimals": 18,
+            "decimals": 6,
             "name": "Tether USD",
             "symbol": "USDT.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
@@ -144,7 +144,7 @@
         {
             "chainId": 43114,
             "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
-            "decimals": 18,
+            "decimals": 8,
             "name": "Wrapped BTC",
             "symbol": "WBTC.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WBTC/logo.png"
@@ -174,5 +174,5 @@
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/ZRX/logo.png"
         }
     ],
-    "timestamp": "2021-07-30T16:00:00+00:00"
+    "timestamp": "2021-08-09T00:00:00+00:00"
 }
