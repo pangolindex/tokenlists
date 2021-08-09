@@ -7,10 +7,10 @@
     ],
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
-    "timestamp": "2021-06-08T00:00:00+00:00",
+    "timestamp": "2021-08-09T00:00:00+00:00",
     "tokens": [
         {
             "chainId": 43114,
@@ -19,6 +19,14 @@
             "name": "Tether USD",
             "symbol": "USDT",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xde3A24028580884448a5397872046a019649b084/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
         },
         {
             "chainId": 43114,
@@ -38,6 +46,14 @@
         },
         {
             "chainId": 43114,
+            "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+            "decimals": 18,
+            "name": "Dai Stablecoin",
+            "symbol": "DAI.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/DAI/logo.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98",
             "decimals": 18,
             "name": "Frax",
@@ -51,6 +67,14 @@
             "name": "BiLira",
             "symbol": "TRYB",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x564A341Df6C126f90cf3ECB92120FD7190ACb401/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
+            "decimals": 18,
+            "name": "Binance USD",
+            "symbol": "BUSD.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/BUSD/logo.png"
         }
     ]
 }
