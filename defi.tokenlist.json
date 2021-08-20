@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 2,
-        "minor": 18,
+        "minor": 19,
         "patch": 0
     },
-    "timestamp": "2021-08-19T10:00:00+00:00",
+    "timestamp": "2021-08-20T10:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -203,7 +203,6 @@
              "name": "Canary",
              "symbol": "CNR",
              "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf/logo.png"
-             
         },
         {
              "chainId": 43114,
@@ -212,7 +211,6 @@
              "name": "Sherpa",
              "symbol": "SHERPA",
              "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png"
-             
         },
         {
              "chainId": 43114,
@@ -261,6 +259,14 @@
             "name": "BENQI",
             "symbol": "QI",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd",
+            "decimals": 18,
+            "name": "AllianceBlock Token",
+            "symbol": "WALBT",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd/logo.png"
         }
     ]
 }
