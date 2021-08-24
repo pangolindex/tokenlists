@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 2,
-        "minor": 20,
+        "minor": 21,
         "patch": 0
     },
-    "timestamp": "2021-08-23T21:19:53.238+00:00",
+    "timestamp": "2021-08-24T17:00:00.000+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -275,6 +275,14 @@
             "name": "Tundra Token",
             "symbol": "TUNDRA",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png"
+        },
+        {
+            "address": "0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8",
+            "chainId": 43114,
+            "name": "Gaj Finance",
+            "symbol": "GAJ",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png"
         }
     ]
 }
