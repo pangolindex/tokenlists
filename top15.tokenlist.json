@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 4,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
@@ -124,7 +124,7 @@
             "name": "ChainLink Token",
             "symbol": "LINK.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png"
-        },
+        }
     ],
-    "timestamp": "2021-06-27T12:49:00+00:00"
+    "timestamp": "2021-08-23T12:49:00+00:00"
 }
