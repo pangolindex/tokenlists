@@ -22,6 +22,14 @@
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
         },
         {
+            "address": "0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8",
+            "chainId": 43114,
+            "name": "Gaj Finance",
+            "symbol": "GAJ",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/PolyGaj/assets/main/logo200x200.png"
+        },
+        {
             "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
             "chainId": 43114,
             "name": "Avaware",
