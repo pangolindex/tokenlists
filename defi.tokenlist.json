@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 2,
-        "minor": 19,
+        "minor": 20,
         "patch": 0
     },
-    "timestamp": "2021-08-20T10:00:00+00:00",
+    "timestamp": "2021-08-23T21:19:53.238+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -267,6 +267,14 @@
             "name": "AllianceBlock Token",
             "symbol": "WALBT",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1",
+            "decimals": 18,
+            "name": "Tundra Token",
+            "symbol": "TUNDRA",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png"
         }
     ]
 }
