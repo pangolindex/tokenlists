@@ -119,6 +119,14 @@
         },
         {
             "chainId": 43114,
+            "address": "0xc7B5D72C836e718cDA8888eaf03707fAef675079",
+            "decimals": 18,
+            "name": "TrustSwap Token",
+            "symbol": "SWAP.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SWAP/logo.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339",
             "decimals": 18,
             "name": "UMA Voting Token v1",
@@ -140,6 +148,14 @@
             "name": "Tether USD",
             "symbol": "USDT.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
         },
         {
             "chainId": 43114,
