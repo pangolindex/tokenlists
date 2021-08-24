@@ -1,5 +1,5 @@
 {
-    "name": "AVAX ETH Tokens",
+    "name": "AEB Tokens",
     "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
     "keywords": [
         "avalanche",
@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "tokens": [
@@ -2958,5 +2958,5 @@
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8DF92E9C0508aB0030d432DA9F2C65EB1Ee97620/logo.png"
         }
     ],
-    "timestamp": "2021-02-09T17:49:00+00:00"
+    "timestamp": "2021-08-23T17:49:00+00:00"
 }
