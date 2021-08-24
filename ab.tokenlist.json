@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 0,
+        "minor": 1,
         "patch": 1
     },
     "tokens": [
@@ -190,5 +190,5 @@
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/ZRX/logo.png"
         }
     ],
-    "timestamp": "2021-08-09T00:00:00+00:00"
+    "timestamp": "2021-08-24T15:00:00+00:00"
 }
