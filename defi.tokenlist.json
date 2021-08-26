@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 2,
-        "minor": 21,
+        "minor": 22,
         "patch": 0
     },
-    "timestamp": "2021-08-24T17:00:00.000+00:00",
+    "timestamp": "2021-08-26T12:00:00.000+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -283,6 +283,14 @@
             "symbol": "GAJ",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png"
+        },
+        {
+            "address": "0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC",
+            "chainId": 43114,
+            "name": "Teddy Cash Token",
+            "symbol": "TEDDY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png"
         }
     ]
 }
