@@ -8,8 +8,8 @@
         "bridge"
     ],
     "version": {
-        "major": 4,
-        "minor": 2,
+        "major": 5,
+        "minor": 0,
         "patch": 0
     },
     "tokens": [
@@ -79,11 +79,11 @@
         },
         {
             "chainId": 43114,
-            "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
+            "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
             "decimals": 18,
             "name": "Dai Stablecoin",
-            "symbol": "DAI",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png"
+            "symbol": "DAI.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png"
         },
         {
             "chainId": 43114,
@@ -126,5 +126,5 @@
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png"
         }
     ],
-    "timestamp": "2021-08-23T12:49:00+00:00"
+    "timestamp": "2021-08-27T12:00:00+00:00"
 }
