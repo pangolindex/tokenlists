@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 2,
-        "minor": 23,
+        "minor": 24,
         "patch": 0
     },
-    "timestamp": "2021-08-26T18:00:00.000+00:00",
+    "timestamp": "2021-08-27T08:00:00.000+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -323,6 +323,14 @@
             "symbol": "ELE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0/logo.png"
+        },
+        {
+            "address": "0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1",
+            "chainId": 43114,
+            "name": "SHIBAVAX",
+            "symbol": "SHIBX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png"
         }
     ]
 }
