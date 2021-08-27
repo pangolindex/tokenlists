@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 4,
+        "major": 5,
         "minor": 0,
         "patch": 0
     },
@@ -79,14 +79,6 @@
         },
         {
             "chainId": 43114,
-            "address": "0x53CEedB4f6f277edfDDEdB91373B044FE6AB5958",
-            "decimals": 18,
-            "name": "Compound",
-            "symbol": "COMP",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x53CEedB4f6f277edfDDEdB91373B044FE6AB5958/logo.png"
-        },
-        {
-            "chainId": 43114,
             "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
             "decimals": 18,
             "name": "Dai Stablecoin",
@@ -108,14 +100,6 @@
             "name": "PolkastarterToken",
             "symbol": "POLS",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xE1463E8991c8A62e64b77b5Fb6B22F190344C2A9/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x4fcC1E009ef85B35d39B3Fe533d27751e4CFa8f7",
-            "decimals": 18,
-            "name": "Quant",
-            "symbol": "QNT",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4fcC1E009ef85B35d39B3Fe533d27751e4CFa8f7/logo.png"
         },
         {
             "chainId": 43114,
@@ -182,5 +166,5 @@
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x99519AcB025a0e0d44c3875A4BbF03af65933627/logo.png"
         }
     ],
-    "timestamp": "2021-08-27T05:10:00+00:00"
+    "timestamp": "2021-08-27T05:20:00+00:00"
 }
