@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 3,
+        "major": 4,
         "minor": 0,
         "patch": 0
     },
@@ -36,14 +36,6 @@
             "name": "Ether",
             "symbol": "ETH",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xC8E94215b75F5B9c3b5fB041eC3A97B7D17a37Ff",
-            "decimals": 18,
-            "name": "0x Protocol Token",
-            "symbol": "ZRX",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC8E94215b75F5B9c3b5fB041eC3A97B7D17a37Ff/logo.png"
         },
         {
             "chainId": 43114,
@@ -188,15 +180,7 @@
             "name": "yearn.finance",
             "symbol": "YFI",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x99519AcB025a0e0d44c3875A4BbF03af65933627/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x8DF92E9C0508aB0030d432DA9F2C65EB1Ee97620",
-            "decimals": 18,
-            "name": "Maker",
-            "symbol": "MKR",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8DF92E9C0508aB0030d432DA9F2C65EB1Ee97620/logo.png"
         }
     ],
-    "timestamp": "2021-08-24T01:00:00+00:00"
+    "timestamp": "2021-08-27T05:10:00+00:00"
 }
