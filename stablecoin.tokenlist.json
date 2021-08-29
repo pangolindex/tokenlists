@@ -7,10 +7,10 @@
     ],
     "version": {
         "major": 2,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
-    "timestamp": "2021-08-26T12:00:00+00:00",
+    "timestamp": "2021-08-29T12:00:00+00:00",
     "tokens": [
         {
             "chainId": 43114,
@@ -75,6 +75,14 @@
             "symbol": "TSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo.png"
+        }
+        {
+            "address": "0x3509f19581aFEDEff07c53592bc0Ca84e4855475",
+            "chainId": 43114,
+            "name": "xDollar Stablecoin",
+            "symbol": "xUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/xDollar-Finance/logo/master/logo_256x256.png"
         }
     ]
 }
