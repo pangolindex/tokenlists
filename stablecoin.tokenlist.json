@@ -75,7 +75,7 @@
             "symbol": "TSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo.png"
-        }
+        },
         {
             "address": "0x3509f19581aFEDEff07c53592bc0Ca84e4855475",
             "chainId": 43114,
