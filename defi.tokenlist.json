@@ -331,7 +331,7 @@
             "symbol": "SHIBX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png"
-        }
+        },
         {
             "address": "0x9eF758aC000a354479e538B8b2f01b917b8e89e7",
             "chainId": 43114,
