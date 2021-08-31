@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 2,
-        "minor": 26,
+        "minor": 27,
         "patch": 0
     },
-    "timestamp": "2021-08-29T11:00:00.000+00:00",
+    "timestamp": "2021-08-30T23:00:00.000+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -355,6 +355,14 @@
             "symbol": "FXS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png"
+        },
+        {
+            "address": "0xF44Fb887334Fa17d2c5c0F970B5D320ab53eD557",
+            "chainId": 43114,
+            "name": "Starter",
+            "symbol": "START",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xF44Fb887334Fa17d2c5c0F970B5D320ab53eD557/logo.png"
         }
     ]
 }
