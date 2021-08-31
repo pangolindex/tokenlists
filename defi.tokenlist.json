@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 2,
-        "minor": 27,
+        "minor": 28,
         "patch": 0
     },
-    "timestamp": "2021-08-30T23:00:00.000+00:00",
+    "timestamp": "2021-08-31T14:00:00.000+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -363,6 +363,22 @@
             "symbol": "START",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xF44Fb887334Fa17d2c5c0F970B5D320ab53eD557/logo.png"
+        },
+        {
+            "address": "0xc7B5D72C836e718cDA8888eaf03707fAef675079",
+            "chainId": 43114,
+            "name": "TrustSwap Token",
+            "symbol": "SWAP.e",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xc7B5D72C836e718cDA8888eaf03707fAef675079/logo.png"
+        },
+        {
+            "address": "0x62a4f3280C02C8Cc3E9ff984e4aaD94f8F7fEA26",
+            "chainId": 43114,
+            "name": "BABYPangolin",
+            "symbol": "BABYPangolin",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x62a4f3280C02C8Cc3E9ff984e4aaD94f8F7fEA26/logo.png"
         }
     ]
 }
