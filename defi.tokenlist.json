@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 2,
-        "minor": 29,
+        "minor": 30,
         "patch": 0
     },
-    "timestamp": "2021-09-01T04:12:00.000+00:00",
+    "timestamp": "2021-09-01T20:45:00.000+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -379,6 +379,22 @@
             "symbol": "BABYPangolin",
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x62a4f3280C02C8Cc3E9ff984e4aaD94f8F7fEA26/logo.png"
+        },
+        {
+            "address": "0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31",
+            "chainId": 43114,
+            "name": "Blue Token",
+            "symbol": "BLUE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png"
+        },
+        {
+            "address": "0x999c891262ce01f1C1AFD1D46260E4c1E508B243",
+            "chainId": 43114,
+            "name": "Give Token",
+            "symbol": "GIVE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x999c891262ce01f1C1AFD1D46260E4c1E508B243/logo.png"
         }
     ]
 }
