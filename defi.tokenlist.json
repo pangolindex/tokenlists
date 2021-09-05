@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 2,
-        "minor": 32,
+        "minor": 33,
         "patch": 0
     },
-    "timestamp": "2021-09-05T19:33:00.000+00:00",
+    "timestamp": "2021-09-05T21:10:00.000+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -411,6 +411,14 @@
             "name": "EXP Token",
             "symbol": "EXP",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf57b80A574297892B64E9a6c997662889b04a73a/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x8A9B36393633aD77ceb8aebC7768815627B93557",
+            "decimals": 18,
+            "name": "SphereSwap Token",
+            "symbol": "SPHERE.e",
+            "logoURI": "https://raw.githubusercontent.com/SphereSwap/SphereSwapData/main/logo/logo.png"
         }
     ]
 }
