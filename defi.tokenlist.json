@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 2,
-        "minor": 31,
+        "minor": 32,
         "patch": 0
     },
-    "timestamp": "2021-09-03T15:00:00.000+00:00",
+    "timestamp": "2021-09-05T19:33:00.000+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -403,6 +403,14 @@
             "symbol": "STORM",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6AFD5A1ea4b793CC1526d6Dc7e99A608b356eF7b/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xf57b80a574297892b64e9a6c997662889b04a73a",
+            "decimals": 18,
+            "name": "EXP Token",
+            "symbol": "EXP",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf57b80a574297892b64e9a6c997662889b04a73a/logo.png"
         }
     ]
 }
