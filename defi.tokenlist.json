@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 2,
-        "minor": 33,
+        "minor": 34,
         "patch": 0
     },
-    "timestamp": "2021-09-05T21:10:00.000+00:00",
+    "timestamp": "2021-09-05T23:00:00.000+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -155,14 +155,6 @@
             "name": "Cycle Protocol",
             "symbol": "CYCLE",
             "logoURI": "https://raw.githubusercontent.com/CycleProtocol/assets/master/cycle-logo-round-small.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x4480B4DdFb15fE6518817ef024D8B493afF2Db54",
-            "decimals": 18,
-            "name": "Birdy Finance",
-            "symbol": "BIRD",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4480B4DdFb15fE6518817ef024D8B493afF2Db54/logo.png"
         },
         {
             "chainId": 43114,
