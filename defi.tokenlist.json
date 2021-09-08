@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 3,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
-    "timestamp": "2021-09-08T01:00:00.000+00:00",
+    "timestamp": "2021-09-08T07:00:00.000+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -419,6 +419,14 @@
             "name": "YAY Games",
             "symbol": "YAY",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1",
+            "decimals": 18,
+            "name": "Avaxtars Token",
+            "symbol": "AVXT",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo.png"
         }
     ]
 }
