@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 3,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
-    "timestamp": "2021-09-05T23:00:00.000+00:00",
+    "timestamp": "2021-09-08T01:00:00.000+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -411,6 +411,14 @@
             "name": "SphereSwap Token",
             "symbol": "SPHERE.e",
             "logoURI": "https://raw.githubusercontent.com/SphereSwap/SphereSwapData/main/logo/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa",
+            "decimals": 18,
+            "name": "YAY Games",
+            "symbol": "YAY",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa/logo.png"
         }
     ]
 }
