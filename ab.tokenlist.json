@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 1,
+        "minor": 2,
         "patch": 1
     },
     "tokens": [
@@ -68,6 +68,14 @@
             "name": "Compound",
             "symbol": "COMP.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/COMP/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06",
+            "decimals": 18,
+            "name": "Curve DAO Token",
+            "symbol": "CRV.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/CRV/logo.png"
         },
         {
             "chainId": 43114,
@@ -143,19 +151,19 @@
         },
         {
             "chainId": 43114,
-            "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
-            "decimals": 6,
-            "name": "Tether USD",
-            "symbol": "USDT.e",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
-        },
-        {
-            "chainId": 43114,
             "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
             "decimals": 6,
             "name": "USD Coin",
             "symbol": "USDC.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
         },
         {
             "chainId": 43114,
@@ -190,5 +198,5 @@
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/ZRX/logo.png"
         }
     ],
-    "timestamp": "2021-08-24T15:00:00+00:00"
+    "timestamp": "2021-09-09T20:30:00+00:00"
 }
