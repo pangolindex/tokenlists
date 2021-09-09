@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 3,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
-    "timestamp": "2021-09-08T13:00:00.000+00:00",
+    "timestamp": "2021-09-09T10:00:00.000+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -427,6 +427,14 @@
             "name": "Avaxtars Token",
             "symbol": "AVXT",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347",
+            "decimals": 8,
+            "name": "TOK",
+            "symbol": "TOK",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347/logo.png"
         }
     ]
 }
