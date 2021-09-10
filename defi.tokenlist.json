@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 3,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
-    "timestamp": "2021-09-09T10:00:00.000+00:00",
+    "timestamp": "2021-09-10T13:00:00.000+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -435,6 +435,14 @@
             "name": "TOK",
             "symbol": "TOK",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xb54f16fB19478766A268F172C9480f8da1a7c9C3",
+            "decimals": 9,
+            "name": "Time",
+            "symbol": "TIME",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png"
         }
     ]
 }
