@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 3,
-        "minor": 6,
+        "minor": 7,
         "patch": 0
     },
-    "timestamp": "2021-09-10T23:00:00.000+00:00",
+    "timestamp": "2021-9-11T15:00:00.000+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -20,6 +20,14 @@
             "symbol": "PNG",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x06f9Dc035b912bfbec7227ff98f385C6DDb1fbCB",
+            "decimals": 18,
+            "name": "8Bit Defi",
+            "symbol": "8B",
+            "logoURI": "https://raw.githubusercontent.com/8Bit-King/tokenList/main/logo.png"
         },
         {
             "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
