@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 3,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     },
-    "timestamp": "2021-09-10T13:00:00.000+00:00",
+    "timestamp": "2021-09-10T23:00:00.000+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -443,6 +443,14 @@
             "name": "Time",
             "symbol": "TIME",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x90842eb834cFD2A1DB0b1512B254a18E4D396215",
+            "decimals": 9,
+            "name": "Good Bridging",
+            "symbol": "GB",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png"
         }
     ]
 }
