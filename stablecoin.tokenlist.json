@@ -8,7 +8,7 @@
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 0
+        "patch": 1
     },
     "timestamp": "2021-09-10T14:00:00+00:00",
     "tokens": [
@@ -22,7 +22,7 @@
         },
         {
             "chainId": 43114,
-            "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
             "decimals": 6,
             "name": "USD Coin",
             "symbol": "USDC.e",
