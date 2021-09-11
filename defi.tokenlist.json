@@ -8,11 +8,19 @@
     ],
     "version": {
         "major": 3,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     },
-    "timestamp": "2021-09-10T13:00:00.000+00:00",
+    "timestamp": "2021-09-11T02:39:57+00:00",
     "tokens": [
+        {
+            "chainId": 43114,
+            "address": "0x06f9Dc035b912bfbec7227ff98f385C6DDb1fbCB",
+            "decimals": 18,
+            "name": "8Bit Defi",
+            "symbol": "8B",
+            "logoURI": "https://raw.githubusercontent.com/8Bit-King/tokenList/main/logo.png"
+        },
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
             "chainId": 43114,
