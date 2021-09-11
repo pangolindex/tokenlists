@@ -6,11 +6,11 @@
         "stablecoin"
     ],
     "version": {
-        "major": 2,
-        "minor": 3,
-        "patch": 1
+        "major": 3,
+        "minor": 0,
+        "patch": 0
     },
-    "timestamp": "2021-09-10T14:00:00+00:00",
+    "timestamp": "2021-09-11T14:30:00+00:00",
     "tokens": [
         {
             "chainId": 43114,

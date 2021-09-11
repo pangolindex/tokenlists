@@ -8,10 +8,11 @@
         "bridge"
     ],
     "version": {
-        "major": 2,
-        "minor": 2,
-        "patch": 2
+        "major": 3,
+        "minor": 0,
+        "patch": 0
     },
+    "timestamp": "2021-09-11T14:30:00+00:00",
     "tokens": [
         {
             "chainId": 43114,
@@ -197,6 +198,5 @@
             "symbol": "ZRX.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/ZRX/logo.png"
         }
-    ],
-    "timestamp": "2021-09-09T20:30:00+00:00"
+    ]
 }
