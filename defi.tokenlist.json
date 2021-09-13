@@ -7,11 +7,11 @@
         "dex"
     ],
     "version": {
-        "major": 3,
-        "minor": 8,
-        "patch": 1
+        "major": 4,
+        "minor": 0,
+        "patch": 0
     },
-    "timestamp": "2021-09-11T16:06:00+00:00",
+    "timestamp": "2021-09-12T23:04:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -20,14 +20,6 @@
             "symbol": "PNG",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x06f9Dc035b912bfbec7227ff98f385C6DDb1fbCB",
-            "decimals": 18,
-            "name": "8Bit Defi",
-            "symbol": "8B",
-            "logoURI": "https://raw.githubusercontent.com/8Bit-King/tokenList/main/logo.png"
         },
         {
             "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
@@ -459,6 +451,14 @@
             "name": "Good Bridging",
             "symbol": "GB",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x0ebd9537A25f56713E34c45b38F421A1e7191469",
+            "decimals": 18,
+            "name": "OpenOcean",
+            "symbol": "OOE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0ebd9537A25f56713E34c45b38F421A1e7191469/logo.png"
         }
     ]
 }
