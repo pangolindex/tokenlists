@@ -459,6 +459,14 @@
             "name": "OpenOcean",
             "symbol": "OOE",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0ebd9537A25f56713E34c45b38F421A1e7191469/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x3709E8615E02C15B096f8a9B460ccb8cA8194e86",
+            "decimals": 18,
+            "name": "Vee Finance",
+            "symbol": "VEE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3709E8615E02C15B096f8a9B460ccb8cA8194e86/logo.png"
         }
     ]
 }
