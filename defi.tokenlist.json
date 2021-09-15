@@ -170,7 +170,7 @@
             "decimals": 9,
             "name": "TeslaBitcoin",
             "symbol": "TESLABTC",
-            "logoURI": "https://raw.githubusercontent.com/crackfi/tesla_btc_logo/master/Tesla_Bitcoin_logo.png"            
+            "logoURI": "https://raw.githubusercontent.com/crackfi/tesla_btc_logo/master/Tesla_Bitcoin_logo.png"
         },
         {
             "chainId": 43114,
@@ -178,7 +178,7 @@
             "decimals": 9,
             "name": "diamondtoken.world",
             "symbol": "Diamond",
-            "logoURI": "https://raw.githubusercontent.com/virtualdiamondtoken/site/main/logo.png"  
+            "logoURI": "https://raw.githubusercontent.com/virtualdiamondtoken/site/main/logo.png"
          },
          {
              "chainId": 43114,
@@ -475,6 +475,14 @@
             "name": "Ape In",
             "symbol": "APEIN",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png"
+        },
+        {
+          "address": "0xdE61d83F83950fDe967BD2C68B1a9f64694F85Ff",
+          "chainId": 43114,
+          "name": "JENKEM",
+          "symbol": "JENKEM",
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xdE61d83F83950fDe967BD2C68B1a9f64694F85Ff/logo.png"
         }
     ]
 }
