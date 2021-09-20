@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 4,
-        "minor": 3,
+        "minor": 5,
         "patch": 0
     },
-    "timestamp": "2021-09-15T15:00:00+00:00",
+    "timestamp": "2021-09-20T02:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -499,6 +499,22 @@
             "name": "APE-X",
             "symbol": "APE-X",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xfC108f21931576a21D0b4b301935DAc80d9E5086",
+            "decimals": 18,
+            "name": "Iron Finance ICE",
+            "symbol": "IronICE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfC108f21931576a21D0b4b301935DAc80d9E5086/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604",
+            "decimals": 12,
+            "name": "MiniYAK",
+            "symbol": "mYAK",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604/logo.png"
         }
     ]
 }
