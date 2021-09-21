@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 4,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     },
-    "timestamp": "2021-09-20T02:00:00+00:00",
+    "timestamp": "2021-09-21T17:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -515,6 +515,14 @@
             "name": "MiniYAK",
             "symbol": "mYAK",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604/logo.png"
-        }
+        },
+          {
+      "chainId": 43114,
+      "address": "0x70B907f3F7231bE122100dac51C1995e6804E346",
+      "decimals": 6,
+      "name": "True Reflect Token",
+      "symbol": "TRT",
+      "logoURI": "https://raw.githubusercontent.com/TrueReflect-Lead-Design/Logo/main/logo.png"
+  }
     ]
 }
