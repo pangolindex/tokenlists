@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 4,
-        "minor": 6,
+        "minor": 7,
         "patch": 0
     },
-    "timestamp": "2021-09-22T23:00:00+00:00",
+    "timestamp": "2021-09-24T15:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -59,6 +59,14 @@
             "decimals": 18,
             "name": "Zero.Exchange Token",
             "symbol": "ZERO"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xCa7730D239f9fCA6d9683B0a62ed1A6c660D7CbA",
+            "decimals": 18,
+            "name": "Freebitcoins",
+            "symbol": "FREE",
+            "logoURI": "https://raw.githubusercontent.com/FreeBitcoins-com/tokens/main/assets/0xCa7730D239f9fCA6d9683B0a62ed1A6c660D7CbA/logo.png"
         },
         {
             "chainId": 43114,
