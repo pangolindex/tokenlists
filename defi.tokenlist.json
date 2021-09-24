@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 4,
-        "minor": 4,
+        "minor": 7,
         "patch": 0
     },
-    "timestamp": "2021-09-19T15:00:00+00:00",
+    "timestamp": "2021-09-24T15:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -507,6 +507,54 @@
             "name": "APE-X",
             "symbol": "APE-X",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xfC108f21931576a21D0b4b301935DAc80d9E5086",
+            "decimals": 18,
+            "name": "Iron Finance ICE",
+            "symbol": "IronICE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfC108f21931576a21D0b4b301935DAc80d9E5086/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604",
+            "decimals": 12,
+            "name": "MiniYAK",
+            "symbol": "mYAK",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b",
+            "decimals": 18,
+            "name": "WOWSwap",
+            "symbol": "WOW",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
+            "decimals": 18,
+            "name": "Spell Token",
+            "symbol": "SPELL",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x70B907f3F7231bE122100dac51C1995e6804E346",
+            "decimals": 6,
+            "name": "True Reflect Token",
+            "symbol": "TRT",
+            "logoURI": "https://raw.githubusercontent.com/TrueReflect-Lead-Design/Logo/main/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x8d4A8522f2FB040d4755757C05d99976C0D29fCE",
+            "decimals": 9,
+            "name": "Tjoma.Finance",
+            "symbol": "TJOMA",
+            "logoURI": "https://raw.githubusercontent.com/sled-finance/tjoma-media/master/logo.png"
         }
     ]
 }
