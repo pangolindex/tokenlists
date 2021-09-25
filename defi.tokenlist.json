@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 4,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     },
-    "timestamp": "2021-09-24T15:00:00+00:00",
+    "timestamp": "2021-09-25T15:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -178,7 +178,7 @@
             "decimals": 9,
             "name": "TeslaBitcoin",
             "symbol": "TESLABTC",
-            "logoURI": "https://raw.githubusercontent.com/crackfi/tesla_btc_logo/master/Tesla_Bitcoin_logo.png"            
+            "logoURI": "https://raw.githubusercontent.com/crackfi/tesla_btc_logo/master/Tesla_Bitcoin_logo.png"
         },
         {
             "chainId": 43114,
@@ -186,7 +186,7 @@
             "decimals": 9,
             "name": "diamondtoken.world",
             "symbol": "Diamond",
-            "logoURI": "https://raw.githubusercontent.com/virtualdiamondtoken/site/main/logo.png"  
+            "logoURI": "https://raw.githubusercontent.com/virtualdiamondtoken/site/main/logo.png"
          },
          {
              "chainId": 43114,
@@ -555,6 +555,14 @@
             "name": "Tjoma.Finance",
             "symbol": "TJOMA",
             "logoURI": "https://raw.githubusercontent.com/sled-finance/tjoma-media/master/logo.png"
+        },
+        {
+          "chainId": 43114,
+          "address": "0xdE61d83F83950fDe967BD2C68B1a9f64694F85Ff",
+          "name": "JENKEM",
+          "symbol": "JENKEM",
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xdE61d83F83950fDe967BD2C68B1a9f64694F85Ff/logo.png"
         }
     ]
 }
