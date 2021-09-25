@@ -8,10 +8,10 @@
   ],
   "version": {
     "major": 4,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
-  "timestamp": "2021-09-20T02:00:00+00:00",
+  "timestamp": "2021-09-25T02:00:00+00:00",
   "tokens": [
     {
       "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -522,7 +522,7 @@
       "name": "JENKEM",
       "symbol": "JENKEM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xdE61d83F83950fDe967BD2C68B1a9f64694F85Ff/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xdE61d83F83950fDe967BD2C68B1a9f64694F85Ff/logo.png"
     }
   ]
 }
