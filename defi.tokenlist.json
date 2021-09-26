@@ -563,8 +563,8 @@
           "symbol": "JENKEM",
           "decimals": 18,
           "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xdE61d83F83950fDe967BD2C68B1a9f64694F85Ff/logo.png"
-        }
-                {
+        },
+        {
           "chainId": 43114,
           "address": "0x6d2FbaDdaB23Fc914aAF6a08f2082eB9d7BC2135",
           "name": "ICEDOGE",
