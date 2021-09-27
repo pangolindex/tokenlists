@@ -9,9 +9,9 @@
     "version": {
         "major": 4,
         "minor": 9,
-        "patch": 0
+        "patch": 1
     },
-    "timestamp": "2021-09-27T01:00:00+00:00",
+    "timestamp": "2021-09-27T11:46:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -154,7 +154,7 @@
             "decimals": 18,
             "name": "Gondola",
             "symbol": "GDL",
-            "logoURI": "https://raw.githubusercontent.com/gondola-finance/frontend/master/src/assets/icons/brand_logo_darkmode.png"
+            "logoURI": "https://raw.githubusercontent.com/gondola-finance/frontend-v2/master/src/assets/icons/colour.png"
         },
         {
             "chainId": 43114,
