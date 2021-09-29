@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 4,
-        "minor": 9,
-        "patch": 1
+        "minor": 10,
+        "patch": 0
     },
-    "timestamp": "2021-09-27T11:46:00+00:00",
+    "timestamp": "2021-09-29T00:30:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -587,6 +587,14 @@
           "symbol": "EVRT",
           "decimals": 18,
           "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3ACa5545e76746A3Fe13eA66B24BC0eBcC51E6b4/logo.png"
+        },
+        {
+          "chainId": 43114,
+          "address": "0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d",
+          "name": "Rai Reflex Index",
+          "symbol": "RAI",
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d/logo.png"
         }
     ]
 }
