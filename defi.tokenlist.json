@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 4,
-        "minor": 10,
+        "minor": 11,
         "patch": 0
     },
-    "timestamp": "2021-09-29T00:30:00+00:00",
+    "timestamp": "2021-09-29T09:30:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -563,6 +563,14 @@
           "symbol": "JENKEM",
           "decimals": 18,
           "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xdE61d83F83950fDe967BD2C68B1a9f64694F85Ff/logo.png"
+        },
+        {
+          "chainId": 43114,
+          "address": "0xBf9D7eCC6D5f09B9a10b8a39921E6f9cbA3c5D48",
+          "name": "ICEDOGE",
+          "symbol": "ICEDOGE",
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xBf9D7eCC6D5f09B9a10b8a39921E6f9cbA3c5D48/logo.png"
         },
         {
           "chainId": 43114,
