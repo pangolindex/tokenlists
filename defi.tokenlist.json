@@ -566,13 +566,13 @@
         },
         {
           "chainId": 43114,
-
           "address": "0xBf9D7eCC6D5f09B9a10b8a39921E6f9cbA3c5D48",
           "name": "ICEDOGE",
           "symbol": "ICEDOGE",
           "decimals": 9,
           "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xBf9D7eCC6D5f09B9a10b8a39921E6f9cbA3c5D48/logo.png"
         },
+        {
           "address": "0xb27c8941a7Df8958A1778c0259f76D1F8B711C35",
           "name": "Kalao Token",
           "symbol": "KLO",
@@ -602,7 +602,6 @@
           "symbol": "RAI",
           "decimals": 18,
           "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d/logo.png"
->>>>>>> main
         }
     ]
 }
