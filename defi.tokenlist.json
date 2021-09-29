@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 4,
-        "minor": 8,
+        "minor": 10,
         "patch": 0
     },
-    "timestamp": "2021-09-25T15:00:00+00:00",
+    "timestamp": "2021-09-29T00:30:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -154,7 +154,7 @@
             "decimals": 18,
             "name": "Gondola",
             "symbol": "GDL",
-            "logoURI": "https://raw.githubusercontent.com/gondola-finance/frontend/master/src/assets/icons/brand_logo_darkmode.png"
+            "logoURI": "https://raw.githubusercontent.com/gondola-finance/frontend-v2/master/src/assets/icons/colour.png"
         },
         {
             "chainId": 43114,
@@ -566,11 +566,43 @@
         },
         {
           "chainId": 43114,
-          "address": "0x6d2FbaDdaB23Fc914aAF6a08f2082eB9d7BC2135",
+
+          "address": "0xBf9D7eCC6D5f09B9a10b8a39921E6f9cbA3c5D48",
           "name": "ICEDOGE",
           "symbol": "ICEDOGE",
-          "decimals": 8,
-          "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6d2FbaDdaB23Fc914aAF6a08f2082eB9d7BC2135/logo.png"
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xBf9D7eCC6D5f09B9a10b8a39921E6f9cbA3c5D48/logo.png"
+        },
+          "address": "0xb27c8941a7Df8958A1778c0259f76D1F8B711C35",
+          "name": "Kalao Token",
+          "symbol": "KLO",
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35/logo.png"
+        },
+        {
+          "chainId": 43114,
+          "address": "0xB147656604217a03Fe2c73c4838770DF8d9D21B8",
+          "name": "Blizzard",
+          "symbol": "BLIZZ",
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB147656604217a03Fe2c73c4838770DF8d9D21B8/logo.png"
+        },
+        {
+          "chainId": 43114,
+          "address": "0x3ACa5545e76746A3Fe13eA66B24BC0eBcC51E6b4",
+          "name": "Everest Token",
+          "symbol": "EVRT",
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3ACa5545e76746A3Fe13eA66B24BC0eBcC51E6b4/logo.png"
+        },
+        {
+          "chainId": 43114,
+          "address": "0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d",
+          "name": "Rai Reflex Index",
+          "symbol": "RAI",
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d/logo.png"
+>>>>>>> main
         }
     ]
 }
