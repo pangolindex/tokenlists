@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 4,
-        "minor": 11,
+        "minor": 12,
         "patch": 0
     },
-    "timestamp": "2021-09-29T09:30:00+00:00",
+    "timestamp": "2021-09-29T13:30:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -603,6 +603,14 @@
           "symbol": "RAI",
           "decimals": 18,
           "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d/logo.png"
+        },
+        {
+          "chainId": 43114,
+          "address": "0xb3f52c360201201d366eFD2cDa4DB78e00cB9D5D",
+          "name": "Luyuka",
+          "symbol": "LYK",
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb3f52c360201201d366eFD2cDa4DB78e00cB9D5D/logo.png"
         }
     ]
 }
