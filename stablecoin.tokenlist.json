@@ -7,10 +7,10 @@
     ],
     "version": {
         "major": 3,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
-    "timestamp": "2021-09-11T14:30:00+00:00",
+    "timestamp": "2021-09-30T20:00:00+00:00",
     "tokens": [
         {
             "chainId": 43114,
@@ -91,6 +91,14 @@
             "symbol": "MIM",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
+        },
+        {
+            "address": "0x346A59146b9b4a77100D369a3d18E8007A9F46a6",
+            "chainId": 43114,
+            "name": "AVAI",
+            "symbol": "AVAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png"
         }
     ]
 }
