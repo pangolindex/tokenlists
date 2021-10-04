@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
-    "timestamp": "2021-10-01T10:00:00+00:00",
+    "timestamp": "2021-10-04T10:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -619,6 +619,14 @@
           "symbol": "ORCA",
           "decimals": 18,
           "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+            "name": "InsurAce",
+            "symbol": "INSUR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png"
         }
     ]
 }
