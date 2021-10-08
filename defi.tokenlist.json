@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
-    "timestamp": "2021-10-04T10:00:00+00:00",
+    "timestamp": "2021-10-08T00:10:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -627,6 +627,14 @@
             "symbol": "INSUR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xee0f5c0c2c8cFB1473d441868C174de3F3736F70",
+            "name": "BABYPANGOLIN",
+            "symbol": "BPNG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xee0f5c0c2c8cFB1473d441868C174de3F3736F70/logo.png"
         }
     ]
 }
