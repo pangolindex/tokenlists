@@ -654,14 +654,6 @@
         },
         {
             "chainId": 43114,
-            "address": "0x45CdaF3Fd17BD31d9830Fa977159162DD2431683",
-            "name": "KIOO",
-            "symbol": "KIOO",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x45CdaF3Fd17BD31d9830Fa977159162DD2431683/logo.png"
-        },
-        {
-            "chainId": 43114,
             "address": "0x45C13620B55C35A5f539d26E88247011Eb10fDbd",
             "name": "Hurricane Token",
             "symbol": "HCT",
