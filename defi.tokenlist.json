@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
-    "timestamp": "2021-10-08T00:10:00+00:00",
+    "timestamp": "2021-10-14T11:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -651,6 +651,14 @@
             "symbol": "BOOFI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/BooFinance/assets/main/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x45C13620B55C35A5f539d26E88247011Eb10fDbd",
+            "name": "Hurricane Token",
+            "symbol": "HCT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x45C13620B55C35A5f539d26E88247011Eb10fDbd/logo.png"
         }
     ]
 }
