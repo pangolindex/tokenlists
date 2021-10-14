@@ -646,7 +646,7 @@
         },
         {
             "chainId": 43114,
-            "address": "0xb00f1ad977a949a3ccc389ca1d1282a2946963b0",
+            "address": "0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0",
             "name": "BooFinance",
             "symbol": "BOOFI",
             "decimals": 18,
