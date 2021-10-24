@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     },
-    "timestamp": "2021-10-20T08:00:00+00:00",
+    "timestamp": "2021-10-24T00:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -100,6 +100,15 @@
             "symbol": "PEFI",
             "logoURI": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/pefiv2_250x250.png"
         },
+        {
+            "address": "0xf925F63445F01A53A441C0b6b1D9580C60551860",
+            "chainId": 43114,
+            "name": "Crypto Fren",
+            "symbol": "FREN",
+            "decimals": 18,
+            "logoURI": "https://ibb.co/bNjv8Hk"
+        },
+        
         {
             "address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
             "chainId": 43114,
