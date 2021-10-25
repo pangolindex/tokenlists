@@ -691,14 +691,6 @@
             "symbol": "IMX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef/logo.png"
-        },
-        {
-            "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
-            "chainId": 43114,
-            "name": "AMPL",
-            "symbol": "AMPL",
-            "decimals": 9,
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x027dbcA046ca156De9622cD1e2D907d375e53aa7/logo.png"
         }
     ]
 }
