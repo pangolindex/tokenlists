@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     },
-    "timestamp": "2021-10-25T12:00:00+00:00",
+    "timestamp": "2021-10-25T23:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -691,6 +691,14 @@
             "symbol": "IMX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef/logo.png"
+        },
+        {
+            "address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
+            "chainId": 43114,
+            "name": "Orbs",
+            "symbol": "ORBS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A/logo.png"
         }
     ]
 }
