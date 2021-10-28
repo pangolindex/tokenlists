@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 9,
+        "minor": 10,
         "patch": 0
     },
-    "timestamp": "2021-10-25T23:00:00+00:00",
+    "timestamp": "2021-10-28T00:10:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -699,6 +699,14 @@
             "symbol": "ORBS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A/logo.png"
+        },
+        {
+            "address": "0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21",
+            "chainId": 43114,
+            "name": "Oh Finance",
+            "symbol": "OH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21/logo.png"
         }
     ]
 }
