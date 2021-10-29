@@ -11,7 +11,7 @@
         "minor": 11,
         "patch": 0
     },
-    "timestamp": "2021-10-28T00:00:00+00:00",
+    "timestamp": "2021-10-29T00:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -108,7 +108,6 @@
             "decimals": 18,
             "logoURI": "https://ibb.co/bNjv8Hk"
         },
-        
         {
             "address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
             "chainId": 43114,
@@ -692,6 +691,30 @@
             "symbol": "ROCO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo.png"
+        },
+        {
+            "address": "0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef",
+            "chainId": 43114,
+            "name": "IMX",
+            "symbol": "IMX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef/logo.png"
+        },
+        {
+            "address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
+            "chainId": 43114,
+            "name": "Orbs",
+            "symbol": "ORBS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A/logo.png"
+        },
+        {
+            "address": "0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21",
+            "chainId": 43114,
+            "name": "Oh Finance",
+            "symbol": "OH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21/logo.png"
         }
     ]
 }
