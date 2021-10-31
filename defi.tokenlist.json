@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 11,
+        "minor": 12,
         "patch": 0
     },
-    "timestamp": "2021-10-29T00:00:00+00:00",
+    "timestamp": "2021-10-31T04:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -715,6 +715,14 @@
             "symbol": "OH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21/logo.png"
+        },
+	{
+            "address": "0x9F87C6c30F4b23C7B51Aa7465A9e0A836514700D",
+            "chainId": 43114,
+            "name": "AVATerra",
+            "symbol": "TERRA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9F87C6c30F4b23C7B51Aa7465A9e0A836514700D/logo.png"
         }
     ]
 }
