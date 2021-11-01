@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 12,
+        "minor": 13,
         "patch": 0
     },
-    "timestamp": "2021-10-31T04:00:00+00:00",
+    "timestamp": "2021-10-31T04:17:05+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -723,6 +723,14 @@
             "symbol": "TERRA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9F87C6c30F4b23C7B51Aa7465A9e0A836514700D/logo.png"
+        },
+        {
+            "address": "0x5BcDE17c50652aD6148C970F10Bf06647137A7E4",
+            "chainId": 43114,
+            "name": "LOAlexandria",
+            "symbol": "LOA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x5BcDE17c50652aD6148C970F10Bf06647137A7E4/logo.png"
         }
     ]
 }
