@@ -7,10 +7,10 @@
     ],
     "version": {
         "major": 3,
-        "minor": 2,
-        "patch": 1
+        "minor": 3,
+        "patch": 0
     },
-    "timestamp": "2021-10-17T16:00:00+00:00",
+    "timestamp": "2021-11-06T04:00:00+00:00",
     "tokens": [
         {
             "chainId": 43114,
@@ -107,6 +107,14 @@
             "name": "Frax",
             "symbol": "FRAX",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D",
+            "decimals": 18,
+            "name": "Stabilize USD",
+            "symbol": "SUSD",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D/logo.png"
         }
     ]
 }
