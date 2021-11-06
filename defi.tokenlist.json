@@ -740,5 +740,13 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x37d87e316CB4e35163881fDb6c6Bc0CdBa91dc0A/logo.png"
         }
+    	{
+            "address": "0x12b34d02326b2e26901f558b38f3ad800aba0539",
+            "chainId": 43114,
+            "name": "GothicJawa",
+            "symbol": "GOTH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x12b34d02326b2e26901f558b38f3ad800aba0539/logo.png"
+        }
     ]
 }
