@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 14,
+        "minor": 15,
         "patch": 0
     },
-    "timestamp": "2021-11-06T04:00:00+00:00",
+    "timestamp": "2021-11-07T12:43:59+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -739,6 +739,14 @@
             "symbol": "SET",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x37d87e316CB4e35163881fDb6c6Bc0CdBa91dc0A/logo.png"
+        }
+    	{
+            "address": "0x12b34d02326b2e26901f558b38f3ad800aba0539",
+            "chainId": 43114,
+            "name": "GothicJawa",
+            "symbol": "GOTH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x12b34d02326b2e26901f558b38f3ad800aba0539/logo.png"
         }
     ]
 }
