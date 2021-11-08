@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 4,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     },
-    "timestamp": "2021-09-25T15:00:00+00:00",
+    "timestamp": "2021-11-7T15:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -563,6 +563,14 @@
           "symbol": "JENKEM",
           "decimals": 18,
           "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xdE61d83F83950fDe967BD2C68B1a9f64694F85Ff/logo.png"
+        },
+        {
+          "chainId": 43114,
+          "address": "0x74A68215AEdf59f317a23E87C13B848a292F27A4",
+          "name": "XPower",
+          "symbol": "XPOW",
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x74A68215AEdf59f317a23E87C13B848a292F27A4/logo.png"
         }
     ]
 }
