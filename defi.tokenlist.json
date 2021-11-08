@@ -11,7 +11,7 @@
         "minor": 15,
         "patch": 0
     },
-    "timestamp": "2021-11-07T12:43:59+00:00",
+    "timestamp": "2021-11-08T10:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -739,6 +739,14 @@
             "symbol": "SET",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x37d87e316CB4e35163881fDb6c6Bc0CdBa91dc0A/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7d1232B90D3F809A54eeaeeBC639C62dF8a8942f",
+            "decimals": 9,
+            "name": "Snowbank",
+            "symbol": "SB",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7d1232B90D3F809A54eeaeeBC639C62dF8a8942f/logo.png"
         }
     	{
             "address": "0x12b34d02326b2e26901f558b38f3ad800aba0539",
