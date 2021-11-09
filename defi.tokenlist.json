@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 15,
+        "minor": 16,
         "patch": 0
     },
-    "timestamp": "2021-11-08T10:00:00+00:00",
+    "timestamp": "2021-11-08T22:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -747,6 +747,14 @@
             "name": "Snowbank",
             "symbol": "SB",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7d1232B90D3F809A54eeaeeBC639C62dF8a8942f/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0",
+            "decimals": 18,
+            "name": "Boo Finance",
+            "symbol": "BOOFI",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0/logo.png"
         }
     ]
 }
