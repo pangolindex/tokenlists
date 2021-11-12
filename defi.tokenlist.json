@@ -11,7 +11,7 @@
         "minor": 0,
         "patch": 0
     },
-    "timestamp": "2021-11-08T23:00:00+00:00",
+    "timestamp": "2021-11-12T23:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -746,6 +746,22 @@
             "decimals": 9,
             "name": "Snowbank",
             "symbol": "SB",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7d1232B90D3F809A54eeaeeBC639C62dF8a8942f/logo.png"
+        },
+        {
+            "chainId": 43113,
+            "address": "0x1E74396cF3a4e7212c7C052054B05081d5E7585F",
+            "decimals": 18,
+            "name": "FractionalisedShape",
+            "symbol": "FRS",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7d1232B90D3F809A54eeaeeBC639C62dF8a8942f/logo.png"
+        },
+        {
+            "chainId": 43113,
+            "address": "0xeCf44A28Ea4F109CCe07483B6591AEe0Bf889892",
+            "decimals": 18,
+            "name": "ShapeFund",
+            "symbol": "SPF",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7d1232B90D3F809A54eeaeeBC639C62dF8a8942f/logo.png"
         }
     ]
