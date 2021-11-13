@@ -747,6 +747,14 @@
             "name": "Snowbank",
             "symbol": "SB",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7d1232B90D3F809A54eeaeeBC639C62dF8a8942f/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x885d748C00A279B67A7749EC6b03301700dd0455",
+            "decimals": 18,
+            "name": "Maximus",
+            "symbol": "MAXI",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x885d748C00A279B67A7749EC6b03301700dd0455/logo.png"
         }
     ]
 }
