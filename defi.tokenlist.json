@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
-    "timestamp": "2021-11-08T23:00:00+00:00",
+    "timestamp": "2021-11-13T15:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -747,6 +747,14 @@
             "name": "Snowbank",
             "symbol": "SB",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7d1232B90D3F809A54eeaeeBC639C62dF8a8942f/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed",
+            "decimals": 18,
+            "name": "Crabada",
+            "symbol": "CRA",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed/logo.png"
         }
     ]
 }
