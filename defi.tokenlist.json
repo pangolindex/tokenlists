@@ -755,6 +755,14 @@
             "name": "Crabada",
             "symbol": "CRA",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x4Aca0ad6357b918e3d06BB1a0BCC403619177523",
+            "decimals": 18,
+            "name": "AVAXRush.com - Sonic Token",
+            "symbol": "SONIC",
+            "logoURI": "https://raw.githubusercontent.com/truemiller/tokens/main/assets/0x4Aca0ad6357b918e3d06BB1a0BCC403619177523/logo.png"
         }
     ]
 }
