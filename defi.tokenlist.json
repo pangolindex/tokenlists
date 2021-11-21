@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
-    "timestamp": "2021-11-13T15:00:00+00:00",
+    "timestamp": "2021-11-21T17:39:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -755,6 +755,14 @@
             "name": "Crabada",
             "symbol": "CRA",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x4Aca0ad6357b918e3d06BB1a0BCC403619177523",
+            "decimals": 18,
+            "name": "AVAXRush.com - Sonic Token",
+            "symbol": "SONIC",
+            "logoURI": "https://raw.githubusercontent.com/truemiller/tokens/main/assets/0x4Aca0ad6357b918e3d06BB1a0BCC403619177523/logo.png"
         }
     ]
 }
