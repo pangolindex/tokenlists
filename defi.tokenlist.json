@@ -763,6 +763,14 @@
             "name": "AVAXRush.com - Sonic Token",
             "symbol": "SONIC",
             "logoURI": "https://raw.githubusercontent.com/truemiller/tokens/main/assets/0x4Aca0ad6357b918e3d06BB1a0BCC403619177523/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x2d7f2f30b66b3a754f9b7ca53a82b073dd2cdca2",
+            "decimals": 18,
+            "name": "Slime",
+            "symbol": "SLIME",
+            "logoURI": "https://raw.githubusercontent.com/truemiller/tokens/main/assets/0x2d7f2f30b66b3a754f9b7ca53a82b073dd2cdca2/logo.png"
         }
     ]
 }
