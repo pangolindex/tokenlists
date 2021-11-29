@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
-    "timestamp": "2021-11-21T17:39:00+00:00",
+    "timestamp": "2021-11-28T17:39:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -27,7 +27,7 @@
             "name": "Avaware",
             "symbol": "AVE",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/avaware/avaware/main/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png"
         },
         {
             "address": "0xdb333724fAE72b4253FC3d44c8270CBBC86d147b",
