@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
-    "timestamp": "2021-11-28T17:39:00+00:00",
+    "timestamp": "2021-11-29T12:08:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -716,7 +716,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21/logo.png"
         },
-	{
+        {
             "address": "0x9F87C6c30F4b23C7B51Aa7465A9e0A836514700D",
             "chainId": 43114,
             "name": "AVATerra",
@@ -763,6 +763,14 @@
             "name": "AVAXRush.com - Sonic Token",
             "symbol": "SONIC",
             "logoURI": "https://raw.githubusercontent.com/truemiller/tokens/main/assets/0x4Aca0ad6357b918e3d06BB1a0BCC403619177523/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x885d748C00A279B67A7749EC6b03301700dd0455",
+            "decimals": 18,
+            "name": "Maximus",
+            "symbol": "MAXI",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x885d748C00A279B67A7749EC6b03301700dd0455/logo.png"
         }
     ]
 }
