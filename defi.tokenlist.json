@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
-    "timestamp": "2021-11-29T12:08:00+00:00",
+    "timestamp": "2021-11-30T00:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -771,6 +771,14 @@
             "name": "Maximus",
             "symbol": "MAXI",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x885d748C00A279B67A7749EC6b03301700dd0455/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7C08413cbf02202a1c13643dB173f2694e0F73f0",
+            "decimals": 9,
+            "name": "Maximizer",
+            "symbol": "MAXI",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7C08413cbf02202a1c13643dB173f2694e0F73f0/logo.png"
         }
     ]
 }
