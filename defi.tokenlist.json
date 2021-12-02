@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     },
-    "timestamp": "2021-11-30T00:00:00+00:00",
+    "timestamp": "2021-12-02T00:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -779,6 +779,14 @@
             "name": "Maximizer",
             "symbol": "MAXI",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7C08413cbf02202a1c13643dB173f2694e0F73f0/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6",
+            "decimals": 18,
+            "name": "Jewels",
+            "symbol": "JEWEL",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png"
         }
     ]
 }
