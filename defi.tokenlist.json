@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 6,
+        "minor": 7,
         "patch": 0
     },
-    "timestamp": "2021-12-02T00:00:00+00:00",
+    "timestamp": "2021-12-02T10:45:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -787,6 +787,22 @@
             "name": "Jewels",
             "symbol": "JEWEL",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x8aE8be25C23833e0A01Aa200403e826F611f9CD2",
+            "decimals": 18,
+            "name": "CRAFT",
+            "symbol": "CRAFT",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x321E7092a180BB43555132ec53AaA65a5bF84251",
+            "decimals": 18,
+            "name": "Governance OHM",
+            "symbol": "gOHM",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x321E7092a180BB43555132ec53AaA65a5bF84251/logo.png"
         }
     ]
 }
