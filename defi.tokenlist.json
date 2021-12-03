@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     },
-    "timestamp": "2021-12-02T10:45:00+00:00",
+    "timestamp": "2021-12-03T13:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -803,6 +803,22 @@
             "name": "Governance OHM",
             "symbol": "gOHM",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x321E7092a180BB43555132ec53AaA65a5bF84251/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x637afeff75ca669fF92e4570B14D6399A658902f",
+            "decimals": 18,
+            "name": "Cook Finance",
+            "symbol": "COOK",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF",
+            "decimals": 18,
+            "name": "NFTrade Token",
+            "symbol": "NFTD",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF/logo.png"
         }
     ]
 }
