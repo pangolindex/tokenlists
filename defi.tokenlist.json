@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     },
-    "timestamp": "2021-12-03T13:00:00+00:00",
+    "timestamp": "2021-12-08T02:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -819,6 +819,22 @@
             "name": "NFTrade Token",
             "symbol": "NFTD",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+            "decimals": 18,
+            "name": "Colony Token",
+            "symbol": "CLY",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xf69c2fcd9128d49DfA22348C69177f9380438eB8",
+            "decimals": 6,
+            "name": "NFT Soccer Games",
+            "symbol": "NFSG",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf69c2fcd9128d49DfA22348C69177f9380438eB8/logo.png"
         }
     ]
 }
