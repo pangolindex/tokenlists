@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 9,
+        "minor": 10,
         "patch": 0
     },
-    "timestamp": "2021-12-08T02:00:00+00:00",
+    "timestamp": "2021-12-08T10:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -835,6 +835,14 @@
             "name": "NFT Soccer Games",
             "symbol": "NFSG",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf69c2fcd9128d49DfA22348C69177f9380438eB8/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb",
+            "decimals": 18,
+            "name": "Skill Token",
+            "symbol": "SKILL",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb/logo.png"
         }
     ]
 }
