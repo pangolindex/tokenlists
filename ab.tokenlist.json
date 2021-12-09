@@ -9,10 +9,10 @@
     ],
     "version": {
         "major": 3,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
-    "timestamp": "2021-09-11T14:30:00+00:00",
+    "timestamp": "2021-12-09T10:25:00+00:00",
     "tokens": [
         {
             "chainId": 43114,
