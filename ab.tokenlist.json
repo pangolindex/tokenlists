@@ -48,6 +48,14 @@
         },
         {
             "chainId": 43114,
+            "address": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
+            "decimals": 18,
+            "name": "Alpha Token",
+            "symbol": "ALPHA.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/ALPHA/logo.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0x98443B96EA4b0858FDF3219Cd13e98C7A4690588",
             "decimals": 18,
             "name": "Basic Attention Token",
@@ -109,6 +117,14 @@
             "name": "Maker",
             "symbol": "MKR.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/MKR/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665",
+            "decimals": 18,
+            "name": "SHIBA INU",
+            "symbol": "SHIB.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SHIB/logo.png"
         },
         {
             "chainId": 43114,
@@ -181,6 +197,14 @@
             "name": "Wrapped ETH",
             "symbol": "WETH.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
+            "decimals": 18,
+            "name": "Wootrade Network",
+            "symbol": "WOO.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WOO/logo.png"
         },
         {
             "chainId": 43114,
