@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 10,
+        "minor": 11,
         "patch": 0
     },
-    "timestamp": "2021-12-08T10:00:00+00:00",
+    "timestamp": "2021-12-11T10:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -843,6 +843,14 @@
             "name": "Skill Token",
             "symbol": "SKILL",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x2CF51e73C3516f3d86E9C0B4De0971Dbf0766Fd4",
+            "decimals": 18,
+            "name": "XIO Network Token",
+            "symbol": "XIO",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x2CF51e73C3516f3d86E9C0B4De0971Dbf0766Fd4/logo.png"
         }
     ]
 }
