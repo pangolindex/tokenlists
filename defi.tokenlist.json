@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 3,
+        "minor": 13,
         "patch": 0
     },
-    "timestamp": "2021-11-22T00:55:00+00:00",
+    "timestamp": "2021-12-12T19:30:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -27,7 +27,7 @@
             "name": "Avaware",
             "symbol": "AVE",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/avaware/avaware/main/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png"
         },
         {
             "address": "0xdb333724fAE72b4253FC3d44c8270CBBC86d147b",
@@ -716,7 +716,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21/logo.png"
         },
-	{
+        {
             "address": "0x9F87C6c30F4b23C7B51Aa7465A9e0A836514700D",
             "chainId": 43114,
             "name": "AVATerra",
@@ -766,11 +766,99 @@
         },
         {
             "chainId": 43114,
-            "address": "0xe72c5547B2C66436D4Cb9Fd674001027A0d83A46",
+            "address": "0x885d748C00A279B67A7749EC6b03301700dd0455",
             "decimals": 18,
+            "name": "Maximus",
+            "symbol": "MAXI",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x885d748C00A279B67A7749EC6b03301700dd0455/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7C08413cbf02202a1c13643dB173f2694e0F73f0",
+            "decimals": 9,
+            "name": "Maximizer",
+            "symbol": "MAXI",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7C08413cbf02202a1c13643dB173f2694e0F73f0/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6",
+            "decimals": 18,
+            "name": "Jewels",
+            "symbol": "JEWEL",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x8aE8be25C23833e0A01Aa200403e826F611f9CD2",
+            "decimals": 18,
+            "name": "CRAFT",
+            "symbol": "CRAFT",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x321E7092a180BB43555132ec53AaA65a5bF84251",
+            "decimals": 18,
+            "name": "Governance OHM",
+            "symbol": "gOHM",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x321E7092a180BB43555132ec53AaA65a5bF84251/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x637afeff75ca669fF92e4570B14D6399A658902f",
+            "decimals": 18,
+            "name": "Cook Finance",
+            "symbol": "COOK",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF",
+            "decimals": 18,
+            "name": "NFTrade Token",
+            "symbol": "NFTD",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+            "decimals": 18,
+            "name": "Colony Token",
+            "symbol": "CLY",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xf69c2fcd9128d49DfA22348C69177f9380438eB8",
+            "decimals": 6,
+            "name": "NFT Soccer Games",
+            "symbol": "NFSG",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf69c2fcd9128d49DfA22348C69177f9380438eB8/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb",
+            "decimals": 18,
+            "name": "Skill Token",
+            "symbol": "SKILL",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x2CF51e73C3516f3d86E9C0B4De0971Dbf0766Fd4",
+            "decimals": 18,
+            "name": "XIO Network Token",
+            "symbol": "XIO",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x2CF51e73C3516f3d86E9C0B4De0971Dbf0766Fd4/logo.png"
+        },
+        {
+            "address": "0xe72c5547b2c66436d4cb9fd674001027a0d83a46",
+            "chainId": 43114,
             "name": "AVALuan",
             "symbol": "LUAN",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe72c5547B2C66436D4Cb9Fd674001027A0d83A46/logo.png"
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe72c5547b2c66436d4cb9fd674001027a0d83a46/logo.png"
         }
     ]
 }
