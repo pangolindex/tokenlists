@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 13,
+        "minor": 14,
         "patch": 0
     },
-    "timestamp": "2021-12-14T10:00:00+00:00",
+    "timestamp": "2021-12-14T11:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -875,6 +875,14 @@
             "name": "METL Token",
             "symbol": "METL",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1C59e9e44b7983931E0aBA8dd0b8571C5f34cC87/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED",
+            "decimals": 18,
+            "name": "GLDB",
+            "symbol": "GLDB",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED/logo.png"
         }
         
     ]
