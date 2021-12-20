@@ -887,7 +887,7 @@
         {
             "chainId": 43114,
             "address": "0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED",
-            "decimals": 18,
+            "decimals": 6,
             "name": "GLDB Token",
             "symbol": "GLDB",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED/logo.png"
@@ -903,7 +903,7 @@
         {
             "chainId": 43114,
             "address": "0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0",
-            "decimals": 18,
+            "decimals": 9,
             "name": "GalaxyGoggle DAO Token",
             "symbol": "GG",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0/logo.png"
@@ -911,7 +911,7 @@
         {
             "chainId": 43114,
             "address": "0x5684a087C739A2e845F4AaAaBf4FBd261edc2bE8",
-            "decimals": 18,
+            "decimals": 9,
             "name": "Life DAO Token",
             "symbol": "LF",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x5684a087C739A2e845F4AaAaBf4FBd261edc2bE8/logo.png"
@@ -927,7 +927,7 @@
         {
             "chainId": 43114,
             "address": "0xed46443C18E38064523180Fc364C6180b35803d3",
-            "decimals": 18,
+            "decimals": 9,
             "name": "Midas DAO Token",
             "symbol": "CROWN",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xed46443C18E38064523180Fc364C6180b35803d3/logo.png"
