@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 14,
+        "minor": 15,
         "patch": 0
     },
-    "timestamp": "2021-12-16T10:00:00+00:00",
+    "timestamp": "2021-12-20T10:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -883,6 +883,14 @@
             "name": "BUX Token",
             "symbol": "BUX",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8cCF617Aa653463157c124229844EB688C4f2A04/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7086e045b78E1e72F741F25231c08d238812CF8a",
+            "decimals": 18,
+            "name": "RaceX Token",
+            "symbol": "RaceX",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png"
         }
         
     ]
