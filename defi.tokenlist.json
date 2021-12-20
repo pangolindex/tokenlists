@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 14,
+        "minor": 15,
         "patch": 0
     },
-    "timestamp": "2021-12-16T10:00:00+00:00",
+    "timestamp": "2021-12-20T10:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -883,6 +883,70 @@
             "name": "BUX Token",
             "symbol": "BUX",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8cCF617Aa653463157c124229844EB688C4f2A04/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED",
+            "decimals": 6,
+            "name": "GLDB Token",
+            "symbol": "GLDB",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7086e045b78E1e72F741F25231c08d238812CF8a",
+            "decimals": 18,
+            "name": "RaceX Token",
+            "symbol": "RACEX",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0",
+            "decimals": 9,
+            "name": "GalaxyGoggle DAO Token",
+            "symbol": "GG",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x5684a087C739A2e845F4AaAaBf4FBd261edc2bE8",
+            "decimals": 9,
+            "name": "Life DAO Token",
+            "symbol": "LF",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x5684a087C739A2e845F4AaAaBf4FBd261edc2bE8/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xff579d6259dEDcc80488c9b89d2820bCb5609160",
+            "decimals": 18,
+            "name": "Louverture",
+            "symbol": "LVT",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xff579d6259dEDcc80488c9b89d2820bCb5609160/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xed46443C18E38064523180Fc364C6180b35803d3",
+            "decimals": 9,
+            "name": "Midas DAO Token",
+            "symbol": "CROWN",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xed46443C18E38064523180Fc364C6180b35803d3/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x6D923f688C7FF287dc3A5943CAeefc994F97b290",
+            "decimals": 18,
+            "name": "SmarterCoin",
+            "symbol": "SMRTR",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6D923f688C7FF287dc3A5943CAeefc994F97b290/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xF2CfC11093edB5A2DC7F49e70A3a3a9cd4F4FeE4",
+            "decimals": 18,
+            "name": "Brig Finance Token",
+            "symbol": "BRIG",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xF2CfC11093edB5A2DC7F49e70A3a3a9cd4F4FeE4/logo.png"
         }
         
     ]
