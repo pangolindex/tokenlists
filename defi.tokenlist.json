@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 15,
+        "minor": 16,
         "patch": 0
     },
-    "timestamp": "2021-12-20T10:00:00+00:00",
+    "timestamp": "2021-12-21T10:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -947,6 +947,22 @@
             "name": "Brig Finance Token",
             "symbol": "BRIG",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xF2CfC11093edB5A2DC7F49e70A3a3a9cd4F4FeE4/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611",
+            "decimals": 18,
+            "name": "Egg Token",
+            "symbol": "EGG",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xab592d197ACc575D16C3346f4EB70C703F308D1E",
+            "decimals": 18,
+            "name": "Feed Token",
+            "symbol": "FEED",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png"
         }
         
     ]
