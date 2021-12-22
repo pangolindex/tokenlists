@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 17,
+        "minor": 18,
         "patch": 0
     },
-    "timestamp": "2021-12-22T12:00:00+00:00",
+    "timestamp": "2021-12-22T13:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -963,6 +963,14 @@
             "name": "Slime",
             "symbol": "SLIME",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x2d7f2f30b66b3A754F9B7Ca53a82b073Dd2Cdca2/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xbca7f1998Dc9FFB70b086543a808960a460aBcA7",
+            "decimals": 18,
+            "name": "Kitty Token",
+            "symbol": "KITTY",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbca7f1998Dc9FFB70b086543a808960a460aBcA7/logo.png"
         }
     ]
 }
