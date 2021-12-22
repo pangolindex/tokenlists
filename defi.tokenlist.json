@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 18,
+        "minor": 20,
         "patch": 0
     },
-    "timestamp": "2021-12-22T13:00:00+00:00",
+    "timestamp": "2021-12-25T14:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -534,6 +534,14 @@
         },
         {
             "chainId": 43114,
+            "address": "0xbA5dC7e77d150816b758E9826fCad2D74820e379",
+            "decimals": 18,
+            "name": "WowneroX",
+            "symbol": "WOWX",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbA5dC7e77d150816b758E9826fCad2D74820e379/logo.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b",
             "decimals": 18,
             "name": "WOWSwap",
@@ -971,6 +979,14 @@
             "name": "Kitty Token",
             "symbol": "KITTY",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbca7f1998Dc9FFB70b086543a808960a460aBcA7/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e",
+            "decimals": 18,
+            "name": "Mai Token",
+            "symbol": "MIMATIC",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e/logo.png"
         }
     ]
 }
