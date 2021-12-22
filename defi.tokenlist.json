@@ -955,7 +955,14 @@
             "name": "Tomb Token",
             "symbol": "TOMB",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x2d7f2f30b66b3A754F9B7Ca53a82b073Dd2Cdca2",
+            "decimals": 18,
+            "name": "Slime",
+            "symbol": "SLIME",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x2d7f2f30b66b3A754F9B7Ca53a82b073Dd2Cdca2/logo.png"
         }
-        
     ]
 }
