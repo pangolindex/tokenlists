@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 15,
+        "minor": 16,
         "patch": 0
     },
-    "timestamp": "2021-12-20T10:00:00+00:00",
+    "timestamp": "2021-12-22T10:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -947,6 +947,14 @@
             "name": "Brig Finance Token",
             "symbol": "BRIG",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xF2CfC11093edB5A2DC7F49e70A3a3a9cd4F4FeE4/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1",
+            "decimals": 18,
+            "name": "Tomb Token",
+            "symbol": "TOMB",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1/logo.png"
         }
         
     ]
