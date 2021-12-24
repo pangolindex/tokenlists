@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 18,
+        "minor": 19,
         "patch": 0
     },
-    "timestamp": "2021-12-22T13:00:00+00:00",
+    "timestamp": "2021-12-23T12:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -971,6 +971,14 @@
             "name": "Kitty Token",
             "symbol": "KITTY",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbca7f1998Dc9FFB70b086543a808960a460aBcA7/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e",
+            "decimals": 18,
+            "name": "Mai Token",
+            "symbol": "MIMATIC",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e/logo.png"
         }
     ]
 }
