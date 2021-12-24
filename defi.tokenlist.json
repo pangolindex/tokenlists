@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 19,
+        "minor": 20,
         "patch": 0
     },
-    "timestamp": "2021-12-23T12:00:00+00:00",
+    "timestamp": "2021-12-24T00:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -974,11 +974,139 @@
         },
         {
             "chainId": 43114,
-            "address": "0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e",
+            "address": "0x0f34919404a290e71fc6A510cB4a6aCb8D764b24",
             "decimals": 18,
-            "name": "Mai Token",
-            "symbol": "MIMATIC",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e/logo.png"
+            "name": "Blizz Finance Token",
+            "symbol": "BLZZ",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0f34919404a290e71fc6A510cB4a6aCb8D764b24/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x1f1E7c893855525b303f99bDF5c3c05Be09ca251",
+            "decimals": 18,
+            "name": "Synapse",
+            "symbol": "SYN",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6",
+            "decimals": 18,
+            "name": "Jewels",
+            "symbol": "JEWEL",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79",
+            "decimals": 18,
+            "name": "Thor v2",
+            "symbol": "THOR",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
+            "decimals": 18,
+            "name": "Defrost Finance Token",
+            "symbol": "MELT",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x245C2591403e182e41d7A851eab53B01854844CE",
+            "decimals": 8,
+            "name": "Thors Mead",
+            "symbol": "MEAD",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x245C2591403e182e41d7A851eab53B01854844CE/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x0755FA2F4AA6311E1D7C19990416c86F17D16F86",
+            "decimals": 6,
+            "name": "Etherprint",
+            "symbol": "ETHP",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0755FA2F4AA6311E1D7C19990416c86F17D16F86/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
+            "decimals": 18,
+            "name": "Alpha Finance Lab Token",
+            "symbol": "ALPHA.e",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x2923E182A6e68C0fE4006736a33B32f805703683",
+            "decimals": 18,
+            "name": "Comet Nodes",
+            "symbol": "COMET",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x2923E182A6e68C0fE4006736a33B32f805703683/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x4939B3313E73ae8546b90e53E998E82274afDbDB",
+            "decimals": 9,
+            "name": "Cross Chain Capital V2",
+            "symbol": "CCC",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4939B3313E73ae8546b90e53E998E82274afDbDB/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xbD83010eB60F12112908774998F65761cf9f6f9a",
+            "decimals": 18,
+            "name": "Spookyswap Token",
+            "symbol": "BOO",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbD83010eB60F12112908774998F65761cf9f6f9a/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xce0052745A182fff07aCB9dd834041E5F29319b2",
+            "decimals": 18,
+            "name": "Higgs",
+            "symbol": "HIGGS",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xce0052745A182fff07aCB9dd834041E5F29319b2/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
+            "decimals": 18,
+            "name": "Popsicle Finance Token",
+            "symbol": "ICE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xf6d46849DB378AE01D93732585BEc2C4480D1fD5",
+            "decimals": 9,
+            "name": "Fortress",
+            "symbol": "FORT",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf6d46849DB378AE01D93732585BEc2C4480D1fD5/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172",
+            "decimals": 18,
+            "name": "Treasure Under Sea",
+            "symbol": "TUS",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6",
+            "decimals": 18,
+            "name": "Imperium Empires Token",
+            "symbol": "IME",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+            "decimals": 18,
+            "name": "Pendle Finance Token",
+            "symbol": "PENDLE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfB98B335551a418cD0737375a2ea0ded62Ea213b/logo.png"
         }
     ]
 }
