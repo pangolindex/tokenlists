@@ -1,0 +1,2289 @@
+{
+    "name": "Nomics Avalanche Platform Tokens",
+    "logoURI": "https://nomics.com/favicon.ico",
+    "keywords": [
+        "nomics",
+        "avalanche",
+        "platform"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "timestamp": "2021-12-25T19:14:20+00:00",
+    "tokens": [
+        {
+            "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+            "chainId": 43114,
+            "name": "Aave (Avalanche)",
+            "symbol": "AAVE",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AAVEAVAX.jpg"
+        },
+        {
+            "address": "0xb669c71431bc4372140bc35aa1962c4b980ba507",
+            "chainId": 43114,
+            "name": "Avalanche HoneyBee",
+            "symbol": "ABEE",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ABEE.jpg"
+        },
+        {
+            "address": "0x5bb7c73e0939cd985e2184ee751f9193e599052b",
+            "chainId": 43114,
+            "name": "ACME",
+            "symbol": "ACME",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0xd2300efd166709a253ec2463f87b13c57ff78905",
+            "chainId": 43114,
+            "name": "AegisDAO",
+            "symbol": "AEGISDAO",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0xf54501fbc97d5cb9c8b96480996a397e07516b2e",
+            "chainId": 43114,
+            "name": "AvaNyan",
+            "symbol": "ANYAN",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ANYAN.jpg"
+        },
+        {
+            "address": "0x938FE3788222A74924E062120E7BFac829c719Fb",
+            "chainId": 43114,
+            "name": "Ape In",
+            "symbol": "APEIN",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APEIN.jpg"
+        },
+        {
+            "address": "0x6dea2dc5f07fa8fbdede5bd1f97e87eba865f4fb",
+            "chainId": 43114,
+            "name": "ApeLand ",
+            "symbol": "APELAND",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0xd039c9079ca7f2a87d632a9c0d7cea0137bacfb5",
+            "chainId": 43114,
+            "name": "Ape-X",
+            "symbol": "APE-X",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/APEX7.jpg"
+        },
+        {
+            "address": "0x8a1184E8593Ca0554CF32Dca568567777f43A521",
+            "chainId": 43114,
+            "name": "Ara Finance",
+            "symbol": "ARA",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ARA4.png"
+        },
+        {
+            "address": "0x3d6386fde111ec2919cc8871377821b12c7eae7c",
+            "chainId": 43114,
+            "name": "aSwampy",
+            "symbol": "ASWAMP",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x6a7bde8c3e55e802bf7cafd55dd1e3b01e7ce940",
+            "chainId": 43114,
+            "name": "Aukey",
+            "symbol": "AUK",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0xa9d633a1ac5aa995c5e4f7d915ade1be565a97e8",
+            "chainId": 43114,
+            "name": "Arctic Finance",
+            "symbol": "AURORA",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AURORA2.jpg"
+        },
+        {
+            "address": "0x783c08b5f26e3daf8c4681f3bf49844e425b6393",
+            "chainId": 43114,
+            "name": "Avaware USD",
+            "symbol": "AUSD",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AUSD3.png"
+        },
+        {
+            "address": "0x085a3fe57d71057a8dd1b673e4a794cffc724c2c",
+            "chainId": 43114,
+            "name": "AVABIRD",
+            "symbol": "AVABIRD",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0xf45e72bfa7b6a4f7be279d49585185b41648d07c",
+            "chainId": 43114,
+            "name": "avafly",
+            "symbol": "AVAF",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0x47d2ec34dc604f6edf2ae905ef886e565720f0c4",
+            "chainId": 43114,
+            "name": "AVAGAY",
+            "symbol": "AVAG",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0x346a59146b9b4a77100d369a3d18e8007a9f46a6",
+            "chainId": 43114,
+            "name": "Orca AVAI",
+            "symbol": "AVAI",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVAI.svg"
+        },
+        {
+            "address": "0xd962e6E7d945fBfecf35184dA5774f653f5cD5FB",
+            "chainId": 43114,
+            "name": "Avakita",
+            "symbol": "AVAKITA",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVAKITA.png"
+        },
+        {
+            "address": "0xf97d917a0ef1bb6919c36489eb0fd00db41ffba8",
+            "chainId": 43114,
+            "name": "Ava MIM",
+            "symbol": "AVAMIM",
+            "decimals": 6,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVAMIM.jpg"
+        },
+        {
+            "address": "0xcf7101f34dba0f3d5ffafd3d3aa2b3fc20c08775",
+            "chainId": 43114,
+            "name": "AvaOne",
+            "symbol": "AVAO",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x3f3fea5dd9b1940c2ee4822d7b7a06f19d58656e",
+            "chainId": 43114,
+            "name": "AvaPay",
+            "symbol": "AVAPAY",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVAPAY.jpg"
+        },
+        {
+            "address": "0x2eb1f20035da84d6ec298b55570d0dc3f448b843",
+            "chainId": 43114,
+            "name": "AVAPOP",
+            "symbol": "AVAPOP",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0x9f05bf860f7015507513dafca8f5ea61ee9f6c4e",
+            "chainId": 43114,
+            "name": "Avax Floki",
+            "symbol": "AVAXFLOKI",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVAXFLOKI.jpg"
+        },
+        {
+            "address": "0x57dc3dfb48252daa731e70f9166252f8cc1b116f",
+            "chainId": 43114,
+            "name": "avaxGAS",
+            "symbol": "AVAXGAS",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVAXGAS.jpeg"
+        },
+        {
+            "address": "0x85c7caa104f14c513e5037031e730ee5ff2c17a6",
+            "chainId": 43114,
+            "name": "AvaxPump",
+            "symbol": "AVAXPUMP",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0xd2df9abfc50c331529887165aa64382982a5cffd",
+            "chainId": 43114,
+            "name": "AvaxSummit",
+            "symbol": "AVAXSUMMIT",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0x78ea17559b3d2cf85a7f9c2c704eda119db5e6de",
+            "chainId": 43114,
+            "name": "Avaware",
+            "symbol": "AVE",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVE.jpg"
+        },
+        {
+            "address": "0x1ecd47ff4d9598f89721a2866bfeb99505a413ed",
+            "chainId": 43114,
+            "name": "AVME",
+            "symbol": "AVME",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVME.jpg"
+        },
+        {
+            "address": "0xa16693fda89e0c4dd9f2324ebd47118b57e6ba34",
+            "chainId": 43114,
+            "name": "Ohm Inu DAO",
+            "symbol": "AVOHMINU",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVOHMINU.jpg"
+        },
+        {
+            "address": "0x3a47868bee0b553183222eea56e82f83addcd133",
+            "chainId": 43114,
+            "name": "Ava Time",
+            "symbol": "AVTIME",
+            "decimals": 6,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVTIME.jpg"
+        },
+        {
+            "address": "0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1",
+            "chainId": 43114,
+            "name": "Avaxtars",
+            "symbol": "AVXT",
+            "decimals": 6,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AVXT.jpg"
+        },
+        {
+            "address": "0x5ede350e84223fb50775fd91a723f2ca71034cf7",
+            "chainId": 43114,
+            "name": "Sheep Game",
+            "symbol": "AWOOL",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AWOOL.jpg"
+        },
+        {
+            "address": "0x1aff23615200d09965c3c810f213e9e193d75ffc",
+            "chainId": 43114,
+            "name": "ALIENXAVA",
+            "symbol": "AXAVA",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXAVA.jpeg"
+        },
+        {
+            "address": "0xcf8419a615c57511807236751c0af38db4ba3351",
+            "chainId": 43114,
+            "name": "Axial Token",
+            "symbol": "AXIAL",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/AXIAL.jpg"
+        },
+        {
+            "address": "0xa573f0a195d589f3551b968dfc9840fd6c919fb5",
+            "chainId": 43114,
+            "name": "BABYPangolin",
+            "symbol": "BABYPANGOLIN",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0xee0f5c0c2c8cFB1473d441868C174de3F3736F70",
+            "chainId": 43114,
+            "name": "BabyPangolin",
+            "symbol": "BABYPANGOLIN",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYPANGOLIN2.jpeg"
+        },
+        {
+            "address": "0x62a4f3280C02C8Cc3E9ff984e4aaD94f8F7fEA26",
+            "chainId": 43114,
+            "name": "Baby Pangolin",
+            "symbol": "BABYPNG",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYPNG.png"
+        },
+        {
+            "address": "0xe703214808C3603a9dA2609d52bDcF920E0a0edf",
+            "chainId": 43114,
+            "name": "Baby Trader Joe",
+            "symbol": "BJOE",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BABYTRADERJOE.jpeg"
+        },
+        {
+            "address": "0xa1144a6a1304bd9cbb16c800f7a867508726566e",
+            "chainId": 43114,
+            "name": "Baguette",
+            "symbol": "BAG",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAG5.jpg"
+        },
+        {
+            "address": "0xef4988cbe89316fa12650dcc036be2b242895306",
+            "chainId": 43114,
+            "name": "Bamboo Token",
+            "symbol": "BAMBOO",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BAMBOO3.jpg"
+        },
+        {
+            "address": "0xdb1d67c070d4d4ae74e70a4eb790e3b643e9a30c",
+            "chainId": 43114,
+            "name": "BANKSY",
+            "symbol": "BANKSY",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x88e3850000ef6e56dfc7475b1a4b2214063eedb8",
+            "chainId": 43114,
+            "name": "BlackDiamondSCInc1",
+            "symbol": "BDSCI1",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x2d5433e9d475c78542dbd0d16d7016b9aab99c1c",
+            "chainId": 43114,
+            "name": "Big Fund Capital DAO",
+            "symbol": "BFC",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BFC6.jpg"
+        },
+        {
+            "address": "0x4480b4ddfb15fe6518817ef024d8b493aff2db54",
+            "chainId": 43114,
+            "name": "Birdy Finance",
+            "symbol": "BIRD",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BIRD4.jpg"
+        },
+        {
+            "address": "0xf481eec738c46f675e077ee966a680a19210af11",
+            "chainId": 43114,
+            "name": "Blanc",
+            "symbol": "BLANC",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0xb147656604217a03fe2c73c4838770df8d9d21b8",
+            "chainId": 43114,
+            "name": "Blizzard Network",
+            "symbol": "BLIZZ",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLIZZ.jpg"
+        },
+        {
+            "address": "0xc12e249fabe1c5eb7c558e5f50d187687a244e31",
+            "chainId": 43114,
+            "name": "Tip.Blue",
+            "symbol": "BLUE",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLUE5.jpeg"
+        },
+        {
+            "address": "0x0f34919404a290e71fc6a510cb4a6acb8d764b24",
+            "chainId": 43114,
+            "name": "Blizz Finance",
+            "symbol": "BLZZ",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BLZZ.jpg"
+        },
+        {
+            "address": "0x264c1383ea520f73dd837f915ef3a732e204a493",
+            "chainId": 43114,
+            "name": "Binance Coin (Avalanche)",
+            "symbol": "BNB",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0xc90754e1170ac0ea46be42d64205c70459e87c2f",
+            "chainId": 43114,
+            "name": "BonkyAvaX",
+            "symbol": "BONKYAVAX",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0xb00f1ad977a949a3ccc389ca1d1282a2946963b0",
+            "chainId": 43114,
+            "name": "Boo Finance",
+            "symbol": "BOOFI",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BOOFI.jpg"
+        },
+        {
+            "address": "0x5623b2b047fe69cdfef8764cfeeb72ea7825fbd8",
+            "chainId": 43114,
+            "name": "BorealFi",
+            "symbol": "BOREAL",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0xa1437720c93b791b72f5b8a5846227763792afd7",
+            "chainId": 43114,
+            "name": "Brisket DAO",
+            "symbol": "BRIB",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRIB.png"
+        },
+        {
+            "address": "0xf2cfc11093edb5a2dc7f49e70a3a3a9cd4f4fee4",
+            "chainId": 43114,
+            "name": "Brig Finance",
+            "symbol": "BRIG",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BRIG2.jpg"
+        },
+        {
+            "address": "0x721c554a37d23b60411a96f7400e0f03f572d72e",
+            "chainId": 43114,
+            "name": "Brooks Coin",
+            "symbol": "BROOKS",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0x4bffb0dc7656dfc98dbc896584aa231c4897d7ee",
+            "chainId": 43114,
+            "name": "BtcEthPrint",
+            "symbol": "BTCETHP",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0xc1333a2e6f4a50ec20107c19fa73af9e8cc0419b",
+            "chainId": 43114,
+            "name": "BitcoinPrint",
+            "symbol": "BTCP",
+            "decimals": 6,
+            "logoURI": ""
+        },
+        {
+            "address": "0x9e8cD582aB199BbE91bBe46Eddf5a7341EbddCa0",
+            "chainId": 43114,
+            "name": "Tractor Joe Baby",
+            "symbol": "BTRACTOR",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTRACTOR.png"
+        },
+        {
+            "address": "0xdb333724fAE72b4253FC3d44c8270CBBC86d147b",
+            "chainId": 43114,
+            "name": "Cabbage.Cash",
+            "symbol": "CABAG",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CABAG.png"
+        },
+        {
+            "address": "0x4eb49a2f9a79053866fae806fac95a3ef5b92c05",
+            "chainId": 43114,
+            "name": "CakeDAO",
+            "symbol": "CAKE",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAKE2.jpg"
+        },
+        {
+            "address": "0x094bfac9894d2a2a35771d0bd6d2447689190f32",
+            "chainId": 43114,
+            "name": "CAT",
+            "symbol": "CAT",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CAT7.png"
+        },
+        {
+            "address": "0x42f33f70be8a9c062b68ee64e7ff34dd2ed2f5d8",
+            "chainId": 43114,
+            "name": "Cross Chain Capital V1 (OLD)",
+            "symbol": "CCC",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CCC5.jpg"
+        },
+        {
+            "address": "0x4939B3313E73ae8546b90e53E998E82274afDbDB",
+            "chainId": 43114,
+            "name": "Cross Chain Capital V2",
+            "symbol": "CCC",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CCC6.jpeg"
+        },
+        {
+            "address": "0x727C43b707C6Fe3ACD92f17EFAC8e05476DFa81c",
+            "chainId": 43114,
+            "name": "AvaCougarSwap",
+            "symbol": "CGS",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CGSAVAX.png"
+        },
+        {
+            "address": "0xc16a1b60175d16be6f2ed0ba506ca0e6efba8e08",
+            "chainId": 43114,
+            "name": "GigaChad",
+            "symbol": "CHAD",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x4735721ed62713e3a141c939f4aa55ca8ad5f66a",
+            "chainId": 43114,
+            "name": "Chihuahuax",
+            "symbol": "CHIHUA",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CHIHUA2.jpg"
+        },
+        {
+            "address": "0x17e785df9d124de6b629565935fa7c1234815951",
+            "chainId": 43114,
+            "name": "Chupacabra",
+            "symbol": "CHUPA",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0xa5b0f5ef809fd04c9d4320211c711cb34ef812dd",
+            "chainId": 43114,
+            "name": "Clavis",
+            "symbol": "CLAVIS",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0xec3492a2508ddf4fdc0cd76f31f340b30d1793e6",
+            "chainId": 43114,
+            "name": "Colony",
+            "symbol": "CLY",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CLY3.jpg"
+        },
+        {
+            "address": "0x8d88e48465f30acfb8dac0b3e35c9d6d7d36abaf",
+            "chainId": 43114,
+            "name": "Canary",
+            "symbol": "CNR",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CNR3.jpg"
+        },
+        {
+            "address": "0x3711c397b6c8f7173391361e27e67d72f252caad",
+            "chainId": 43114,
+            "name": "Complus Network",
+            "symbol": "COM",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COM3.png"
+        },
+        {
+            "address": "0x2923e182a6e68c0fe4006736a33b32f805703683",
+            "chainId": 43114,
+            "name": "Comet Nodes",
+            "symbol": "COMET",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/COMET2.jpg"
+        },
+        {
+            "address": "0xa32608e873f9ddef944b24798db69d80bbb4d1ed",
+            "chainId": 43114,
+            "name": "Crabada",
+            "symbol": "CRA",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRA.jpg"
+        },
+        {
+            "address": "0x8ae8be25c23833e0a01aa200403e826f611f9cd2",
+            "chainId": 43114,
+            "name": "TaleCraft",
+            "symbol": "CRAFT",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CRAFT2.jpg"
+        },
+        {
+            "address": "0xed46443c18e38064523180fc364c6180b35803d3",
+            "chainId": 43114,
+            "name": "MidasDAO",
+            "symbol": "CROWN",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CROWN2.jpeg"
+        },
+        {
+            "address": "0x81440c939f2c1e34fc7048e518a637205a632a74",
+            "chainId": 43114,
+            "name": "Cycle Token",
+            "symbol": "CYCLE",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/CYCLE2.png"
+        },
+        {
+            "address": "0x411491859864797792308723fc417f11bba18d1b",
+            "chainId": 43114,
+            "name": "Crypto Yield Focus",
+            "symbol": "CYF",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
+            "chainId": 43114,
+            "name": "Dai (Avalanche)",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DAIAVAX.jpg"
+        },
+        {
+            "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+            "chainId": 43114,
+            "name": "Dai Stablecoin (Avalanche)",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x100cc3a819dd3e8573fd2e46d1e66ee866068f30",
+            "chainId": 43114,
+            "name": "Dragon Crypto Aurum",
+            "symbol": "DCAU",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DCAU.jpg"
+        },
+        {
+            "address": "0x4abbc3275f8419685657c2dd69b8ca2e26f23f8e",
+            "chainId": 43114,
+            "name": "Diamond Token",
+            "symbol": "DIAMOND",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0x0c71756399118d0e6e58ba3f474c70e3434a4d25",
+            "chainId": 43114,
+            "name": "DIZZY coin",
+            "symbol": "DIZ",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x88c090496125b751b4e3ce4d3fdb8e47dd079c57",
+            "chainId": 43114,
+            "name": "Dragon Egg",
+            "symbol": "DREGG",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DREGG.jpg"
+        },
+        {
+            "address": "0xdd57fa6a38326b5c040a6bfce7a0a7c65588175a",
+            "chainId": 43114,
+            "name": "Dune Token",
+            "symbol": "DUNE",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUNE.jpg"
+        },
+        {
+            "address": "0x314f3bee25e49ea4bcea9a3d1321c74c95f10eab",
+            "chainId": 43114,
+            "name": "DUNEV3",
+            "symbol": "DUNEV3",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0xed4102f3a1a24bd4ef1f29b90cd8bf00a540c0c2",
+            "chainId": 43114,
+            "name": "Duo",
+            "symbol": "DUO",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DUO2.png"
+        },
+        {
+            "address": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17",
+            "chainId": 43114,
+            "name": "DeFi Yield Protocol (Avalanche)",
+            "symbol": "DYP",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DYPAVAX.jpg"
+        },
+        {
+            "address": "0xa0818b489f85579d9c29d75b95b239418c9d8687",
+            "chainId": 43114,
+            "name": "AvaEagle",
+            "symbol": "EAGLE",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EAGLE3.jpg"
+        },
+        {
+            "address": "0x7761e2338b35bceb6bda6ce477ef012bde7ae611",
+            "chainId": 43114,
+            "name": "Chikn Egg",
+            "symbol": "EGG",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x06534dbd3e383b553d15d260387af5ffa6568783",
+            "chainId": 43114,
+            "name": "AvaEagle Egg",
+            "symbol": "EGG",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EGG7.jpg"
+        },
+        {
+            "address": "0xfd62e169d405b7125393b0c9aa5cbedf26d743bf",
+            "chainId": 43114,
+            "name": "Ebony Green",
+            "symbol": "EGREEN",
+            "decimals": 5,
+            "logoURI": ""
+        },
+        {
+            "address": "0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0",
+            "chainId": 43114,
+            "name": "Eleven Finance (Avalanche)",
+            "symbol": "ELE",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELE3AVAX.jpg"
+        },
+        {
+            "address": "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c",
+            "chainId": 43114,
+            "name": "Elk Finance (Avalanche)",
+            "symbol": "ELK",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ELKAVAX.jpg"
+        },
+        {
+            "address": "0xD81D45E7635400dDD9c028839e9a9eF479006B28",
+            "chainId": 43114,
+            "name": "EmbrToken",
+            "symbol": "EMBR",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EMBR2.jpeg"
+        },
+        {
+            "address": "0xF124deC273E9541A93F5981294E8f74Aeb280Ec8",
+            "chainId": 43114,
+            "name": "Eskimo Farm",
+            "symbol": "ESKI",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ESKI.jpeg"
+        },
+        {
+            "address": "0x0755fa2f4aa6311e1d7c19990416c86f17d16f86",
+            "chainId": 43114,
+            "name": "Etherprint",
+            "symbol": "ETHP",
+            "decimals": 6,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ETHP4.jpg"
+        },
+        {
+            "address": "0xc32c3f3425468f8ee70ed9300011fb62be0306fd",
+            "chainId": 43114,
+            "name": "EverVax",
+            "symbol": "EVAX",
+            "decimals": 6,
+            "logoURI": ""
+        },
+        {
+            "address": "0x3aca5545e76746a3fe13ea66b24bc0ebcc51e6b4",
+            "chainId": 43114,
+            "name": "Everest Token",
+            "symbol": "EVRT",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/EVRT.jpg"
+        },
+        {
+            "address": "0x1390372f70b651820042Db75E56260c080893eeA",
+            "chainId": 43114,
+            "name": "FlokiAVAX",
+            "symbol": "FAVAX",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FAVAX.jpg"
+        },
+        {
+            "address": "0xc4cc9d396a190d82eafc2302350011cf30a225f6",
+            "chainId": 43114,
+            "name": "FinalTestPrint",
+            "symbol": "FINALTEST",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0x9559873d5b9e0176e923399cbd2863aea1fb19b9",
+            "chainId": 43114,
+            "name": "IceFlake Finance",
+            "symbol": "FLAKE",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLAKE.png"
+        },
+        {
+            "address": "0x39a54a4a087854d847aaB84a8117EDcCdA85a8c6",
+            "chainId": 43114,
+            "name": "Flume Finance",
+            "symbol": "FLUME",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FLUME.png"
+        },
+        {
+            "address": "0xf6d46849db378ae01d93732585bec2c4480d1fd5",
+            "chainId": 43114,
+            "name": "Fortress",
+            "symbol": "FORT",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/FORT3.jpg"
+        },
+        {
+            "address": "0x595c8481c48894771ce8fade54ac6bf59093f9e8",
+            "chainId": 43114,
+            "name": "PolyGaj (Avalanche)",
+            "symbol": "GAJ",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x90842eb834cfd2a1db0b1512b254a18e4d396215",
+            "chainId": 43114,
+            "name": "Good Bridging",
+            "symbol": "GB",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GB2.jpg"
+        },
+        {
+            "address": "0xd606199557c8ab6f4cc70bd03facc96ca576f142",
+            "chainId": 43114,
+            "name": "Gondola Finance",
+            "symbol": "GDL",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GDL.jpg"
+        },
+        {
+            "address": "0x09ad4a1746ab9ecc96bb67d919de3c6b54cc879f",
+            "chainId": 43114,
+            "name": "Good Fire",
+            "symbol": "GF",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GF.png"
+        },
+        {
+            "address": "0x089f66b385ae25ace668aa524679ef29e4217514",
+            "chainId": 43114,
+            "name": "GoodFireDAO",
+            "symbol": "GFDAO",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0xf2f7ce610a091b94d41d69f4ff1129434a82e2f0",
+            "chainId": 43114,
+            "name": "GalaxyGoggle DAO",
+            "symbol": "GG",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GG3.jpg"
+        },
+        {
+            "address": "0x368098e9deb1961426e8c8554e0d910e189862db",
+            "chainId": 43114,
+            "name": "GlacierLaunch",
+            "symbol": "GLAC",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0xbbb55e724f6d022b0aec5975e371f39985bb492b",
+            "chainId": 43114,
+            "name": "GLACIAL Token",
+            "symbol": "GLACIAL",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0xb092214663b7cb2e0497825aa4cecd5dbd3a178b",
+            "chainId": 43114,
+            "name": "GMA",
+            "symbol": "GMA",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMA.jpg"
+        },
+        {
+            "address": "0x19cfd1a6b1cd236b542b561ed26b32d697e5a77f",
+            "chainId": 43114,
+            "name": "Enigma DAO",
+            "symbol": "GMA",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GMA2.jpg"
+        },
+        {
+            "address": "0x418b0867ab4eafc6395366ade8aad0218e6d528d",
+            "chainId": 43114,
+            "name": "Glacial Finance Bonus Reward",
+            "symbol": "GREWARD",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x72699ba15CC734F8db874fa9652c8DE12093F187",
+            "chainId": 43114,
+            "name": "Growth-Peg Token (Avalanche)",
+            "symbol": "GRO",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/GROAVAX.jpg"
+        },
+        {
+            "address": "0x761a6dd57267b2a6d25ecaad43bdd0c04730028b",
+            "chainId": 43114,
+            "name": "GSHARE Token",
+            "symbol": "GSHARE",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x0E7046DC936432C91969a2c29D8421Ec4c6865A1",
+            "chainId": 43114,
+            "name": "Hamster Avax",
+            "symbol": "HAM",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HAM5.jpeg"
+        },
+        {
+            "address": "0x01c5e2a4af2bd9f62c7d55c6105b8a64e6905be5",
+            "chainId": 43114,
+            "name": "Hatter",
+            "symbol": "HATTER",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HATTER.jpg"
+        },
+        {
+            "address": "0x45c13620b55c35a5f539d26e88247011eb10fdbd",
+            "chainId": 43114,
+            "name": "Hurricane Token",
+            "symbol": "HCT",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HCT2.jpg"
+        },
+        {
+            "address": "0xce0052745a182fff07acb9dd834041e5f29319b2",
+            "chainId": 43114,
+            "name": "Higgs",
+            "symbol": "HIGGS",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x0342993a0a3bcff7668578082c3ad17b5277d97d",
+            "chainId": 43114,
+            "name": "HLTH Token",
+            "symbol": "HLTH",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HLTH.png"
+        },
+        {
+            "address": "0x0592af5414f2f8d90a5ae3c25e937804d3965c87",
+            "chainId": 43114,
+            "name": "Hoopoe",
+            "symbol": "HOOP",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOOP2.png"
+        },
+        {
+            "address": "0x2f86508f41310D8D974B76deb3D246c0caa71cf5",
+            "chainId": 43114,
+            "name": "Hot Cross (Avalanche)",
+            "symbol": "HOTCROSS",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HOTCROSSAVAX.jpg"
+        },
+        {
+            "address": "0x65378b697853568da9ff8eab60c13e1ee9f4a654",
+            "chainId": 43114,
+            "name": "Husky Avax",
+            "symbol": "HUSKY",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/HUSKY2.png"
+        },
+        {
+            "address": "0x61db988de7d2084be02804c78218e89645a5dfe0",
+            "chainId": 43114,
+            "name": "Mammoth ICE",
+            "symbol": "ICE",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICE5.png"
+        },
+        {
+            "address": "0x9235b893a3e61a14b2d02a91ec1394fbf411689e",
+            "chainId": 43114,
+            "name": "Ice Dao",
+            "symbol": "ICE",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICE7.jpeg"
+        },
+        {
+            "address": "0x951C8a8DEe33bd5039A71E7BD4244D5659CF1517",
+            "chainId": 43114,
+            "name": "IceCubes Finance",
+            "symbol": "ICUBE",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ICUBE2.png"
+        },
+        {
+            "address": "0x31d27a3e10839e61cfac5125e5c7b2d42503159f",
+            "chainId": 43114,
+            "name": "Jackal",
+            "symbol": "JKL",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+            "chainId": 43114,
+            "name": "JOE",
+            "symbol": "JOE",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/JOE.jpg"
+        },
+        {
+            "address": "0x894aa2d0d3e63471c5ffbd22a8a95c8476826cf9",
+            "chainId": 43114,
+            "name": "Pumpkins Farm",
+            "symbol": "KINS",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KINS.jpg"
+        },
+        {
+            "address": "0x45CdaF3Fd17BD31d9830Fa977159162DD2431683",
+            "chainId": 43114,
+            "name": "Kioo",
+            "symbol": "KIOO",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KIOO.jpeg"
+        },
+        {
+            "address": "0x788ae3b5d153d49f8db649aacba1857f744b739e",
+            "chainId": 43114,
+            "name": "Kitty Finance",
+            "symbol": "KITTY",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KITTY9.png"
+        },
+        {
+            "address": "0xb27c8941a7df8958a1778c0259f76d1f8b711c35",
+            "chainId": 43114,
+            "name": "Kalao",
+            "symbol": "KLO",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/KLO.jpeg"
+        },
+        {
+            "address": "0x2115f83922ad1d732bbd3b3a255f861d6b95079f",
+            "chainId": 43114,
+            "name": "Himalaya Token",
+            "symbol": "LAYA",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x5c1bee0d123fea1239339d0c8f990d53021a3abd",
+            "chainId": 43114,
+            "name": "Leaf",
+            "symbol": "LEAF",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LEAF4.png"
+        },
+        {
+            "address": "0x5684a087c739a2e845f4aaaabf4fbd261edc2be8",
+            "chainId": 43114,
+            "name": "Life DAO",
+            "symbol": "LF",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LF2.jpg"
+        },
+        {
+            "address": "0x5947bb275c521040051d82396192181b413227a3",
+            "chainId": 43114,
+            "name": "ChainLink (Avalanche)",
+            "symbol": "LINK",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LINKAVAX.jpg"
+        },
+        {
+            "address": "0x2c9ca6f25ea0da55b0dda5497894d5f31db29ece",
+            "chainId": 43114,
+            "name": "Last_Man_META",
+            "symbol": "LMM",
+            "decimals": 6,
+            "logoURI": ""
+        },
+        {
+            "address": "0xf9cA697C3F86b7962F0c1DD3cD7935e11Ac04ea9",
+            "chainId": 43114,
+            "name": "Luffy Swap",
+            "symbol": "LUFFYS",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LUFFYS.png"
+        },
+        {
+            "address": "0xff579d6259dedcc80488c9b89d2820bcb5609160",
+            "chainId": 43114,
+            "name": "Louverture",
+            "symbol": "LVT",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LVT3.jpg"
+        },
+        {
+            "address": "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084",
+            "chainId": 43114,
+            "name": "Lydia Finance",
+            "symbol": "LYD",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LYD2.jpg"
+        },
+        {
+            "address": "0xb3f52c360201201d366efd2cda4db78e00cb9d5d",
+            "chainId": 43114,
+            "name": "Luyuka",
+            "symbol": "LYK",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/LYK.jpg"
+        },
+        {
+            "address": "0xEF6BBF76E3b89794d84dB65ac82022D0B97a0efd",
+            "chainId": 43114,
+            "name": "Max",
+            "symbol": "MAX",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAX3.png"
+        },
+        {
+            "address": "0x885d748c00a279b67a7749ec6b03301700dd0455",
+            "chainId": 43114,
+            "name": "Maximus",
+            "symbol": "MAXI",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAXI3.jpeg"
+        },
+        {
+            "address": "0x7c08413cbf02202a1c13643db173f2694e0f73f0",
+            "chainId": 43114,
+            "name": "Maximizer",
+            "symbol": "MAXI",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MAXI4.jpg"
+        },
+        {
+            "address": "0x245c2591403e182e41d7a851eab53b01854844ce",
+            "chainId": 43114,
+            "name": "Thors Mead",
+            "symbol": "MEAD",
+            "decimals": 8,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEAD.jpg"
+        },
+        {
+            "address": "0x479710b1cfD30C4D93B4e1a47d821C5E06B3d3FE",
+            "chainId": 43114,
+            "name": "MeltShroom",
+            "symbol": "MELT",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MELT2.png"
+        },
+        {
+            "address": "0x47eb6f7525c1aa999fbc9ee92715f5231eb1241d",
+            "chainId": 43114,
+            "name": "Defrost Finance",
+            "symbol": "MELT",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MELT3.jpeg"
+        },
+        {
+            "address": "0x136acd46c134e8269052c62a67042d6bdedde3c9",
+            "chainId": 43114,
+            "name": "MEMOries (Wonderland)",
+            "symbol": "MEMO",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MEMO.png"
+        },
+        {
+            "address": "0xF54Cd11595aeC3B99d274318446060E24b0d2D33",
+            "chainId": 43114,
+            "name": "Mermaid Swap",
+            "symbol": "MERD",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MERD.jpeg"
+        },
+        {
+            "address": "0x47dfb70bf0b26ed05b3f1afee3f27554e7a2c5b1",
+            "chainId": 43114,
+            "name": "MetaKing",
+            "symbol": "METAKING",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0",
+            "chainId": 43114,
+            "name": "Marginswap (Avalanche)",
+            "symbol": "MFI",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MFIAVAX.jpg"
+        },
+        {
+            "address": "0x787b1cc6ef1b2627a5281e6cbe673b6d55fcb1b9",
+            "chainId": 43114,
+            "name": "MicronDAO",
+            "symbol": "MIDAO",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e",
+            "chainId": 43114,
+            "name": "miMatic (Avalanche)",
+            "symbol": "MIMATIC",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIMATICAVAX.jpg"
+        },
+        {
+            "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+            "chainId": 43114,
+            "name": "Magic Internet Money (Avalanche)",
+            "symbol": "MIM",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MIMAVAX.jpg"
+        },
+        {
+            "address": "0x4cb6f57297bb3eb8094f9a2b5d3eeda9da887fab",
+            "chainId": 43114,
+            "name": "MiniAvalanche",
+            "symbol": "MINIAVAX",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0x7bf4ca9aec25adaaf7278eedbe959d81893e314f",
+            "chainId": 43114,
+            "name": "MintSwap",
+            "symbol": "MINT",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MINT7.png"
+        },
+        {
+            "address": "0xb5623f774e568fed0259cf1c28a705405dd5967f",
+            "chainId": 43114,
+            "name": "MJewel",
+            "symbol": "MJEWEL",
+            "decimals": 6,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MJEWEL.jpg"
+        },
+        {
+            "address": "0xddaaad7366b455aff8e7c82940c43ceb5829b604",
+            "chainId": 43114,
+            "name": "MiniYAK",
+            "symbol": "MYAK",
+            "decimals": 12,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/MYAK.png"
+        },
+        {
+            "address": "0xb80323c7aa915cb960b19b5cca1d88a2132f7bd1",
+            "chainId": 43114,
+            "name": "Tornadao",
+            "symbol": "NADO",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NADO.jpg"
+        },
+        {
+            "address": "0xd9702f5e3b0eb7452967cb82529776d672bdc03f",
+            "chainId": 43114,
+            "name": "Lucky Cat",
+            "symbol": "NEKO",
+            "decimals": 8,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NEKO3.png"
+        },
+        {
+            "address": "0xf69c2fcd9128d49dfa22348c69177f9380438eb8",
+            "chainId": 43114,
+            "name": "NFTSoccerGames",
+            "symbol": "NFSG",
+            "decimals": 6,
+            "logoURI": ""
+        },
+        {
+            "address": "0x8e0fe2947752be0d5acf73aae77362daf79cb379",
+            "chainId": 43114,
+            "name": "NFTrade (Avalanche)",
+            "symbol": "NFTD",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NFTDAVAX.jpg"
+        },
+        {
+            "address": "0xb8d3ca2bf76ab9d075dd27033e1da5da995cd39d",
+            "chainId": 43114,
+            "name": "NEOGlacierDAO",
+            "symbol": "NGLA",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0x5371179d5c463d08a437f9d0cc475ec4f59d2887",
+            "chainId": 43114,
+            "name": "NGMI Coin",
+            "symbol": "NGMI",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/NGMI.jpeg"
+        },
+        {
+            "address": "0xaf18997608fb6aeb0fcacf78aa5135bb878820f7",
+            "chainId": 43114,
+            "name": "VikingNodes",
+            "symbol": "NODESVIKING",
+            "decimals": 6,
+            "logoURI": ""
+        },
+        {
+            "address": "0xf27c1ad64ff5af415df21c0d67a6adef7260dd5e",
+            "chainId": 43114,
+            "name": "OHMdragonsDAO",
+            "symbol": "ODD",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0x937e077abaea52d3abf879c9b9d3f2ebd15baa21",
+            "chainId": 43114,
+            "name": "Oh! Finance",
+            "symbol": "OH",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OHAVAX.jpg"
+        },
+        {
+            "address": "0x617724974218a18769020a70162165a539c07e8a",
+            "chainId": 43114,
+            "name": "Olive Cash (Avalanche)",
+            "symbol": "OLIVE",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OLIVEAVAX.png"
+        },
+        {
+            "address": "0xf6931e67ef0cb20423351a53069719df2ad76e78",
+            "chainId": 43114,
+            "name": "FarmersOnly Onion",
+            "symbol": "ONION",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ONION2.jpeg"
+        },
+        {
+            "address": "0x0ebd9537a25f56713e34c45b38f421a1e7191469",
+            "chainId": 43114,
+            "name": "OpenOcean (Avalanche)",
+            "symbol": "OOE",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OOEAVAX.jpg"
+        },
+        {
+            "address": "0x76076880e1ebbce597e6e15c47386cd34de4930f",
+            "chainId": 43114,
+            "name": "Canopus",
+            "symbol": "OPUS",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/OPUS.jpg"
+        },
+        {
+            "address": "0x8b1d98a91f853218ddbb066f20b8c63e782e2430",
+            "chainId": 43114,
+            "name": "Orca DAO",
+            "symbol": "ORCA",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ORCA2.svg"
+        },
+        {
+            "address": "0x70b33ebc5544c12691d055b49762d0f8365d99fe",
+            "chainId": 43114,
+            "name": "PAPA DAO",
+            "symbol": "PAPA",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PAPA.jpg"
+        },
+        {
+            "address": "0xf10b5a72f0abeb27a5ddba950082e4edff4c825d",
+            "chainId": 43114,
+            "name": "ParrotDao",
+            "symbol": "PARR",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0x69a61f38df59cbb51962e69c54d39184e21c27ec",
+            "chainId": 43114,
+            "name": "PartySwap",
+            "symbol": "PARTY",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PARTYAVAX.png"
+        },
+        {
+            "address": "0x25afd99fcb474d7c336a2971f26966da652a92bc",
+            "chainId": 43114,
+            "name": "Party V2",
+            "symbol": "PARTY",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PARTYV2.jpg"
+        },
+        {
+            "address": "0x0e75cdb914ddcca683357dd94d26caa39bc14b16",
+            "chainId": 43114,
+            "name": "Piggy Bank",
+            "symbol": "PB",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PB2.jpg"
+        },
+        {
+            "address": "0xe896cdeaac9615145c0ca09c8cd5c25bced6384c",
+            "chainId": 43114,
+            "name": "Penguin Finance",
+            "symbol": "PEFI",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PEFI.jpg"
+        },
+        {
+            "address": "0x042d4af7d4e95a09fef1a284f1452d30776021cc",
+            "chainId": 43114,
+            "name": "PENTAS",
+            "symbol": "PENTAS",
+            "decimals": 8,
+            "logoURI": ""
+        },
+        {
+            "address": "0x1843bf2ccbc3d9e788dcac7612767f8e86795852",
+            "chainId": 43114,
+            "name": "PixelFactoryDAO",
+            "symbol": "PFD",
+            "decimals": 6,
+            "logoURI": ""
+        },
+        {
+            "address": "0x7b2b702706d9b361dfe3f00bd138c0cfda7fb2cf",
+            "chainId": 43114,
+            "name": "Pollen",
+            "symbol": "PLN",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLN3.jpg"
+        },
+        {
+            "address": "0xecfe536a209e405db19887830b366e397f5b917a",
+            "chainId": 43114,
+            "name": "Plateau Finance",
+            "symbol": "PLT",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PLT5.jpg"
+        },
+        {
+            "address": "0x60781c2586d68229fde47564546784ab3faca982",
+            "chainId": 43114,
+            "name": "Pangolin",
+            "symbol": "PNG",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PNG2.jpg"
+        },
+        {
+            "address": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
+            "chainId": 43114,
+            "name": "Platypus Finance",
+            "symbol": "PTP",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/PTP.jpg"
+        },
+        {
+            "address": "0x553373BaE3df6dFB1da1e34aafdad2e5F9a104B0",
+            "chainId": 43114,
+            "name": "Puggy",
+            "symbol": "PUGGY",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+            "chainId": 43114,
+            "name": "BENQI",
+            "symbol": "QI",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/QI3.jpg"
+        },
+        {
+            "address": "0x7086e045b78e1e72f741f25231c08d238812cf8a",
+            "chainId": 43114,
+            "name": "RaceX",
+            "symbol": "RACEX",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RACEX.jpeg"
+        },
+        {
+            "address": "0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d",
+            "chainId": 43114,
+            "name": "Rai Reflex Index (Avalanche)",
+            "symbol": "RAI",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RAIAVAX.png"
+        },
+        {
+            "address": "0x78c42324016cd91D1827924711563fb66E33A83A",
+            "chainId": 43114,
+            "name": "Relay Token (Avalanche)",
+            "symbol": "RELAY",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RELAYAVAX.jpg"
+        },
+        {
+            "address": "0x46fccf447f74ec97a521615fce111118597071f7",
+            "chainId": 43114,
+            "name": "RagnarokDAO",
+            "symbol": "RGK",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RGK.jpg"
+        },
+        {
+            "address": "0xb2a85c5ecea99187a977ac34303b80acbddfa208",
+            "chainId": 43114,
+            "name": "Roco Finance",
+            "symbol": "ROCO",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ROCO2.png"
+        },
+        {
+            "address": "0xb8ef3a190b68175000b74b4160d325fd5024760e",
+            "chainId": 43114,
+            "name": "R U Generous",
+            "symbol": "RUG",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RUG2.png"
+        },
+        {
+            "address": "0x61ecd63e42c27415696e10864d70ecea4aa11289",
+            "chainId": 43114,
+            "name": "Rugpull Prevention",
+            "symbol": "RUGPULL",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/RUGPULL.jpg"
+        },
+        {
+            "address": "0x4501e37a79cf953116331a105b3644d07b74c0f8",
+            "chainId": 43114,
+            "name": "SafemoonAvax",
+            "symbol": "SAFEMOONA",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SAFEMOONA.jpg"
+        },
+        {
+            "address": "0x7d1232b90d3f809a54eeaeebc639c62df8a8942f",
+            "chainId": 43114,
+            "name": "Snowbank",
+            "symbol": "SB",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SB2.jpeg"
+        },
+        {
+            "address": "0x19613fec180746831bdf819e0790f35741040dfd",
+            "chainId": 43114,
+            "name": "Snowbear",
+            "symbol": "SBR",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SBR2.jpg"
+        },
+        {
+            "address": "0xde9e52f1838951e4d2bb6c59723b003c353979b6",
+            "chainId": 43114,
+            "name": "Snowdog",
+            "symbol": "SDOG",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SDOG3.jpg"
+        },
+        {
+            "address": "0x37427c72f3534d854ee462d18f42ad5fbe74aa2b",
+            "chainId": 43114,
+            "name": "The Seed Farm",
+            "symbol": "SEED",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SEED9.jpg"
+        },
+        {
+            "address": "0x37d87e316cb4e35163881fdb6c6bc0cdba91dc0a",
+            "chainId": 43114,
+            "name": "Stabilize Token",
+            "symbol": "SET",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SET4.jpg"
+        },
+        {
+            "address": "0x1f1fe1ef06ab30a791d6357fdf0a7361b39b1537",
+            "chainId": 43114,
+            "name": "Sled Finance",
+            "symbol": "SFI",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SFI3.png"
+        },
+        {
+            "address": "0xa5e59761ebd4436fa4d20e1a27cba29fb2471fc6",
+            "chainId": 43114,
+            "name": "Sherpa",
+            "symbol": "SHERPA",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHERPA.jpg"
+        },
+        {
+            "address": "0x54f8e2f7cd0ca1cc1aeb2911ebcfe8c09d2f54ec",
+            "chainId": 43114,
+            "name": "ShibaCyborg",
+            "symbol": "SHIBACY",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0x440abbf18c54b2782a4917b80a1746d3a2c2cce1",
+            "chainId": 43114,
+            "name": "Shibavax",
+            "symbol": "SHIBX",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SHIBX.png"
+        },
+        {
+            "address": "0x72fcaacb1cbe055def94fb5d8ba838a05511847d",
+            "chainId": 43114,
+            "name": "ShitDoge ",
+            "symbol": "SHITDOGE",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0xf9a075c9647e91410bf6c402bdf166e1540f67f0",
+            "chainId": 43114,
+            "name": "Sing Token (Avalanche)",
+            "symbol": "SING",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SING3.png"
+        },
+        {
+            "address": "0x2841a8a2ce98a9d21ad8c3b7fc481527569bd7bb",
+            "chainId": 43114,
+            "name": "SL3 Token",
+            "symbol": "SL3",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SL3.jpg"
+        },
+        {
+            "address": "0xad7476c49d3f82a144f4836aacb9b069c188b759",
+            "chainId": 43114,
+            "name": "SoldierNodes",
+            "symbol": "SLD",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLD6.jpg"
+        },
+        {
+            "address": "0x28bf9cb0a8c0a6fb01680daaae9d6ae76234491b",
+            "chainId": 43114,
+            "name": "IceSlush Finance",
+            "symbol": "SLUSH",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLUSH2.jpg"
+        },
+        {
+            "address": "0xd197c8b939f199c7d70d030c1931d3c24442df60",
+            "chainId": 43114,
+            "name": "Slushie Capital",
+            "symbol": "SLUSH",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SLUSH3.jpg"
+        },
+        {
+            "address": "0xcc2f1d827b18321254223df4e84de399d9ff116c",
+            "chainId": 43114,
+            "name": "SmartCoin",
+            "symbol": "SMRT",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMRT2.jpg"
+        },
+        {
+            "address": "0x6d923f688c7ff287dc3a5943caeefc994f97b290",
+            "chainId": 43114,
+            "name": "SmartCoin (SMRTr)",
+            "symbol": "SMRTR",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMRTR.jpg"
+        },
+        {
+            "address": "0xe761afc921ec7ff11df025f8967d08e3daa805a8",
+            "chainId": 43114,
+            "name": "Snowball-Snowbank",
+            "symbol": "SNO",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNO2.jpg"
+        },
+        {
+            "address": "0xc38f41a296a4493ff429f1238e030924a1542e50",
+            "chainId": 43114,
+            "name": "SnowBall Token",
+            "symbol": "SNOB",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNOB.jpeg"
+        },
+        {
+            "address": "0xcf98695af7eacd36e036dedb6e192c1c9c7e66d6",
+            "chainId": 43114,
+            "name": "Snow Leopard",
+            "symbol": "SNOWLEOPARD",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNOWLEOPARD.jpg"
+        },
+        {
+            "address": "0x6a6fae2d14a872d2b040f880d0ecdae11c6c3033",
+            "chainId": 43114,
+            "name": "SnowMan",
+            "symbol": "SNOWMAN",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0xe677bdc4f5ac7ef7701f4199f25abad34d41fd7f",
+            "chainId": 43114,
+            "name": "SNRW.e",
+            "symbol": "SNRW",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SNRW.png"
+        },
+        {
+            "address": "0x8ca1a53f2a5379034002580dfbb1d5fbe223bbb8",
+            "chainId": 43114,
+            "name": "Snowbear",
+            "symbol": "SNW",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x4aca0ad6357b918e3d06bb1a0bcc403619177523",
+            "chainId": 43114,
+            "name": "Sonic Token",
+            "symbol": "SONIC",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SONIC3.jpeg"
+        },
+        {
+            "address": "0x86a546f65ef8375f1fd31d385a08f6f1ec4001e2",
+            "chainId": 43114,
+            "name": "Lemon Nodes",
+            "symbol": "SOUR",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0x353af195c0d82820c59427bfbd318a49971aae1a",
+            "chainId": 43114,
+            "name": "Vortex DAO",
+            "symbol": "SPACE",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPACE8.jpg"
+        },
+        {
+            "address": "0x6e7f5c0b9f4432716bdd0a77a3601291b9d9e985",
+            "chainId": 43114,
+            "name": "Spore",
+            "symbol": "SPORE",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SPORE.png"
+        },
+        {
+            "address": "0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b",
+            "chainId": 43114,
+            "name": "Storm Token",
+            "symbol": "STORM",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STORM2.png"
+        },
+        {
+            "address": "0xaafd2577fb67366d3c89db0d627c49d769ee2e5d",
+            "chainId": 43114,
+            "name": "Stabilize USD",
+            "symbol": "SUSD",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUSD2.jpg"
+        },
+        {
+            "address": "0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc",
+            "chainId": 43114,
+            "name": "Sushi (Avalanche)",
+            "symbol": "SUSHI",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SUSHIAVAX.png"
+        },
+        {
+            "address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
+            "chainId": 43114,
+            "name": "SushiToken",
+            "symbol": "SUSHI.E",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x0aa4ef05b43700bf4b6e6dc83ea4e9c2cf6af0fa",
+            "chainId": 43114,
+            "name": "Swift Finance",
+            "symbol": "SWIFT",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SWIFT2.jpeg"
+        },
+        {
+            "address": "0x1f1E7c893855525b303f99bDF5c3c05Be09ca251",
+            "chainId": 43114,
+            "name": "Synapse Protocol (Avalanche)",
+            "symbol": "SYN",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SYN3AVAX.jpg"
+        },
+        {
+            "address": "0x094bd7b2d99711a1486fb94d4395801c6d0fddcc",
+            "chainId": 43114,
+            "name": "Teddy",
+            "symbol": "TEDDY",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TEDDY2.jpg"
+        },
+        {
+            "address": "0x88a425b738682f58c0ff9fcf2cceb47a361ef4cf",
+            "chainId": 43114,
+            "name": "Tempo",
+            "symbol": "TEMPO",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TEMPO.jpg"
+        },
+        {
+            "address": "0x9f87c6c30f4b23c7b51aa7465a9e0a836514700d",
+            "chainId": 43114,
+            "name": "Avaterra",
+            "symbol": "TERRA",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TERRA2.jpg"
+        },
+        {
+            "address": "0x372d9d1212767c94bfd78140bdeb0be093b474bf",
+            "chainId": 43114,
+            "name": "testinggg",
+            "symbol": "TESTINGTESTING",
+            "decimals": 6,
+            "logoURI": ""
+        },
+        {
+            "address": "0x917c11c79fc9d1421483e87fba4105d01f039793",
+            "chainId": 43114,
+            "name": "ThunderGodDAO",
+            "symbol": "TGD",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0x8f47416cae600bccf9530e9f3aeaa06bdd1caa79",
+            "chainId": 43114,
+            "name": "Thor",
+            "symbol": "THOR",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/THOR6.png"
+        },
+        {
+            "address": "0xb54f16fb19478766a268f172c9480f8da1a7c9c3",
+            "chainId": 43114,
+            "name": "TIME (Wonderland)",
+            "symbol": "TIME",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIME5.png"
+        },
+        {
+            "address": "0xfaa539B83CEE9F94A304Fa8389D410647Aafc36B",
+            "chainId": 43114,
+            "name": "TimeWarp",
+            "symbol": "WARP",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TIMEWARP.png"
+        },
+        {
+            "address": "0xf5760bbbC3565f6A513a9c20300a335A1250C57e",
+            "chainId": 43114,
+            "name": "FarmersOnly's Tomato Coin",
+            "symbol": "TMT",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TMT5.jpeg"
+        },
+        {
+            "address": "0xd17584633bc8d190e5a14502976dad9640456d6d",
+            "chainId": 43114,
+            "name": "Tangle (Avalanche)",
+            "symbol": "TNGL",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TNGLAVAX.jpeg"
+        },
+        {
+            "address": "0xaf1843657f00f8c048139b7103784fdefc403702",
+            "chainId": 43114,
+            "name": "Tangle (Avalanche) V1 OLD",
+            "symbol": "TNGLV3",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TNGLV3AVAX.jpg"
+        },
+        {
+            "address": "0xae9d2385ff2e2951dd4fa061e74c4d3dedd24347",
+            "chainId": 43114,
+            "name": "TOK",
+            "symbol": "TOK",
+            "decimals": 8,
+            "logoURI": ""
+        },
+        {
+            "address": "0xaB2712b217F0015B602C06E4fb66B8cf8B04F894",
+            "chainId": 43114,
+            "name": "TortugaCoin",
+            "symbol": "TORTUGA",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TORTUGA.jpg"
+        },
+        {
+            "address": "0x542fa0b261503333b90fe60c78f2beed16b7b7fd",
+            "chainId": 43114,
+            "name": "Tractor Joe",
+            "symbol": "TRACTOR",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRACTOR.jpg"
+        },
+        {
+            "address": "0x564a341df6c126f90cf3ecb92120fd7190acb401",
+            "chainId": 43114,
+            "name": "BiLira (Avalanche)",
+            "symbol": "TRYB",
+            "decimals": 6,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TRYBAVAX.jpg"
+        },
+        {
+            "address": "0x4fbf0429599460d327bd5f55625e30e4fc066095",
+            "chainId": 43114,
+            "name": "TSD Stablecoin",
+            "symbol": "TSD",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TSD2.jpg"
+        },
+        {
+            "address": "0x21c5402c3b7d40c89cc472c9df5dd7e51bbab1b1",
+            "chainId": 43114,
+            "name": "Tundra Token",
+            "symbol": "TUNDRA",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TUNDRA.jpg"
+        },
+        {
+            "address": "0xf693248f96fe03422fea95ac0afbbbc4a8fdd172",
+            "chainId": 43114,
+            "name": "Treasure Under Sea",
+            "symbol": "TUS",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/TUS.jpg"
+        },
+        {
+            "address": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580",
+            "chainId": 43114,
+            "name": "Uniswap (Avalanche)",
+            "symbol": "UNI",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "chainId": 43114,
+            "name": "USD Coin (Avalanche)",
+            "symbol": "USDC.E",
+            "decimals": 6,
+            "logoURI": ""
+        },
+        {
+            "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+            "chainId": 43114,
+            "name": "Tether (Avalanche)",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/USDTAVAX.png"
+        },
+        {
+            "address": "0xe0474c15bc7f8213ee5bfb42f9e68b2d6be2e136",
+            "chainId": 43114,
+            "name": "Vikings Finance",
+            "symbol": "VAL",
+            "decimals": 9,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VAL6.jpeg"
+        },
+        {
+            "address": "0x3709e8615e02c15b096f8a9b460ccb8ca8194e86",
+            "chainId": 43114,
+            "name": "Vee Finance",
+            "symbol": "VEE",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VEE2.png"
+        },
+        {
+            "address": "0x8b72c126fd152b8481c61559da030c5892394ca9",
+            "chainId": 43114,
+            "name": "VeritasDAO",
+            "symbol": "VERITAS",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0xf1b0f6df4fc3710b3497c34b0ee366099054add8",
+            "chainId": 43114,
+            "name": "Viking",
+            "symbol": "VIKING",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VIKING4.jpeg"
+        },
+        {
+            "address": "0x02fe8adc1b58a63ccb1bb8c39930dcedd7cef4db",
+            "chainId": 43114,
+            "name": "AvalancheVoid",
+            "symbol": "VOID",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VOID3.jpg"
+        },
+        {
+            "address": "0x846d50248baf8b7ceaa9d9b53bfd12d7d7fbb25a",
+            "chainId": 43114,
+            "name": "Verso",
+            "symbol": "VSO",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/VSO.png"
+        },
+        {
+            "address": "0xcd024f038b6e79968f9aba4bee3e27cb3c9e1e91",
+            "chainId": 43114,
+            "name": "WAGMI",
+            "symbol": "WAGMI",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAGMI5.jpeg"
+        },
+        {
+            "address": "0x9e037de681cafa6e661e6108ed9c2bd1aa567ecd",
+            "chainId": 43114,
+            "name": "Wrapped AllianceBlock Token",
+            "symbol": "WALBT",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "chainId": 43114,
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WAVAX.svg"
+        },
+        {
+            "address": "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab",
+            "chainId": 43114,
+            "name": "Wrapped Bitcoin (Avalance)",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WBTCAVAX.png"
+        },
+        {
+            "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+            "chainId": 43114,
+            "name": "Wrapped BTC (Avalanche)",
+            "symbol": "WBTC.E",
+            "decimals": 8,
+            "logoURI": ""
+        },
+        {
+            "address": "0xb1466d4cf0dcfc0bcddcf3500f473cdacb88b56d",
+            "chainId": 43114,
+            "name": "Weble Ecosystem Token",
+            "symbol": "WET",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WET3.png"
+        },
+        {
+            "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+            "chainId": 43114,
+            "name": "Wrapped Ether (Avalance)",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x1a51686fb42861aa7e38c1cf8868877f43f82aa4",
+            "chainId": 43114,
+            "name": "Wheat Token (Avalanche)",
+            "symbol": "WHEAT",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WHEATAVAX.jpg"
+        },
+        {
+            "address": "0x0ddb4a7d0c86c41815ba8880c766376ea57ec2a8",
+            "chainId": 43114,
+            "name": "Zeal's Wing Coin",
+            "symbol": "WING",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WING3.jpg"
+        },
+        {
+            "address": "0xb86688eb60be8c6fc09afcc32a9cf4b0b6decffd",
+            "chainId": 43114,
+            "name": "WiseAvax",
+            "symbol": "WISEAVAX",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WISEAVAX.jpg"
+        },
+        {
+            "address": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+            "chainId": 43114,
+            "name": "wMEMO (Wonderland)",
+            "symbol": "WMEMO",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x020ef96c76a225fc0151c191b2a15accc915b68c",
+            "chainId": 43114,
+            "name": "WOUF",
+            "symbol": "WOUF",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0xa384bc7cdc0a93e686da9e7b8c0807cd040f4e0b",
+            "chainId": 43114,
+            "name": "WOWswap (Avalanche)",
+            "symbol": "WOW",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WOWAVAX.jpg"
+        },
+        {
+            "address": "0x8cd309e14575203535ef120b5b0ab4dded0c2073",
+            "chainId": 43114,
+            "name": "Wrapped Staked Olympus",
+            "symbol": "WSOHMAVAX",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/WSOHMAVAX.jpeg"
+        },
+        {
+            "address": "0x954c3140fef98d725ec988d1d75e686c595d62fd",
+            "chainId": 43114,
+            "name": "Wrapped Ubiq",
+            "symbol": "WUBQ",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4",
+            "chainId": 43114,
+            "name": "Avalaunch",
+            "symbol": "XAVA",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XAVA.jpg"
+        },
+        {
+            "address": "0x70b4ae8eb7bd572fc0eb244cd8021066b3ce7ee4",
+            "chainId": 43114,
+            "name": "NovaXCrystal",
+            "symbol": "XCRS",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XCRS.jpg"
+        },
+        {
+            "address": "0xc84e67dd01b23706d3796cc0ddf7985c32b0e434",
+            "chainId": 43114,
+            "name": "xGIRL",
+            "symbol": "XGIRL",
+            "decimals": 9,
+            "logoURI": ""
+        },
+        {
+            "address": "0x4c1057455747e3ee5871d374fdd77a304ce10989",
+            "chainId": 43114,
+            "name": "NovaXMetal",
+            "symbol": "XMTL",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XMTL.jpg"
+        },
+        {
+            "address": "0x7fb049b65875155e1f7a335dc8a9f47516dce745",
+            "chainId": 43114,
+            "name": "Xogecoin",
+            "symbol": "XOGE",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x1AdB3ebE3aE7aA4d16b56A8133A14fc3a6ab28A1",
+            "chainId": 43114,
+            "name": "xSatoshi",
+            "symbol": "XSATOSHI",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XSATOSHI.png"
+        },
+        {
+            "address": "0xe6ee049183b474ecf7704da3f6f555a1dcaf240f",
+            "chainId": 43114,
+            "name": "NovaXSolar",
+            "symbol": "XSLR",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XSLR.jpg"
+        },
+        {
+            "address": "0x3509f19581afedeff07c53592bc0ca84e4855475",
+            "chainId": 43114,
+            "name": "xDollar Stablecoin (Avalanche)",
+            "symbol": "XUSD",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XUSDAVAX.jpg"
+        },
+        {
+            "address": "0x59414b3089ce2af0010e7523dea7e2b35d776ec7",
+            "chainId": 43114,
+            "name": "Yield Yak",
+            "symbol": "YAK",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YAK.png"
+        },
+        {
+            "address": "0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca",
+            "chainId": 43114,
+            "name": "YAY Games",
+            "symbol": "YAY",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YAY2.png"
+        },
+        {
+            "address": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
+            "chainId": 43114,
+            "name": "yearn.finance (Avalanche)",
+            "symbol": "YFI.E",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x488F73cddDA1DE3664775fFd91623637383D6404",
+            "chainId": 43114,
+            "name": "YetiSwap",
+            "symbol": "YTS",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/YTS.jpg"
+        },
+        {
+            "address": "0xdd453dbd253fa4e5e745047d93667ce9da93bbcf",
+            "chainId": 43114,
+            "name": "Zabu Token",
+            "symbol": "ZABU",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZABU.png"
+        },
+        {
+            "address": "0xbe6d6323ea233fd1dbe1ff66c5252170c69fb6c7",
+            "chainId": 43114,
+            "name": "ZUBAX",
+            "symbol": "ZUBAX",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ZUBAX.jpg"
+        }
+    ]
+}
