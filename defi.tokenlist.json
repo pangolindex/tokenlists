@@ -7,11 +7,11 @@
         "dex"
     ],
     "version": {
-        "major": 6,
-        "minor": 20,
+        "major": 7,
+        "minor": 1,
         "patch": 0
     },
-    "timestamp": "2021-12-24T00:00:00+00:00",
+    "timestamp": "2021-12-25T00:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -987,14 +987,6 @@
             "name": "Synapse",
             "symbol": "SYN",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6",
-            "decimals": 18,
-            "name": "Jewels",
-            "symbol": "JEWEL",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png"
         },
         {
             "chainId": 43114,
