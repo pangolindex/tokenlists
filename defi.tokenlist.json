@@ -7,11 +7,11 @@
         "dex"
     ],
     "version": {
-        "major": 6,
-        "minor": 20,
+        "major": 7,
+        "minor": 0,
         "patch": 0
     },
-    "timestamp": "2021-12-25T14:00:00+00:00",
+    "timestamp": "2021-12-28T17:15:31+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -101,14 +101,6 @@
             "logoURI": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/pefiv2_250x250.png"
         },
         {
-            "address": "0xf925F63445F01A53A441C0b6b1D9580C60551860",
-            "chainId": 43114,
-            "name": "Crypto Fren",
-            "symbol": "FREN",
-            "decimals": 18,
-            "logoURI": "https://ibb.co/bNjv8Hk"
-        },
-        {
             "address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
             "chainId": 43114,
             "name": "Blocknet",
@@ -139,14 +131,6 @@
             "name": "AV Me",
             "symbol": "AVME",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xE9D00cBC5f02614d7281D742E6E815A47ce31107",
-            "decimals": 9,
-            "name": "Crack.Fi",
-            "symbol": "CRACK",
-            "logoURI": "https://raw.githubusercontent.com/crackfi/logo/master/crackfi_png.png"
         },
         {
             "chainId": 43114,
@@ -181,22 +165,6 @@
             "logoURI": "https://raw.githubusercontent.com/avalaunch-app/xava-protocol/master/logo.png"
         },
         {
-            "chainId": 43114,
-            "address": "0x8349088C575cA45f5A63947FEAeaEcC41136fA01",
-            "decimals": 9,
-            "name": "TeslaBitcoin",
-            "symbol": "TESLABTC",
-            "logoURI": "https://raw.githubusercontent.com/crackfi/tesla_btc_logo/master/Tesla_Bitcoin_logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x4aBBc3275f8419685657C2DD69b8ca2e26F23F8E",
-            "decimals": 9,
-            "name": "diamondtoken.world",
-            "symbol": "Diamond",
-            "logoURI": "https://raw.githubusercontent.com/virtualdiamondtoken/site/main/logo.png"
-         },
-         {
              "chainId": 43114,
              "address": "0x76076880e1EBBcE597e6E15c47386cd34de4930F",
              "decimals": 18,
