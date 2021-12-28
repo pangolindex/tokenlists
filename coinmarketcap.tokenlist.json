@@ -719,7 +719,7 @@
         },
         {
             "address": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
-            "chainId": 43114,0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5
+            "chainId": 43114,
             "name": "TrueUSD",
             "symbol": "TUSD",
             "decimals": 18,
