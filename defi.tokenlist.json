@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 19,
+        "minor": 20,
         "patch": 0
     },
-    "timestamp": "2021-12-23T12:00:00+00:00",
+    "timestamp": "2021-12-25T14:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -531,6 +531,14 @@
             "name": "MiniYAK",
             "symbol": "mYAK",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xbA5dC7e77d150816b758E9826fCad2D74820e379",
+            "decimals": 18,
+            "name": "WowneroX",
+            "symbol": "WOWX",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbA5dC7e77d150816b758E9826fCad2D74820e379/logo.png"
         },
         {
             "chainId": 43114,
