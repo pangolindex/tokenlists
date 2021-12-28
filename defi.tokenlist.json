@@ -502,6 +502,14 @@
         },
         {
             "chainId": 43114,
+            "address": "0xbA5dC7e77d150816b758E9826fCad2D74820e379",
+            "decimals": 18,
+            "name": "WowneroX",
+            "symbol": "WOWX",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbA5dC7e77d150816b758E9826fCad2D74820e379/logo.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b",
             "decimals": 18,
             "name": "WOWSwap",
