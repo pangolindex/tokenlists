@@ -7,11 +7,11 @@
         "dex"
     ],
     "version": {
-        "major": 6,
-        "minor": 19,
+        "major": 7,
+        "minor": 0,
         "patch": 0
     },
-    "timestamp": "2021-12-23T12:00:00+00:00",
+    "timestamp": "2021-12-28T17:15:31+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
