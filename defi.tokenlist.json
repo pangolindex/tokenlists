@@ -955,6 +955,22 @@
             "name": "Mai Token",
             "symbol": "MIMATIC",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e/logo.png"
-        }
+        },
+        {
+            "chainId": 43114,
+            "address": "0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09",
+            "decimals": 18,
+            "name": "MilkyWay Token by SpaceSwap v2",
+            "symbol": "MILK2",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2",
+            "decimals": 18,
+            "name": "SHAKE token by SpaceSwap v2",
+            "symbol": "SHAKE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2/logo.png"
+        },
     ]
 }
