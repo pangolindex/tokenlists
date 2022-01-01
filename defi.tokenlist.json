@@ -955,6 +955,14 @@
             "name": "Mai Token",
             "symbol": "MIMATIC",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xaded2cb39d8bf540d6ce148da726200951ef1e2a",
+            "decimals": 10,
+            "name": "Cryph",
+            "symbol": "CRY",
+            "logoURI": "https://raw.githubusercontent.com/root-dm/tokens/main/assets/0xaded2cb39d8bf540d6ce148da726200951ef1e2a/logo.png"
         }
     ]
 }
