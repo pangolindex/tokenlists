@@ -955,6 +955,14 @@
             "name": "Mai Token",
             "symbol": "MIMATIC",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e/logo.png"
-        }
+         },
+         {
+             "chainId": 43114,
+             "address": "0xe677bdc4f5ac7ef7701f4199f25abad34d41fd7f",
+             "decimals": 18,
+             "name": "SNRW.e",
+             "symbol": "SNRW",
+             "logoURI": "https://github.com/pangolindex/tokens/blob/main/assets/0xe677bdc4f5AC7EF7701F4199f25aBAD34d41fd7F/logo.png"
+                 
     ]
 }
