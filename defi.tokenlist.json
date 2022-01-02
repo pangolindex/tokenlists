@@ -963,6 +963,14 @@
              "name": "SNRW.e",
              "symbol": "SNRW",
              "logoURI": "https://github.com/pangolindex/tokens/blob/main/assets/0xe677bdc4f5AC7EF7701F4199f25aBAD34d41fd7F/logo.png"
-                 
-    ]
+         },
+         {
+             "chainId": 43114,
+             "address": "0x0c56938dc4be6fc6b5641445be21644797ce251a"
+             "decimals": 18,
+             "name": "SNR.e"
+             "symbol": "SNR"
+             "logoURI": "https://github.com/pangolindex/tokens/blob/main/assets/0x0C56938DC4bE6fc6B5641445be21644797cE251A/logo.png"
+             
+    
 }
