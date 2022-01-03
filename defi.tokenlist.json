@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 7,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
-    "timestamp": "2021-12-28T17:15:31+00:00",
+    "timestamp": "2022-01-03T05:15:31+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
