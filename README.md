@@ -20,7 +20,7 @@ the specification. The Pangolin community invites you to add your token to our t
 
 
 ## Adding Your Token
-1. Add an entry in the `tokens` field of the appropriate tokenlist. Here is an example using PNG:
+1. Add an entry in the `tokens` field of the appropriate tokenlist. Please use the [checksum address](https://docs.ethers.io/v5/api/utils/address/#address). Here is an example using PNG:
     ```json
     {
         "address": "0x60781C2586D68229fde47564546784ab3fACA982",
