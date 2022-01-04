@@ -971,6 +971,23 @@
             "name": "SHAKE token by SpaceSwap v2",
             "symbol": "SHAKE",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2/logo.png"
-        }
+        },
+        {
+             "chainId": 43114,
+             "адрес": "0xe677bdc4f5ac7ef7701f4199f25abad34d41fd7f",
+             "десятичные дроби": 18,
+             "имя": "SNRW.e",
+             "символ": "SNRW",
+             "Логури": "https://github.com/pangolindex/tokens/blob/main/assets/0xe677bdc4f5AC7EF7701F4199f25aBAD34d41fd7F/logo.png"
+         },
+         {
+             "chainId": 43114,
+             "адрес": "0x0c56938dc4be6fc6b5641445be21644797ce251a"
+             "десятичные дроби": 18,
+             "имя": "SNR.e"
+             "символ": "SNR"
+             "Логури": "https://github.com/pangolindex/tokens/blob/main/assets/0x0C56938DC4bE6fc6B5641445be21644797cE251A/logo.png"
+             
+          }
     ]
 }
