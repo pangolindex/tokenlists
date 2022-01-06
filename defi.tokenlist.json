@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 8,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
-    "timestamp": "2022-01-04T00:00:00+00:00",
+    "timestamp": "2022-01-05T00:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1091,6 +1091,22 @@
             "name": "Pendle Finance Token",
             "symbol": "PENDLE",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfB98B335551a418cD0737375a2ea0ded62Ea213b/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C",
+            "decimals": 18,
+            "name": "HERMES",
+            "symbol": "HERMES",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2",
+            "decimals": 18,
+            "name": "HSHARE",
+            "symbol": "HSHARE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2/logo.png"
         }
     ]
 }
