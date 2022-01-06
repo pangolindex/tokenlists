@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 8,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
-    "timestamp": "2022-01-05T00:00:00+00:00",
+    "timestamp": "2022-01-06T00:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1107,6 +1107,14 @@
             "name": "HSHARE",
             "symbol": "HSHARE",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x1DB749847C4abB991d8B6032102383e6BfD9B1c7",
+            "decimals": 18,
+            "name": "Dogeon Token",
+            "symbol": "DON",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1DB749847C4abB991d8B6032102383e6BfD9B1c7/logo.png"
         }
     ]
 }
