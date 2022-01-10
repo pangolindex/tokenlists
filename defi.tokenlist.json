@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 8,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
-    "timestamp": "2022-01-06T00:00:00+00:00",
+    "timestamp": "2022-01-08T00:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1115,6 +1115,22 @@
             "name": "Dogeon Token",
             "symbol": "DON",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1DB749847C4abB991d8B6032102383e6BfD9B1c7/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x3EeFb18003D033661f84e48360eBeCD181A84709",
+            "decimals": 18,
+            "name": "Islander",
+            "symbol": "ISA",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7f041ce89A2079873693207653b24C15B5e6A293",
+            "decimals": 18,
+            "name": "Police and Thief Game",
+            "symbol": "LOOT",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7f041ce89A2079873693207653b24C15B5e6A293/logo.png"
         }
     ]
 }
