@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 8,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
-    "timestamp": "2022-01-08T00:00:00+00:00",
+    "timestamp": "2022-01-11T00:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1131,6 +1131,22 @@
             "name": "Police and Thief Game",
             "symbol": "LOOT",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7f041ce89A2079873693207653b24C15B5e6A293/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xE6B9d092223f39013656702A40dbE6B7DeCc5746",
+            "decimals": 18,
+            "name": "ANGLE",
+            "symbol": "ANGLE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xE6B9d092223f39013656702A40dbE6B7DeCc5746/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A",
+            "decimals": 18,
+            "name": "MetaBrands",
+            "symbol": "MAGE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A/logo.png"
         }
     ]
 }
