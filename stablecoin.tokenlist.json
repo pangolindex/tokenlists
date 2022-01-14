@@ -7,10 +7,10 @@
     ],
     "version": {
         "major": 3,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     },
-    "timestamp": "2021-12-24T00:00:00+00:00",
+    "timestamp": "2022-01-14T00:00:00+00:00",
     "tokens": [
         {
             "chainId": 43114,
@@ -139,6 +139,14 @@
             "name": "Defrost Finance H2O",
             "symbol": "H2O",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
         }
     ]
 }
