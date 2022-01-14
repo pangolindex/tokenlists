@@ -9,7 +9,7 @@ the specification. The Pangolin community invites you to add your token to our t
 
 
 ### General Requirements
-1. Token should be verified on the [snowtrace explorer](https://snowtrace.io/).
+1. Token should be verified on the [snowtrace explorer](https://snowtrace.io/verifyContract).
 2. Token must be added to a list that it qualifies for:
     * **[Top 15 Tokenlist](./top15.tokenlist.json)**: Token must be in the top 15 of eligible Avalanche tokens by marketcap.
     * **[AB Tokenlist](./ab.tokenlist.json)**: Token must be bridgeable on the Avalanche Bridge.
