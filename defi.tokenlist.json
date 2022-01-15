@@ -7,11 +7,11 @@
         "dex"
     ],
     "version": {
-        "major": 8,
-        "minor": 3,
+        "major": 9,
+        "minor": 0,
         "patch": 0
     },
-    "timestamp": "2022-01-08T00:00:00+00:00",
+    "timestamp": "2022-01-15T00:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1003,14 +1003,6 @@
             "name": "Thors Mead",
             "symbol": "MEAD",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x245C2591403e182e41d7A851eab53B01854844CE/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x0755FA2F4AA6311E1D7C19990416c86F17D16F86",
-            "decimals": 6,
-            "name": "Etherprint",
-            "symbol": "ETHP",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0755FA2F4AA6311E1D7C19990416c86F17D16F86/logo.png"
         },
         {
             "chainId": 43114,
