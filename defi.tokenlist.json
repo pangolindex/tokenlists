@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 9,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
-    "timestamp": "2022-01-15T00:00:00+00:00",
+    "timestamp": "2022-01-17T00:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1123,6 +1123,14 @@
             "name": "Police and Thief Game",
             "symbol": "LOOT",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7f041ce89A2079873693207653b24C15B5e6A293/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x2bC8834Bc217f15DF898fcab896e2b3E3673faf6",
+            "decimals": 12,
+            "name": "SwapXI",
+            "symbol": "SXI",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x2bC8834Bc217f15DF898fcab896e2b3E3673faf6/logo.png"
         }
     ]
 }
