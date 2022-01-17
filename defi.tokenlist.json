@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 9,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
-    "timestamp": "2022-01-15T00:00:00+00:00",
+    "timestamp": "2022-01-16T00:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1123,6 +1123,38 @@
             "name": "Police and Thief Game",
             "symbol": "LOOT",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7f041ce89A2079873693207653b24C15B5e6A293/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xE6B9d092223f39013656702A40dbE6B7DeCc5746",
+            "decimals": 18,
+            "name": "Angle",
+            "symbol": "ANGLE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xE6B9d092223f39013656702A40dbE6B7DeCc5746/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A",
+            "decimals": 18,
+            "name": "MetaBrands",
+            "symbol": "MAGE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269",
+            "decimals": 18,
+            "name": "Hertz Token",
+            "symbol": "HTZ",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE",
+            "decimals": 18,
+            "name": "Hoopoe Ventures",
+            "symbol": "HOOP",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE/logo.png"
         }
     ]
 }
