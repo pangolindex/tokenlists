@@ -1126,6 +1126,38 @@
         },
         {
             "chainId": 43114,
+            "address": "0xE6B9d092223f39013656702A40dbE6B7DeCc5746",
+            "decimals": 18,
+            "name": "Angle",
+            "symbol": "ANGLE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xE6B9d092223f39013656702A40dbE6B7DeCc5746/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A",
+            "decimals": 18,
+            "name": "MetaBrands",
+            "symbol": "MAGE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269",
+            "decimals": 18,
+            "name": "Hertz Token",
+            "symbol": "HTZ",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE",
+            "decimals": 18,
+            "name": "Hoopoe Ventures",
+            "symbol": "HOOP",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE/logo.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0x2bC8834Bc217f15DF898fcab896e2b3E3673faf6",
             "decimals": 12,
             "name": "SwapXI",
