@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 9,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
-    "timestamp": "2022-01-16T00:00:00+00:00",
+    "timestamp": "2022-01-17T11:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1155,6 +1155,14 @@
             "name": "Hoopoe Ventures",
             "symbol": "HOOP",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x2bC8834Bc217f15DF898fcab896e2b3E3673faf6",
+            "decimals": 12,
+            "name": "SwapXI",
+            "symbol": "SXI",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x2bC8834Bc217f15DF898fcab896e2b3E3673faf6/logo.png"
         }
     ]
 }
