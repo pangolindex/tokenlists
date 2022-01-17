@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 9,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
-    "timestamp": "2022-01-17T11:00:00+00:00",
+    "timestamp": "2022-01-17T12:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1163,6 +1163,14 @@
             "name": "SwapXI",
             "symbol": "SXI",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x2bC8834Bc217f15DF898fcab896e2b3E3673faf6/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c",
+            "decimals": 18,
+            "name": "HeroesChained",
+            "symbol": "HeC",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c/logo.png"
         }
     ]
 }
