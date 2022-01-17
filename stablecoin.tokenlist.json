@@ -7,10 +7,10 @@
     ],
     "version": {
         "major": 3,
-        "minor": 6,
+        "minor": 7,
         "patch": 0
     },
-    "timestamp": "2022-01-14T00:00:00+00:00",
+    "timestamp": "2022-01-16T00:00:00+00:00",
     "tokens": [
         {
             "chainId": 43114,
@@ -147,6 +147,14 @@
             "name": "USD Coin",
             "symbol": "USDC",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x6feFd97F328342a8A840546A55FDcfEe7542F9A8",
+            "decimals": 18,
+            "name": "agEUR",
+            "symbol": "AGEUR",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6feFd97F328342a8A840546A55FDcfEe7542F9A8/logo.png"
         }
     ]
 }
