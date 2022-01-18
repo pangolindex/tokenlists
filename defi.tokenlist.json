@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 9,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
-    "timestamp": "2022-01-17T12:00:00+00:00",
+    "timestamp": "2022-01-18T12:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1171,6 +1171,30 @@
             "name": "HeroesChained",
             "symbol": "HeC",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf",
+            "decimals": 18,
+            "name": "Pollen",
+            "symbol": "PLN",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611",
+            "decimals": 18,
+            "name": "Chikn Egg",
+            "symbol": "EGG",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xab592d197ACc575D16C3346f4EB70C703F308D1E",
+            "decimals": 18,
+            "name": "Chikn Feed",
+            "symbol": "FEED",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png"
         }
     ]
 }
