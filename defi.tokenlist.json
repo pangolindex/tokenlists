@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 9,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
-    "timestamp": "2022-01-18T12:00:00+00:00",
+    "timestamp": "2022-01-18T13:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1195,6 +1195,14 @@
             "name": "Chikn Feed",
             "symbol": "FEED",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30",
+            "decimals": 18,
+            "name": "Dragon Crypto Aurum",
+            "symbol": "DCAU",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png"
         }
     ]
 }
