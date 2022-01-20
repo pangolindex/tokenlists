@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 9,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     },
-    "timestamp": "2022-01-18T13:00:00+00:00",
+    "timestamp": "2022-01-20T12:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1203,6 +1203,14 @@
             "name": "Dragon Crypto Aurum",
             "symbol": "DCAU",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb",
+            "decimals": 6,
+            "name": "Axelar Wrapped LUNA",
+            "symbol": "LUNA",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb/logo.png"
         }
     ]
 }
