@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 9,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     },
-    "timestamp": "2022-01-23T12:00:00+00:00",
+    "timestamp": "2022-01-23T17:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1219,6 +1219,22 @@
             "name": "Kassandra",
             "symbol": "KACY",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf32398dae246C5f672B52A54e9B413dFFcAe1A44/logo.png"
-        }
+        },
+        {
+            "chainId": 43114,
+            "address": "0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d",
+            "decimals": 18,
+            "name": "Catoshi",
+            "symbol": "CATS",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12",
+            "decimals": 18,
+            "name": "ArgonToken",
+            "symbol": "ARGON",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12/logo.png"
+        }       
     ]
 }
