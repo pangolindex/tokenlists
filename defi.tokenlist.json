@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 9,
-        "minor": 9,
+        "minor": 10,
         "patch": 0
     },
-    "timestamp": "2022-01-24T12:00:00+00:00",
+    "timestamp": "2022-01-24T13:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1251,6 +1251,14 @@
             "name": "ENXT Token",
             "symbol": "ENXT",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xE06fba763C2104dB5027F57f6A5Be0a0D86308af",
+            "decimals": 18,
+            "name": "Akitavax",
+            "symbol": "AKITAX",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xE06fba763C2104dB5027F57f6A5Be0a0D86308af/logo.png"
         }
     ]
 }
