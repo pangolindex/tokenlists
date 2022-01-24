@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 9,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     },
-    "timestamp": "2022-01-23T17:00:00+00:00",
+    "timestamp": "2022-01-24T12:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1235,6 +1235,22 @@
             "name": "ArgonToken",
             "symbol": "ARGON",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12/logo.png"
-        }       
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7F29e7086453ed97283893E763aE0989F4B70f8d",
+            "decimals": 6,
+            "name": "DGC Token",
+            "symbol": "DGC",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7F29e7086453ed97283893E763aE0989F4B70f8d/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f",
+            "decimals": 6,
+            "name": "ENXT Token",
+            "symbol": "ENXT",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f/logo.png"
+        }
     ]
 }
