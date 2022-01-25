@@ -164,7 +164,15 @@
             "name": "yearn.finance",
             "symbol": "YFI",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x99519AcB025a0e0d44c3875A4BbF03af65933627/logo.png"
-        }
+        },
+        {
+            "chainId": 43114,
+            "address": "0xfcDe4A87b8b6FA58326BB462882f1778158B02F1",
+            "decimals": 18,
+            "name": "Wirex Token",
+            "symbol": "WXT",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xfcDe4A87b8b6FA58326BB462882f1778158B02F1/logo.png"
+        },
     ],
     "timestamp": "2021-08-27T05:20:00+00:00"
 }
