@@ -6,11 +6,11 @@
         "stablecoin"
     ],
     "version": {
-        "major": 3,
-        "minor": 8,
+        "major": 4,
+        "minor": 0,
         "patch": 0
     },
-    "timestamp": "2022-01-20T12:00:00+00:00",
+    "timestamp": "2022-01-26T12:00:00+00:00",
     "tokens": [
         {
             "chainId": 43114,
@@ -126,11 +126,11 @@
         },
         {
             "chainId": 43114,
-            "address": "0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e",
+            "address": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
             "decimals": 18,
             "name": "Mai",
             "symbol": "MIMATIC",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png"
         },
         {
             "chainId": 43114,
@@ -163,6 +163,14 @@
             "name": "Axelar Wrapped UST",
             "symbol": "UST",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+            "decimals": 6,
+            "name": "TetherToken",
+            "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
         }
     ]
 }
