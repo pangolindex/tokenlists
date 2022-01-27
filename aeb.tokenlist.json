@@ -171,7 +171,7 @@
             "decimals": 18,
             "name": "Wirex Token",
             "symbol": "WXT",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xfcDe4A87b8b6FA58326BB462882f1778158B02F1/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfcDe4A87b8b6FA58326BB462882f1778158B02F1/logo.png"
         },
     ],
     "timestamp": "2022-01-27T18:35:00+00:00"
