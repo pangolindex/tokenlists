@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 9,
-        "minor": 11,
+        "minor": 12,
         "patch": 0
     },
-    "timestamp": "2022-01-26T12:00:00+00:00",
+    "timestamp": "2022-01-28T12:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1267,6 +1267,14 @@
             "name": "YDragon",
             "symbol": "YDR",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf03Dccaec9A28200A6708c686cf0b8BF26dDc356/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB",
+            "decimals": 18,
+            "name": "HonToken",
+            "symbol": "HON",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB/logo.png"
         }
     ]
 }
