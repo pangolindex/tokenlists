@@ -7,7 +7,7 @@
         "dex"
     ],
     "version": {
-        "major": 9,
+        "major": 10,
         "minor": 12,
         "patch": 0
     },
@@ -1158,10 +1158,10 @@
         },
         {
             "chainId": 43114,
-            "address": "0x2bC8834Bc217f15DF898fcab896e2b3E3673faf6",
+            "address": "0x312ee43df66d1fd1ea28e5b28f355da84dca13c2",
             "decimals": 12,
-            "name": "SwapXI",
-            "symbol": "SXI",
+            "name": "SwapXI Token",
+            "symbol": "SWAPXI",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x2bC8834Bc217f15DF898fcab896e2b3E3673faf6/logo.png"
         },
         {
