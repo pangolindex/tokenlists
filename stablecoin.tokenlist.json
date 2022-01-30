@@ -7,10 +7,10 @@
     ],
     "version": {
         "major": 4,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
-    "timestamp": "2022-01-26T12:00:00+00:00",
+    "timestamp": "2022-01-29T12:00:00+00:00",
     "tokens": [
         {
             "chainId": 43114,
@@ -171,6 +171,14 @@
             "name": "TetherToken",
             "symbol": "USDT",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948",
+            "decimals": 18,
+            "name": "Moremoney USD",
+            "symbol": "MONEY",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png"
         }
     ]
 }
