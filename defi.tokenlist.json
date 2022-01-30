@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 9,
-        "minor": 12,
+        "minor": 13,
         "patch": 0
     },
-    "timestamp": "2022-01-28T12:00:00+00:00",
+    "timestamp": "2022-01-29T12:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1275,6 +1275,14 @@
             "name": "HonToken",
             "symbol": "HON",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xd9D90f882CDdD6063959A9d837B05Cb748718A05",
+            "decimals": 18,
+            "name": "More Token",
+            "symbol": "MORE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xd9D90f882CDdD6063959A9d837B05Cb748718A05/logo.png"
         }
     ]
 }
