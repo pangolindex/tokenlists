@@ -7,11 +7,11 @@
         "dex"
     ],
     "version": {
-        "major": 9,
-        "minor": 13,
+        "major": 10,
+        "minor": 0,
         "patch": 0
     },
-    "timestamp": "2022-01-29T12:00:00+00:00",
+    "timestamp": "2022-01-31T13:15:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1158,14 +1158,6 @@
         },
         {
             "chainId": 43114,
-            "address": "0x2bC8834Bc217f15DF898fcab896e2b3E3673faf6",
-            "decimals": 12,
-            "name": "SwapXI",
-            "symbol": "SXI",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x2bC8834Bc217f15DF898fcab896e2b3E3673faf6/logo.png"
-        },
-        {
-            "chainId": 43114,
             "address": "0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c",
             "decimals": 18,
             "name": "HeroesChained",
@@ -1283,6 +1275,14 @@
             "name": "More Token",
             "symbol": "MORE",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xd9D90f882CDdD6063959A9d837B05Cb748718A05/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x312eE43Df66d1Fd1EA28e5b28F355Da84dCA13C2",
+            "decimals": 12,
+            "name": "SwapXI Token",
+            "symbol": "SWAPXI",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x312eE43Df66d1Fd1EA28e5b28F355Da84dCA13C2/logo.png"
         }
     ]
 }
