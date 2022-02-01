@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 10,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
-    "timestamp": "2022-01-31T13:15:00+00:00",
+    "timestamp": "2022-02-01T12:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1283,6 +1283,14 @@
             "name": "SwapXI Token",
             "symbol": "SWAPXI",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x312eE43Df66d1Fd1EA28e5b28F355Da84dCA13C2/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5",
+            "decimals": 18,
+            "name": "Fire",
+            "symbol": "FIRE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5/logo.png"
         }
     ]
 }
