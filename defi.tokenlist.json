@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 10,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
-    "timestamp": "2022-02-01T12:00:00+00:00",
+    "timestamp": "2022-02-08T12:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -19,7 +19,7 @@
             "name": "Pangolin",
             "symbol": "PNG",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
         },
         {
             "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
