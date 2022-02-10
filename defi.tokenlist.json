@@ -7,11 +7,11 @@
         "dex"
     ],
     "version": {
-        "major": 10,
-        "minor": 3,
+        "major": 11,
+        "minor": 0,
         "patch": 0
     },
-    "timestamp": "2022-02-10T12:00:00+00:00",
+    "timestamp": "2022-02-10T17:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1296,7 +1296,7 @@
             "chainId": 43114,
             "address": "0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136",
             "decimals": 18,
-            "name": "Police & Thief Game - BRIBE",
+            "name": "BRIBE",
             "symbol": "BRIBE",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136/logo.png"
         }
