@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 10,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
-    "timestamp": "2022-02-10T12:00:00+00:00",
+    "timestamp": "2022-02-10T14:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1299,6 +1299,22 @@
             "name": "Police & Thief Game - BRIBE",
             "symbol": "BRIBE",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E",
+            "decimals": 18,
+            "name": "OddzToken",
+            "symbol": "ODDZ",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xe19A1684873faB5Fb694CfD06607100A632fF21c",
+            "decimals": 18,
+            "name": "BavaToken",
+            "symbol": "BAVA",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe19A1684873faB5Fb694CfD06607100A632fF21c/logo.png"
         }
     ]
 }
