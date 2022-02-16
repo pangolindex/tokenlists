@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 11,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
-    "timestamp": "2022-02-10T18:00:00+00:00",
+    "timestamp": "2022-02-16T12:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1307,6 +1307,46 @@
             "name": "BavaToken",
             "symbol": "BAVA",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe19A1684873faB5Fb694CfD06607100A632fF21c/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x00EE200Df31b869a321B10400Da10b561F3ee60d",
+            "decimals": 18,
+            "name": "Arable Protocol",
+            "symbol": "ACRE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x00EE200Df31b869a321B10400Da10b561F3ee60d/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+            "decimals": 18,
+            "name": "Staked AVAX",
+            "symbol": "sAVAX",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x0659133127749Cc0616Ed6632912ddF7cc8D7545",
+            "decimals": 18,
+            "name": "DefiLaunch Token",
+            "symbol": "DLAUNCH",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0659133127749Cc0616Ed6632912ddF7cc8D7545/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3",
+            "decimals": 18,
+            "name": "Augmented Finance",
+            "symbol": "AGF",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E",
+            "decimals": 18,
+            "name": "OddzToken",
+            "symbol": "ODDZ",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo.png"
         }
     ]
 }
