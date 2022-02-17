@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 11,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
-    "timestamp": "2022-02-16T12:00:00+00:00",
+    "timestamp": "2022-02-17T12:00:00+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1347,6 +1347,22 @@
             "name": "OddzToken",
             "symbol": "ODDZ",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xf3EC49ACb3084618121741e4BBB20996D383E9b2",
+            "decimals": 18,
+            "name": "KING",
+            "symbol": "KING",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf3EC49ACb3084618121741e4BBB20996D383E9b2/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x94d649E017625dE1Aa04733aA046dE0161DF18eF",
+            "decimals": 18,
+            "name": "King Shares",
+            "symbol": "KSHARE",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x94d649E017625dE1Aa04733aA046dE0161DF18eF/logo.png"
         }
     ]
 }
