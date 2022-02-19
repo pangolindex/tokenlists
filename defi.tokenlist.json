@@ -8,10 +8,10 @@
     ],
     "version": {
         "major": 11,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
-    "timestamp": "2022-02-18T00:00:00+00:00",
+    "timestamp": "2022-02-19T05:12:04+00:00",
     "tokens": [
         {
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1371,6 +1371,14 @@
             "name": "RICH",
             "symbol": "RICH",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4960bc6032351ab87627B8F36b37B4938A44C7eF/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x36A850f4A0aFE7461FeC0380fcc0f6458e20D551",
+            "decimals": 18,
+            "name": "DADDY Token",
+            "symbol": "DADDY",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x36A850f4A0aFE7461FeC0380fcc0f6458e20D551/logo.png"
         }
     ]
 }
