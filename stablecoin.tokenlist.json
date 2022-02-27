@@ -6,11 +6,11 @@
         "stablecoin"
     ],
     "version": {
-        "major": 4,
-        "minor": 1,
+        "major": 5,
+        "minor": 0,
         "patch": 0
     },
-    "timestamp": "2022-01-29T12:00:00+00:00",
+    "timestamp": "2022-02-27T05:00:00+00:00",
     "tokens": [
         {
             "chainId": 43114,
@@ -128,8 +128,8 @@
             "chainId": 43114,
             "address": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
             "decimals": 18,
-            "name": "Mai",
-            "symbol": "MIMATIC",
+            "name": "miMatic",
+            "symbol": "MAI",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png"
         },
         {
