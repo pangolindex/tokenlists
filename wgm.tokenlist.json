@@ -1,0 +1,53 @@
+{
+  "name": "Wagmi Tokenlist",
+  "logoURI": "https://raw.githubusercontent.com/antiyro/WagmiTokenList/master/wagmi.png",
+  "timestamp": "2022-03-03T12:00:00+00:00",
+  "keywords": ["wagmi", "defi", "ethereum", "bridge"],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 11111,
+      "address": "0x25dbCAb8709E6222d74a56bD0184fc41439806CE",
+      "decimals": 18,
+      "name": "Pangolin",
+      "symbol": "wagmiPNG",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+    },
+    {
+      "chainId": 11111,
+      "address": "0x3Ee7094DADda15810F191DD6AcF7E4FFa37571e4",
+      "decimals": 18,
+      "name": "Wrapped WAGMI",
+      "symbol": "wWAGMI",
+      "logoURI": "https://raw.githubusercontent.com/antiyro/WagmiTokenList/master/wagmi.png"
+    },
+    {
+      "chainId": 11111,
+      "address": "0xf1db872E6454D553686b088c1Ea3889cF2FE3ABe",
+      "decimals": 18,
+      "name": "OG",
+      "symbol": "OG",
+      "logoURI": "https://rcd-media.com/wagmi/og.png"
+    },
+    {
+      "chainId": 11111,
+      "address": "0x4eaA03A9C9c9CE745517538d262653B9e43c51f2",
+      "decimals": 18,
+      "name": "staySAFU",
+      "symbol": "staySAFU",
+      "logoURI": "https://rcd-media.com/wagmi/staySAFU.png"
+    },
+    {
+      "chainId": 11111,
+      "address": "0x21cf0eB2E3Ab483a67C900b27dA8F34185991982",
+      "decimals": 18,
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+    }
+  ]
+}
