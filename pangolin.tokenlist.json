@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
-  "timestamp": "2022-03-02T10:00:00+00:00",
+  "timestamp": "2022-03-10T10:00:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
@@ -970,6 +970,30 @@
       "symbol": "DEP",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1/logo.png"
     },    
+    {
+      "chainId": 43114,
+      "address": "0x15c841043e13fFAA9a99FabEa236D40F45615623",
+      "decimals": 18,
+      "name": "BUSINESSES",
+      "symbol": "BUSINESSES",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x15c841043e13fFAA9a99FabEa236D40F45615623/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4B322765D761984C0f9E72200B62a9b445F38caC",
+      "decimals": 18,
+      "name": "dolla",
+      "symbol": "DOLLA",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4B322765D761984C0f9E72200B62a9b445F38caC/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xc69Eba65e87889f0805dB717Af06797055A0BA07",
+      "decimals": 18,
+      "name": "NitroNetwork",
+      "symbol": "ncash",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xc69Eba65e87889f0805dB717Af06797055A0BA07/logo.png"
+    },
     {
       "chainId": 43114,
       "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
