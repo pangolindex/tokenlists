@@ -1007,7 +1007,7 @@
       "address": "0x4ec58f9D205F9c919920313932cc71EC68d123C7",
       "decimals": 18,
       "name": "Splash Token",
-      "symbol": "SPLASH",
+      "symbol": "splash",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4ec58f9D205F9c919920313932cc71EC68d123C7/logo.png"
     },
     {
@@ -1015,7 +1015,7 @@
       "address": "0xbc6f589171d6d66EB44ebCC92dFFb570Db4208da",
       "decimals": 18,
       "name": "Wave Token",
-      "symbol": "WAVE",
+      "symbol": "wave",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbc6f589171d6d66EB44ebCC92dFFb570Db4208da/logo.png"
     },
     {
