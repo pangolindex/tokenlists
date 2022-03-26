@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 0,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
-  "timestamp": "2022-03-15T10:00:00+00:00",
+  "timestamp": "2022-03-26T10:00:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
@@ -1001,6 +1001,22 @@
       "name": "Omlira",
       "symbol": "OML",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x979fFD8eEd7a43629eA29581DF4Bfe2b3F224e47/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4ec58f9D205F9c919920313932cc71EC68d123C7",
+      "decimals": 18,
+      "name": "Splash Token",
+      "symbol": "SPLASH",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4ec58f9D205F9c919920313932cc71EC68d123C7/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xbc6f589171d6d66EB44ebCC92dFFb570Db4208da",
+      "decimals": 18,
+      "name": "Wave Token",
+      "symbol": "WAVE",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbc6f589171d6d66EB44ebCC92dFFb570Db4208da/logo.png"
     },
     {
       "chainId": 43114,
