@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 0,
-    "minor": 4,
+    "minor": 5,
     "patch": 1
   },
-  "timestamp": "2022-03-26T12:00:00+00:00",
+  "timestamp": "2022-03-29T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
@@ -1020,6 +1020,14 @@
     },
     {
       "chainId": 43114,
+      "address": "0x80D18b1c9Ab0c9B5D6A6d5173575417457d00a12",
+      "decimals": 6,
+      "name": "Axelar Wrapped ATOM",
+      "symbol": "axlATOM",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x80D18b1c9Ab0c9B5D6A6d5173575417457d00a12/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
       "decimals": 6,
       "name": "Tether USD",
@@ -1153,6 +1161,22 @@
       "name": "Moremoney USD",
       "symbol": "MONEY",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+      "decimals": 18,
+      "name": "JPY Coin",
+      "symbol": "JPYC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
+      "decimals": 6,
+      "name": "UST Wormhole",
+      "symbol": "UST",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo.png"
     }
   ]
 }
