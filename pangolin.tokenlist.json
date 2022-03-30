@@ -6,9 +6,9 @@
   "version": {
     "major": 0,
     "minor": 6,
-    "patch": 1
+    "patch": 2
   },
-  "timestamp": "2022-03-30T12:00:00+00:00",
+  "timestamp": "2022-03-30T15:00:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
@@ -1151,7 +1151,7 @@
       "address": "0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11",
       "decimals": 6,
       "name": "Axelar Wrapped UST",
-      "symbol": "UST",
+      "symbol": "axlUST",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png"
     },
     {
@@ -1182,7 +1182,7 @@
       "chainId": 43114,
       "address": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
       "decimals": 6,
-      "name": "UST Wormhole",
+      "name": "UST (Wormhole)",
       "symbol": "UST",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo.png"
     }
