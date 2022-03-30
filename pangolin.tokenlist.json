@@ -1182,7 +1182,7 @@
       "chainId": 43114,
       "address": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
       "decimals": 6,
-      "name": "UST (Wormhole)",
+      "name": "Wormhole UST",
       "symbol": "UST",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo.png"
     }
