@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 0,
-    "minor": 5,
+    "minor": 6,
     "patch": 1
   },
-  "timestamp": "2022-03-29T12:00:00+00:00",
+  "timestamp": "2022-03-30T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
@@ -1017,6 +1017,14 @@
       "name": "Wave Token",
       "symbol": "WAVE",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbc6f589171d6d66EB44ebCC92dFFb570Db4208da/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x97E7044ab98B7891546485f5f66EDcc2F58be106",
+      "decimals": 18,
+      "name": "EMERALD",
+      "symbol": "EM",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x97E7044ab98B7891546485f5f66EDcc2F58be106/logo.png"
     },
     {
       "chainId": 43114,
