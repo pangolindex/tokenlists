@@ -32,6 +32,14 @@
       "symbol": "WWAGMI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/antiyro/WagmiTokenList/master/wagmi.png"
+    },
+    {
+      "address": "0xC11746F3A0faA6d685864EF3FF2ace94762203E6",
+      "chainId": 43113,
+      "name": "$LOLLY",
+      "symbol": "$LOLLY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/raw/main/assets/0xC11746F3A0faA6d685864EF3FF2ace94762203E6/logo.png"
     }
   ]
 }
