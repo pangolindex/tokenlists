@@ -5,8 +5,8 @@
   ],
   "version": {
     "major": 0,
-    "minor": 6,
-    "patch": 2
+    "minor": 7,
+    "patch": 0
   },
   "timestamp": "2022-03-30T15:00:00+00:00",
   "tokens": [
@@ -1185,6 +1185,14 @@
       "name": "Wormhole UST",
       "symbol": "UST",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1B88D7aD51626044Ec62eF9803EA264DA4442F32",
+      "decimals": 18,
+      "name": "Zoo Token",
+      "symbol": "ZOO",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1B88D7aD51626044Ec62eF9803EA264DA4442F32/logo.png"
     }
   ]
 }
