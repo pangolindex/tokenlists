@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 0,
-    "minor": 6,
+    "minor": 7,
     "patch": 2
   },
-  "timestamp": "2022-03-30T15:00:00+00:00",
+  "timestamp": "2022-04-04T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
@@ -1034,6 +1034,14 @@
       "symbol": "axlATOM",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x80D18b1c9Ab0c9B5D6A6d5173575417457d00a12/logo.png"
     },
+    {
+      "chainId": 43114,
+      "address": "0x449674B82F05d498E126Dd6615a1057A9c088f2C",
+      "decimals": 18,
+      "name": "LostToken",
+      "symbol": "LOST",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x449674B82F05d498E126Dd6615a1057A9c088f2C/logo.png"
+    }
     {
       "chainId": 43114,
       "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
