@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 0,
-    "minor": 7,
+    "minor": 8,
     "patch": 2
   },
-  "timestamp": "2022-04-04T12:00:00+00:00",
+  "timestamp": "2022-04-05T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
@@ -1041,6 +1041,14 @@
       "name": "LostToken",
       "symbol": "LOST",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x449674B82F05d498E126Dd6615a1057A9c088f2C/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1B88D7aD51626044Ec62eF9803EA264DA4442F32",
+      "decimals": 18,
+      "name": "ZooToken",
+      "symbol": "ZOO",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1B88D7aD51626044Ec62eF9803EA264DA4442F32/logo.png"
     },
     {
       "chainId": 43114,
