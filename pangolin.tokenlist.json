@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 0,
-    "minor": 8,
+    "minor": 9,
     "patch": 2
   },
-  "timestamp": "2022-04-05T12:00:00+00:00",
+  "timestamp": "2022-04-07T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
@@ -1201,6 +1201,14 @@
       "name": "Wormhole UST",
       "symbol": "UST",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xC26Dcc91B69e30c96aD22E5DDA81781cf592f4be",
+      "decimals": 18,
+      "name": "Flake Token",
+      "symbol": "FKT",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC26Dcc91B69e30c96aD22E5DDA81781cf592f4be/logo.png"
     }
   ]
 }
