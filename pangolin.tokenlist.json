@@ -4,11 +4,11 @@
   "keywords": [
   ],
   "version": {
-    "major": 0,
-    "minor": 8,
+    "major": 1,
+    "minor": 0,
     "patch": 3
   },
-  "timestamp": "2022-04-08T12:00:00+00:00",
+  "timestamp": "2022-04-18T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
@@ -1004,7 +1004,7 @@
     },
     {
       "chainId": 43114,
-      "address": "0x4ec58f9D205F9c919920313932cc71EC68d123C7",
+      "address": "0xE16253892F126D068E711C2fdde6DB56969dBCf6",
       "decimals": 18,
       "name": "Splash Token",
       "symbol": "SPLASH",
