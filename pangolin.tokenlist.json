@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
-  "timestamp": "2022-04-18T12:00:00+00:00",
+  "timestamp": "2022-04-20T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
@@ -1049,6 +1049,14 @@
       "name": "ZooToken",
       "symbol": "ZOO",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1B88D7aD51626044Ec62eF9803EA264DA4442F32/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x056D114fF1e01dE3BCA30F0Efa3655DF42880e5B",
+      "decimals": 18,
+      "name": "KyteOne",
+      "symbol": "KTE",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x056D114fF1e01dE3BCA30F0Efa3655DF42880e5B/logo.png"
     },
     {
       "chainId": 43114,
