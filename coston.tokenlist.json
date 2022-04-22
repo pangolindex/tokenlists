@@ -1,0 +1,30 @@
+{
+    "name": "Coston Tokenlist",
+    "logoURI": "https://raw.githubusercontent.com/jb1011/flareLogo/master/flare.jpeg",
+    "timestamp": "2022-03-03T12:00:00+00:00",
+    "keywords": ["wagmi", "defi", "ethereum", "bridge"],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    },
+    "tokens": [
+      {
+        "chainId": 16,
+        "address": "0x8C0c6B6e31A8b57D6eAB31391950bFaD4f8eb229",
+        "decimals": 18,
+        "name": "Pangolin",
+        "symbol": "costonPNG",
+        "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+      },
+      {
+        "chainId": 16,
+        "address": "0x3Ee7094DADda15810F191DD6AcF7E4FFa37571e4",
+        "decimals": 18,
+        "name": "Wrapped WAGMI",
+        "symbol": "wWAGMI",
+        "logoURI": "https://raw.githubusercontent.com/antiyro/WagmiTokenList/master/wagmi.png"
+      }
+    ]
+  }
+  
