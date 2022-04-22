@@ -75,7 +75,7 @@
             "decimals": 8,
             "name": "Blocknet",
             "symbol": "aaBLOCK",
-            "logoURI": "https://github.com/blocknetdx/documentation/blob/master/docs/img/icons/Blocknet_symbol_dark_RGB.png"
+            "logoURI": "https://raw.githubusercontent.com/blocknetdx/documentation/master/docs/img/icons/Blocknet_symbol_dark_RGB.png"
         },
         {
             "chainId": 43114,
