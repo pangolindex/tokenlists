@@ -1,14 +1,14 @@
 {
   "name": "Pangolin Tokenlist",
-  "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png",
   "keywords": [
   ],
   "version": {
-    "major": 0,
-    "minor": 2,
+    "major": 1,
+    "minor": 1,
     "patch": 0
   },
-  "timestamp": "2022-03-10T10:00:00+00:00",
+  "timestamp": "2022-04-20T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
@@ -996,6 +996,70 @@
     },
     {
       "chainId": 43114,
+      "address": "0x979fFD8eEd7a43629eA29581DF4Bfe2b3F224e47",
+      "decimals": 18,
+      "name": "Omlira",
+      "symbol": "OML",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x979fFD8eEd7a43629eA29581DF4Bfe2b3F224e47/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xE16253892F126D068E711C2fdde6DB56969dBCf6",
+      "decimals": 18,
+      "name": "Splash Token",
+      "symbol": "SPLASH",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4ec58f9D205F9c919920313932cc71EC68d123C7/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xbc6f589171d6d66EB44ebCC92dFFb570Db4208da",
+      "decimals": 18,
+      "name": "Wave Token",
+      "symbol": "WAVE",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbc6f589171d6d66EB44ebCC92dFFb570Db4208da/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x97E7044ab98B7891546485f5f66EDcc2F58be106",
+      "decimals": 18,
+      "name": "EMERALD",
+      "symbol": "EM",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x97E7044ab98B7891546485f5f66EDcc2F58be106/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x80D18b1c9Ab0c9B5D6A6d5173575417457d00a12",
+      "decimals": 6,
+      "name": "Axelar Wrapped ATOM",
+      "symbol": "axlATOM",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x80D18b1c9Ab0c9B5D6A6d5173575417457d00a12/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x449674B82F05d498E126Dd6615a1057A9c088f2C",
+      "decimals": 18,
+      "name": "LostToken",
+      "symbol": "LOST",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x449674B82F05d498E126Dd6615a1057A9c088f2C/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1B88D7aD51626044Ec62eF9803EA264DA4442F32",
+      "decimals": 18,
+      "name": "ZooToken",
+      "symbol": "ZOO",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1B88D7aD51626044Ec62eF9803EA264DA4442F32/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x056D114fF1e01dE3BCA30F0Efa3655DF42880e5B",
+      "decimals": 18,
+      "name": "KyteOne",
+      "symbol": "KTE",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x056D114fF1e01dE3BCA30F0Efa3655DF42880e5B/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
       "decimals": 6,
       "name": "Tether USD",
@@ -1111,7 +1175,7 @@
       "address": "0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11",
       "decimals": 6,
       "name": "Axelar Wrapped UST",
-      "symbol": "UST",
+      "symbol": "axlUST",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png"
     },
     {
@@ -1129,6 +1193,22 @@
       "name": "Moremoney USD",
       "symbol": "MONEY",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+      "decimals": 18,
+      "name": "JPY Coin",
+      "symbol": "JPYC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
+      "decimals": 6,
+      "name": "Wormhole UST",
+      "symbol": "UST",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo.png"
     }
   ]
 }
