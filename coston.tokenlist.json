@@ -16,14 +16,6 @@
         "name": "Pangolin",
         "symbol": "costonPNG",
         "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
-      },
-      {
-        "chainId": 16,
-        "address": "0x3Ee7094DADda15810F191DD6AcF7E4FFa37571e4",
-        "decimals": 18,
-        "name": "Wrapped WAGMI",
-        "symbol": "wWAGMI",
-        "logoURI": "https://raw.githubusercontent.com/antiyro/WagmiTokenList/master/wagmi.png"
       }
     ]
   }
