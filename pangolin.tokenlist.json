@@ -6,9 +6,9 @@
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   },
-  "timestamp": "2022-04-20T12:00:00+00:00",
+  "timestamp": "2022-04-28T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
@@ -1008,7 +1008,7 @@
       "decimals": 18,
       "name": "Splash Token",
       "symbol": "SPLASH",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4ec58f9D205F9c919920313932cc71EC68d123C7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xE16253892F126D068E711C2fdde6DB56969dBCf6/logo.png"
     },
     {
       "chainId": 43114,
