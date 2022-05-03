@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
-  "timestamp": "2022-04-20T12:00:00+00:00",
+  "timestamp": "2022-05-03T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
@@ -1209,6 +1209,14 @@
       "name": "Wormhole UST",
       "symbol": "UST",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xf03AB1c1FCCbCb470c47f3EB642DB31c30d240A4",
+      "decimals": 18,
+      "name": "MoonMug",
+      "symbol": "MUG",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf03AB1c1FCCbCb470c47f3EB642DB31c30d240A4/logo.png"
     }
   ]
 }
