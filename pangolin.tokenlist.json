@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
-  "timestamp": "2022-05-05T12:00:00+00:00",
+  "timestamp": "2022-05-12T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
@@ -1089,6 +1089,14 @@
       "name": "STEP.APP",
       "symbol": "FITFI",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x714f020C54cc9D104B6F4f6998C63ce2a31D1888/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4156F18bF7C1ef04248632C66Aa119De152D8f2E",
+      "decimals": 18,
+      "name": "Zeus Node Finance",
+      "symbol": "ZEUS",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4156F18bF7C1ef04248632C66Aa119De152D8f2E/logo.png"
     },
     {
       "chainId": 43114,
