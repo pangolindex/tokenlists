@@ -1249,6 +1249,14 @@
       "name": "Wormhole UST",
       "symbol": "UST",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x61eCd63e42C27415696e10864d70ecEA4aA11289",
+      "decimals": 18,
+      "name": "Rugpull Prevention",
+      "symbol": "RUGPULL",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x61eCd63e42C27415696e10864d70ecEA4aA11289/logo.png"
     }
   ]
 }
