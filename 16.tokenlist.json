@@ -1,11 +1,11 @@
 {
     "name": "Coston Tokenlist",
     "logoURI": "https://raw.githubusercontent.com/jb1011/flareLogo/master/flare.jpeg",
-    "timestamp": "2022-03-03T12:00:00+00:00",
-    "keywords": ["wagmi", "defi", "ethereum", "bridge"],
+    "timestamp": "2022-06-02T12:00:00+00:00",
+    "keywords": ["coston", "defi", "flare", "bridge"],
     "version": {
       "major": 0,
-      "minor": 0,
+      "minor": 1,
       "patch": 0
     },
     "tokens": [

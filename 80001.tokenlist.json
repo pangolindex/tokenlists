@@ -1,7 +1,7 @@
 {
-    "name": "Coston Tokenlist",
+    "name": "Polygon Mumbai Tokenlist",
     "logoURI": "https://raw.githubusercontent.com/pangolindex/sdk/master/src/images/chains/matic.png",
-    "timestamp": "2022-03-03T12:00:00+00:00",
+    "timestamp": "2022-06-02T12:00:00+00:00",
     "keywords": ["mumbai", "defi", "ethereum", "polygon"],
     "version": {
       "major": 0,
