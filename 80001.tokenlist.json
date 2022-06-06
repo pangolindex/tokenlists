@@ -10,8 +10,8 @@
     },
     "tokens": [
       {
-        "address": "0x4828a3D98E428e73184374845f23C40eB76bA695",
         "chainId": 80001,
+        "address": "0x4828a3D98E428e73184374845f23C40eB76bA695",
         "decimals": 18,
         "name": "Pangolin",
         "symbol": "mumbaiPNG",
