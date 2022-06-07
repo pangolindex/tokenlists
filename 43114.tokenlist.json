@@ -1,14 +1,14 @@
 {
-  "name": "Pangolin Tokenlist",
-  "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png",
+  "name": "Avalanche Tokenlist",
+  "logoURI": "https://raw.githubusercontent.com/pangolindex/sdk/master/src/images/chains/avax.png",
   "keywords": [
   ],
   "version": {
     "major": 1,
     "minor": 4,
-    "patch": 0
+    "patch": 1
   },
-  "timestamp": "2022-05-24T05:47:00+00:00",
+  "timestamp": "2022-06-07T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
