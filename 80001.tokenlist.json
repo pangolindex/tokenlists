@@ -1,11 +1,11 @@
 {
     "name": "Polygon Mumbai Tokenlist",
     "logoURI": "https://raw.githubusercontent.com/pangolindex/sdk/master/src/images/chains/matic.png",
-    "timestamp": "2022-06-02T12:00:00+00:00",
+    "timestamp": "2022-06-06T12:00:00+00:00",
     "keywords": ["mumbai", "defi", "ethereum", "polygon"],
     "version": {
       "major": 0,
-      "minor": 1,
+      "minor": 2,
       "patch": 0
     },
     "tokens": [
@@ -15,7 +15,7 @@
         "decimals": 18,
         "name": "Pangolin",
         "symbol": "mumbaiPNG",
-        "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/80001/0x4828a3D98E428e73184374845f23C40eB76bA695/logo.png"
       }
     ]
-  }
+}
