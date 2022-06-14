@@ -5,11 +5,99 @@
   ],
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
-  "timestamp": "2022-05-24T05:47:00+00:00",
+  "timestamp": "2022-06-10T15:42:00+00:00",
   "tokens": [
+    {
+      "chainId": 16,
+      "address": "0x8C0c6B6e31A8b57D6eAB31391950bFaD4f8eb229",
+      "decimals": 18,
+      "name": "Pangolin",
+      "symbol": "costonPNG",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/16/0x8C0c6B6e31A8b57D6eAB31391950bFaD4f8eb229/logo.png"
+    },
+    {
+      "chainId": 11111,
+      "address": "0xbdf33c7128fBB220fc0e4Be277697cEeef8BdfF5",
+      "decimals": 18,
+      "name": "Pangolin",
+      "symbol": "wagmiPNG",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0xbdf33c7128fBB220fc0e4Be277697cEeef8BdfF5/logo.png"
+    },
+    {
+      "chainId": 11111,
+      "address": "0x3Ee7094DADda15810F191DD6AcF7E4FFa37571e4",
+      "decimals": 18,
+      "name": "Wrapped WAGMI",
+      "symbol": "wWAGMI",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0x3Ee7094DADda15810F191DD6AcF7E4FFa37571e4/logo.png"
+    },
+    {
+      "chainId": 11111,
+      "address": "0xf1db872E6454D553686b088c1Ea3889cF2FE3ABe",
+      "decimals": 18,
+      "name": "OG",
+      "symbol": "OG",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0xf1db872E6454D553686b088c1Ea3889cF2FE3ABe/logo.png"
+    },
+    {
+      "chainId": 11111,
+      "address": "0x4eaA03A9C9c9CE745517538d262653B9e43c51f2",
+      "decimals": 18,
+      "name": "staySAFU",
+      "symbol": "staySAFU",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0x4eaA03A9C9c9CE745517538d262653B9e43c51f2/logo.png"
+    },
+    {
+      "chainId": 11111,
+      "address": "0x21cf0eB2E3Ab483a67C900b27dA8F34185991982",
+      "decimals": 18,
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0x21cf0eB2E3Ab483a67C900b27dA8F34185991982/logo.png"
+    },
+    {
+      "chainId": 43113,
+      "address": "0x2058ec2791dD28b6f67DB836ddf87534F4Bbdf22",
+      "name": "The Fuji stablecoin",
+      "symbol": "FUJISTABLE",
+      "decimals": 6,
+      "logoURI": "https://i.imgur.com/LPZDXoT.png"
+    },
+    {
+      "chainId": 43113,
+      "address": "0x97132C109c6816525F7f338DCb7435E1412A7668",
+      "name": "To the Moon",
+      "symbol": "FUJIMOON",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/jNTqyQA.png"
+    },
+    {
+      "chainId": 43113,
+      "address": "0xF561800EdedF4CE146ED427Cacf1Fb8aB3B2D452",
+      "name": "Wrapped WAGMI",
+      "symbol": "WWAGMI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43113/0xF561800EdedF4CE146ED427Cacf1Fb8aB3B2D452/logo.png"
+    },
+    {
+      "chainId": 43113,
+      "address": "0x224695Ba2a98E4a096a519B503336E06D9116E48",
+      "name": "The Crypt",
+      "symbol": "RIP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/antiyro/WagmiTokenList/master/wagmi.png"
+    },
+    {
+      "chainId": 43113,
+      "address": "0xAF5D473b3f8F96A5B21c6bbB97e09b491335acb9",
+      "name": "Fuji PNG",
+      "symbol": "fujiPNG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43113/0xAF5D473b3f8F96A5B21c6bbB97e09b491335acb9/logo.png"
+    },
     {
       "chainId": 43114,
       "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -969,7 +1057,7 @@
       "name": "DEAPCOIN",
       "symbol": "DEP",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1/logo.png"
-    },    
+    },
     {
       "chainId": 43114,
       "address": "0x15c841043e13fFAA9a99FabEa236D40F45615623",
@@ -1257,6 +1345,14 @@
       "name": "Rugpull Prevention",
       "symbol": "RUGPULL",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x61eCd63e42C27415696e10864d70ecEA4aA11289/logo.png"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x4828a3D98E428e73184374845f23C40eB76bA695",
+      "decimals": 18,
+      "name": "Pangolin",
+      "symbol": "mumbaiPNG",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/80001/0x4828a3D98E428e73184374845f23C40eB76bA695/logo.png"
     }
   ]
 }
