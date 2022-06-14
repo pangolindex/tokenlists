@@ -1,0 +1,53 @@
+{
+    "name": "Wagmi Tokenlist",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/sdk/master/src/images/chains/wgmi.png",
+    "timestamp": "2022-06-06T12:00:00+00:00",
+    "keywords": ["wagmi", "defi", "bridge"],
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "patch": 0
+    },
+    "tokens": [
+      {
+        "chainId": 11111,
+        "address": "0xbdf33c7128fBB220fc0e4Be277697cEeef8BdfF5",
+        "decimals": 18,
+        "name": "Pangolin",
+        "symbol": "wagmiPNG",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0xbdf33c7128fBB220fc0e4Be277697cEeef8BdfF5/logo.png"
+      },
+      {
+        "chainId": 11111,
+        "address": "0x3Ee7094DADda15810F191DD6AcF7E4FFa37571e4",
+        "decimals": 18,
+        "name": "Wrapped WAGMI",
+        "symbol": "wWAGMI",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0x3Ee7094DADda15810F191DD6AcF7E4FFa37571e4/logo.png"
+      },
+      {
+        "chainId": 11111,
+        "address": "0xf1db872E6454D553686b088c1Ea3889cF2FE3ABe",
+        "decimals": 18,
+        "name": "OG",
+        "symbol": "OG",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0xf1db872E6454D553686b088c1Ea3889cF2FE3ABe/logo.png"
+      },
+      {
+        "chainId": 11111,
+        "address": "0x4eaA03A9C9c9CE745517538d262653B9e43c51f2",
+        "decimals": 18,
+        "name": "staySAFU",
+        "symbol": "staySAFU",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0x4eaA03A9C9c9CE745517538d262653B9e43c51f2/logo.png"
+      },
+      {
+        "chainId": 11111,
+        "address": "0x21cf0eB2E3Ab483a67C900b27dA8F34185991982",
+        "decimals": 18,
+        "name": "Wrapped AVAX",
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0x21cf0eB2E3Ab483a67C900b27dA8F34185991982/logo.png"
+      }
+    ]
+}

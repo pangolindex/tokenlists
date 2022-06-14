@@ -1,0 +1,21 @@
+{
+    "name": "Coston Tokenlist",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/sdk/master/src/images/chains/flare.png",
+    "timestamp": "2022-06-06T12:00:00+00:00",
+    "keywords": ["coston", "defi", "flare", "bridge"],
+    "version": {
+      "major": 0,
+      "minor": 2,
+      "patch": 0
+    },
+    "tokens": [
+      {
+        "chainId": 16,
+        "address": "0x8C0c6B6e31A8b57D6eAB31391950bFaD4f8eb229",
+        "decimals": 18,
+        "name": "Pangolin",
+        "symbol": "costonPNG",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/16/0x8C0c6B6e31A8b57D6eAB31391950bFaD4f8eb229/logo.png"
+      }
+    ]
+}
