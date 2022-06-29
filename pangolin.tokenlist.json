@@ -1,11 +1,10 @@
 {
   "name": "Pangolin Tokenlist",
   "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png",
-  "keywords": [
-  ],
+  "keywords": [],
   "version": {
     "major": 1,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "timestamp": "2022-06-10T15:42:00+00:00",
@@ -1353,6 +1352,22 @@
       "name": "Pangolin",
       "symbol": "mumbaiPNG",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/80001/0x4828a3D98E428e73184374845f23C40eB76bA695/logo.png"
+    },
+    {
+      "chainId": 329847901,
+      "address": "wrap.testnet",
+      "decimals": 24,
+      "name": "Wrapped NEAR",
+      "symbol": "wNEAR",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/329847901/wrap.testnet/logo.png"
+    },
+    {
+      "chainId": 329847901,
+      "address": "png-token-v1.testnet",
+      "decimals": 18,
+      "name": "Pangolin Near",
+      "symbol": "PNR",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/329847901/png-token-v1.testnet/logo.png"
     }
   ]
 }
