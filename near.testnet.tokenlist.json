@@ -1,0 +1,29 @@
+{
+  "name": "Near Testnet Tokenlist",
+  "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png",
+  "keywords": [],
+  "version": {
+    "major": 1,
+    "minor": 6,
+    "patch": 0
+  },
+  "timestamp": "2022-06-30T19:27:00+00:00",
+  "tokens": [
+    {
+      "chainId": 329847901,
+      "address": "wrap.testnet",
+      "decimals": 24,
+      "name": "Wrapped NEAR",
+      "symbol": "wNEAR",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/329847901/wrap.testnet/logo.png"
+    },
+    {
+      "chainId": 329847901,
+      "address": "png-token-v1.testnet",
+      "decimals": 18,
+      "name": "Pangolin Near",
+      "symbol": "PNR",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/329847901/png-token-v1.testnet/logo.png"
+    }
+  ]
+}
