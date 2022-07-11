@@ -4,11 +4,11 @@
   "keywords": [
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 5,
     "patch": 0
   },
-  "timestamp": "2022-06-10T15:42:00+00:00",
+  "timestamp": "2022-07-11T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 16,
@@ -1353,6 +1353,70 @@
       "name": "Pangolin",
       "symbol": "mumbaiPNG",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/80001/0x4828a3D98E428e73184374845f23C40eB76bA695/logo.png"
-    }
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+      "decimals": 18,
+      "name": "Aurora",
+      "symbol": "AURORA",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/1313161554/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.png"
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x9f1F933C660a1DC856F0E0Fe058435879c5CCEf0",
+      "decimals": 18,
+      "name": "Bastion",
+      "symbol": "BSTN",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/1313161554/0x9f1F933C660a1DC856F0E0Fe058435879c5CCEf0/logo.png"
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
+      "decimals": 6,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/1313161554/0x4988a896b1227218e4A686fdE5EabdcAbd91571f/logo.png"
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x5183e1B1091804BC2602586919E6880ac1cf2896",
+      "decimals": 18,
+      "name": "USN",
+      "symbol": "USN",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/1313161554/0x5183e1B1091804BC2602586919E6880ac1cf2896/logo.png"
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xB12BFcA5A55806AaF64E99521918A4bf0fC40802",
+      "decimals": 6,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/1313161554/0xB12BFcA5A55806AaF64E99521918A4bf0fC40802/logo.png"
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+      "decimals": 24,
+      "name": "Wrapped Near",
+      "symbol": "WNEAR",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/1313161554/0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d/logo.png"
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xF4eB217Ba2454613b15dBdea6e5f22276410e89e",
+      "decimals": 8,
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/1313161554/0xF4eB217Ba2454613b15dBdea6e5f22276410e89e/logo.png"
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
+      "decimals": 18,
+      "name": "Trisolaris Token",
+      "symbol": "TRI",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/1313161554/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/logo.png"
+    },
   ]
 }
