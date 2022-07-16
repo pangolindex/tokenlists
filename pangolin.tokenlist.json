@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 1,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
-  "timestamp": "2022-06-10T15:42:00+00:00",
+  "timestamp": "2022-07-16T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 16,
@@ -1345,6 +1345,14 @@
       "name": "Rugpull Prevention",
       "symbol": "RUGPULL",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x61eCd63e42C27415696e10864d70ecEA4aA11289/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xcF8419A615c57511807236751c0AF38Db4ba3351",
+      "decimals": 18,
+      "name": "AxialToken",
+      "symbol": "AXIAL",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xcF8419A615c57511807236751c0AF38Db4ba3351/logo.png"
     },
     {
       "chainId": 80001,
