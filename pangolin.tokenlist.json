@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 1,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
-  "timestamp": "2022-07-16T12:00:00+00:00",
+  "timestamp": "2022-07-20T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 16,
@@ -1353,6 +1353,14 @@
       "name": "AxialToken",
       "symbol": "AXIAL",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xcF8419A615c57511807236751c0AF38Db4ba3351/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x491a4eB4f1FC3BfF8E1d2FC856a6A46663aD556f",
+      "decimals": 4,
+      "name": "BRZ",
+      "symbol": "BRZ",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x491a4eB4f1FC3BfF8E1d2FC856a6A46663aD556f/logo.png"
     },
     {
       "chainId": 80001,
