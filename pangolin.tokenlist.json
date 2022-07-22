@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 1,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
-  "timestamp": "2022-07-20T12:00:00+00:00",
+  "timestamp": "2022-07-22T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 16,
@@ -1361,6 +1361,14 @@
       "name": "BRZ",
       "symbol": "BRZ",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x491a4eB4f1FC3BfF8E1d2FC856a6A46663aD556f/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x827eb4bada6cb76c90f887969b3fe5faD585FFe3",
+      "decimals": 18,
+      "name": "XETA",
+      "symbol": "XETA",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x827eb4bada6cb76c90f887969b3fe5faD585FFe3/logo.png"
     },
     {
       "chainId": 80001,
