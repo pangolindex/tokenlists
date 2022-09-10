@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 1,
-    "minor": 9,
+    "minor": 3,
     "patch": 2
   },
-  "timestamp": "2022-09-02T12:00:00+00:00",
+  "timestamp": "2022-09-10T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 16,
@@ -17,6 +17,30 @@
       "name": "Pangolin",
       "symbol": "PCT",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/16/0x0A8744c2a48b0e09a3e4C3A381A8E0d8d900bAFe/logo.png"
+    },
+    {
+      "chainId": 19,
+      "address": "0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED",
+      "decimals": 18,
+      "name": "Wrapped Songbird",
+      "symbol": "WSGB",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED/logo.png"
+    },
+    {
+      "chainId": 19,
+      "address": "0xd2C217a4798FB7C331876B54D6cA6cb369dEb70C",
+      "decimals": 18,
+      "name": "Pangolin Songbird",
+      "symbol": "PSB",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0xd2C217a4798FB7C331876B54D6cA6cb369dEb70C/logo.png"
+    },
+    {
+      "chainId": 19,
+      "address": "0x697bb3B5E1eCf4fEbE6016321b0648d3d6C270B6",
+      "decimals": 18,
+      "name": "sDOOD Token",
+      "symbol": "sDOOD",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x697bb3B5E1eCf4fEbE6016321b0648d3d6C270B6/logo.png"
     },
     {
       "chainId": 11111,
