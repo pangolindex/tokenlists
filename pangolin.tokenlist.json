@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 1,
-    "minor": 9,
-    "patch": 2
+    "minor": 10,
+    "patch": 0
   },
-  "timestamp": "2022-09-02T12:00:00+00:00",
+  "timestamp": "2022-09-11T08:25:00+00:00",
   "tokens": [
     {
       "chainId": 16,
@@ -1385,6 +1385,14 @@
       "name": "Unbound",
       "symbol": "UNB",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xF915fDDa4c882731C0456a4214548Cd13A822886/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x51e48670098173025C477D9AA3f0efF7BF9f7812",
+      "decimals": 18,
+      "name": "DegenX",
+      "symbol": "DGNX",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x51e48670098173025C477D9AA3f0efF7BF9f7812/logo.png"
     },
     {
       "chainId": 80001,
