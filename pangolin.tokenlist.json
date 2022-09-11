@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 1,
-    "minor": 9,
+    "minor": 10,
     "patch": 2
   },
-  "timestamp": "2022-09-02T12:00:00+00:00",
+  "timestamp": "2022-09-11T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 16,
@@ -49,6 +49,30 @@
       "name": "staySAFU",
       "symbol": "staySAFU",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0x4eaA03A9C9c9CE745517538d262653B9e43c51f2/logo.png"
+    },
+    {
+      "chainId": 19,
+      "address": "0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED",
+      "decimals": 18,
+      "name": "Wrapped Songbird",
+      "symbol": "WSGB",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED/logo.png"
+    },
+    {
+      "chainId": 19,
+      "address": "0xd2C217a4798FB7C331876B54D6cA6cb369dEb70C",
+      "decimals": 18,
+      "name": "Pangolin Songbird",
+      "symbol": "PSB",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0xd2C217a4798FB7C331876B54D6cA6cb369dEb70C/logo.png"
+    },
+    {
+      "chainId": 19,
+      "address": "0x697bb3B5E1eCf4fEbE6016321b0648d3d6C270B6",
+      "decimals": 18,
+      "name": "sDOOD Token",
+      "symbol": "sDOOD",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x697bb3B5E1eCf4fEbE6016321b0648d3d6C270B6/logo.png"
     },
     {
       "chainId": 11111,
