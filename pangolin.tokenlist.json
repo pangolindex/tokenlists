@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
-  "timestamp": "2022-09-12T12:00:00+00:00",
+  "timestamp": "2022-09-12T13:00:00+00:00",
   "tokens": [
     {
       "chainId": 16,
@@ -96,7 +96,15 @@
       "decimals": 18,
       "name": "Experimental Finance Token",
       "symbol": "EXFI",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0xC348F894d0E939FE72c467156E6d7DcbD6f16e21/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0xC348F894d0E939FE72c467156E6d7DcbD6f16e21/logo.png"
+    },
+    {
+      "chainId": 19,
+      "address": "0x9E2E6c16803878C18E54Ed74F05AeafCCe464626",
+      "decimals": 18,
+      "name": "sFortuna",
+      "symbol": "SFORT",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x9E2E6c16803878C18E54Ed74F05AeafCCe464626/logo.png"
     },
     {
       "chainId": 11111,
