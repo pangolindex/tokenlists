@@ -4,11 +4,11 @@
   "keywords": [
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2022-09-12T12:00:00+00:00",
+  "timestamp": "2022-09-112T19:00:00+00:00",
   "tokens": [
     {
       "chainId": 16,
@@ -60,7 +60,7 @@
     },
     {
       "chainId": 19,
-      "address": "0x3AAD4eE30d41525c2Ee7D0F4070ebF31568F31b4",
+      "address": "0xb2987753D1561570f726Aa373F48E77e27aa5FF4",
       "decimals": 18,
       "name": "Pangolin Songbird",
       "symbol": "PSB",
