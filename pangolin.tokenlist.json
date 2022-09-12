@@ -4,11 +4,11 @@
   "keywords": [
   ],
   "version": {
-    "major": 1,
-    "minor": 10,
+    "major": 2,
+    "minor": 0,
     "patch": 0
   },
-  "timestamp": "2022-09-11T12:00:00+00:00",
+  "timestamp": "2022-09-12T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 16,
@@ -60,11 +60,11 @@
     },
     {
       "chainId": 19,
-      "address": "0xd2C217a4798FB7C331876B54D6cA6cb369dEb70C",
+      "address": "0x3AAD4eE30d41525c2Ee7D0F4070ebF31568F31b4",
       "decimals": 18,
       "name": "Pangolin Songbird",
       "symbol": "PSB",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0xd2C217a4798FB7C331876B54D6cA6cb369dEb70C/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x3AAD4eE30d41525c2Ee7D0F4070ebF31568F31b4/logo.png"
     },
     {
       "chainId": 19,
@@ -73,6 +73,30 @@
       "name": "sDOOD Token",
       "symbol": "sDOOD",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x697bb3B5E1eCf4fEbE6016321b0648d3d6C270B6/logo.png"
+    },
+    {
+      "chainId": 19,
+      "address": "0x8d32E20d119d936998575B4AAff66B9999011D27",
+      "decimals": 18,
+      "name": "CanaryX",
+      "symbol": "CNYX",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x8d32E20d119d936998575B4AAff66B9999011D27/logo.png"
+    },
+    {
+      "chainId": 19,
+      "address": "0xD7565b16b65376e2Ddb6c71E7971c7185A7Ff3Ff",
+      "decimals": 18,
+      "name": "OracleSwap",
+      "symbol": "ORACLE",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0xD7565b16b65376e2Ddb6c71E7971c7185A7Ff3Ff/logo.png"
+    },
+    {
+      "chainId": 19,
+      "address": "0xC348F894d0E939FE72c467156E6d7DcbD6f16e21",
+      "decimals": 18,
+      "name": "Experimental Finance Token",
+      "symbol": "EXFI",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0xC348F894d0E939FE72c467156E6d7DcbD6f16e21/logo.png"
     },
     {
       "chainId": 11111,
