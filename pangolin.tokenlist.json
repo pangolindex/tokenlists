@@ -5,10 +5,10 @@
   ],
   "version": {
     "major": 3,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
-  "timestamp": "2022-09-13T13:00:00+00:00",
+  "timestamp": "2022-09-16T13:00:00+00:00",
   "tokens": [
     {
       "chainId": 16,
@@ -96,8 +96,16 @@
       "decimals": 18,
       "name": "Experimental Finance Token",
       "symbol": "EXFI",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0xC348F894d0E939FE72c467156E6d7DcbD6f16e21/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0xC348F894d0E939FE72c467156E6d7DcbD6f16e21/logo.png"
     },
+    {
+      "chainId": 19,
+      "address": "0x9E2E6c16803878C18E54Ed74F05AeafCCe464626",
+      "decimals": 18,
+      "name": "sFortuna",
+      "symbol": "SFORT",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x9E2E6c16803878C18E54Ed74F05AeafCCe464626/logo.png"
+    },    
     {
       "chainId": 11111,
       "address": "0x21cf0eB2E3Ab483a67C900b27dA8F34185991982",
@@ -1441,6 +1449,14 @@
       "name": "DegenX",
       "symbol": "DGNX",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x51e48670098173025C477D9AA3f0efF7BF9f7812/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xcf799767d366d789e8B446981C2D578E241fa25c",
+      "decimals": 18,
+      "name": "Decentralized USD",
+      "symbol": "USDD",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xcf799767d366d789e8B446981C2D578E241fa25c/logo.png"
     },
     {
       "chainId": 80001,
