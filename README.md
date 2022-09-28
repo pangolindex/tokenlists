@@ -24,7 +24,7 @@ the specification. The Pangolin community invites you to add your token to our t
       "decimals": 18,
       "name": "Pangolin",
       "symbol": "PNG",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x60781C2586D68229fde47564546784ab3fACA982/logo_24.png"
     }
     ```
 2. Update the `timestamp` field to the current timestamp.
