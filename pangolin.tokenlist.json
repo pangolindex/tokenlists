@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 3,
-    "minor": 3,
-    "patch": 1
+    "minor": 4,
+    "patch": 0
   },
-  "timestamp": "2022-09-23T12:00:00+00:00",
+  "timestamp": "2022-10-12T23:08:00+00:00",
   "tokens": [
     {
       "chainId": 16,
@@ -48,6 +48,22 @@
       "name": "staySAFU",
       "symbol": "staySAFU",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0x4eaA03A9C9c9CE745517538d262653B9e43c51f2/logo_24.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d",
+      "decimals": 18,
+      "name": "Wrapped Flare",
+      "symbol": "WFLR",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d/logo_24.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0xC60BcDaA9CC7Cc372E793101fDfCB1083E25A203",
+      "decimals": 18,
+      "name": "Pangolin Flare",
+      "symbol": "WFLR",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0xC60BcDaA9CC7Cc372E793101fDfCB1083E25A203/logo_24.png"
     },
     {
       "chainId": 19,
