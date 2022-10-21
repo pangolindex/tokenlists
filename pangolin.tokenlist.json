@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 3,
-    "minor": 3,
+    "minor": 4,
     "patch": 1
   },
-  "timestamp": "2022-09-23T12:00:00+00:00",
+  "timestamp": "2022-10-21T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 16,
@@ -1464,6 +1464,14 @@
       "name": "Decentralized USD",
       "symbol": "USDD",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xcf799767d366d789e8B446981C2D578E241fa25c/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+      "decimals": 18,
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39/logo_24.png"
     },
     {
       "chainId": 80001,
