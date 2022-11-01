@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 3,
-    "minor": 5,
-    "patch": 1
+    "minor": 6,
+    "patch": 0
   },
-  "timestamp": "2022-10-26T12:00:00+00:00",
+  "timestamp": "2022-11-01T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 16,
@@ -120,6 +120,14 @@
       "name": "Cootie Coin",
       "symbol": "COOT",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0xe4671844Fcb3cA9A80A1224B6f9A0A6c2Ba2a7d5/logo_24.png"
+    },
+    {
+      "chainId": 19,
+      "address": "0x671ee7ac6ef2803776dD1711e577540A6007cC25",
+      "decimals": 18,
+      "name": "Ocean",
+      "symbol": "OCN",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x671ee7ac6ef2803776dD1711e577540A6007cC25/logo_24.png"
     },
     {
       "chainId": 11111,
