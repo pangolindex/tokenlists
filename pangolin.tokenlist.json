@@ -1496,6 +1496,14 @@
       "name": "Pangolin",
       "symbol": "mumbaiPNG",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/80001/0x4828a3D98E428e73184374845f23C40eB76bA695/logo_24.png"
-    }
+    },
+    {
+  "chainId": 43113,
+  "address": "0xe2cA435EB654DDAe81bB4627CEAA554aea6162e8",
+  "decimals": 18,
+  "name": "JAWZ",
+  "symbol": "JAWZ",
+  "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43113/0xe2cA435EB654DDAe81bB4627CEAA554aea6162e8/logo_24.png"
+}
   ]
 }
