@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 3,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
-  "timestamp": "2022-11-16T12:00:00+00:00",
+  "timestamp": "2022-11-18T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 16,
@@ -176,6 +176,14 @@
       "symbol": "fujiPNG",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43113/0xAF5D473b3f8F96A5B21c6bbB97e09b491335acb9/logo_24.png"
+    },
+    {
+      "chainId": 43113,
+      "address": "0x0a8c21858aC24e1305BaFBDdf4DfB73a2CC9ddBC",
+      "name": "JAWZ Fuji TestNet",
+      "symbol": "JAWZ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43113/0x0a8c21858aC24e1305BaFBDdf4DfB73a2CC9ddBC/logo_24.png"
     },
     {
       "chainId": 43114,
