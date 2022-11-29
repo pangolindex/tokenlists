@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 3,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   },
-  "timestamp": "2022-11-18T12:00:00+00:00",
+  "timestamp": "2022-11-29T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 16,
@@ -128,6 +128,14 @@
       "name": "Ocean",
       "symbol": "OCN",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x671ee7ac6ef2803776dD1711e577540A6007cC25/logo_24.png"
+    },
+    {
+      "chainId": 19,
+      "address": "0xd46bd7A5EBE52199BD6f0EfD59a1d7CeF7f35eae",
+      "decimals": 18,
+      "name": "Infinty Token",
+      "symbol": "INFT",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0xd46bd7A5EBE52199BD6f0EfD59a1d7CeF7f35eae/logo_24.png"
     },
     {
       "chainId": 11111,
