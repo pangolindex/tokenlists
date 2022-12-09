@@ -4,11 +4,43 @@
   "keywords": [],
   "version": {
     "major": 3,
-    "minor": 9,
+    "minor": 10,
     "patch": 0
   },
-  "timestamp": "2022-11-29T12:00:00+00:00",
+  "timestamp": "2022-12-09T12:00:00+00:00",
   "tokens": [
+    {
+      "chainId": 296,
+      "address": "0x0000000000000000000000000000000002DfA5b2",
+      "decimals": 8,
+      "name": "Wrapped Hedera",
+      "symbol": "WHBAR",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x0000000000000000000000000000000002DfA5b2/logo_24.png"
+    },
+    {
+      "chainId": 296,
+      "address": "0x0000000000000000000000000000000002D9E4F8",
+      "decimals": 6,
+      "name": "USDC",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x0000000000000000000000000000000002D9E4F8/logo_24.png"
+    },
+    {
+      "chainId": 296,
+      "address": "0x0000000000000000000000000000000002Db0600",
+      "decimals": 8,
+      "name": "Pangolin Hedera",
+      "symbol": "PBAR",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x0000000000000000000000000000000002Db0600/logo_24.png"
+    },
+    {
+      "chainId": 296,
+      "address": "0x0000000000000000000000000000000002bE71e8",
+      "decimals": 6,
+      "name": "Sauce",
+      "symbol": "SAUCE",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x0000000000000000000000000000000002bE71e8/logo_24.png"
+    },
     {
       "chainId": 16,
       "address": "0x0A8744c2a48b0e09a3e4C3A381A8E0d8d900bAFe",
