@@ -5,9 +5,9 @@
   "version": {
     "major": 3,
     "minor": 10,
-    "patch": 0
+    "patch": 1
   },
-  "timestamp": "2022-12-09T12:00:00+00:00",
+  "timestamp": "2022-12-14T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 296,
@@ -373,7 +373,7 @@
       "chainId": 43114,
       "address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
       "decimals": 18,
-      "name": "DeFiYieldProtocol",
+      "name": "Dypius",
       "symbol": "DYP",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo_24.png"
     },
