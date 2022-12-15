@@ -4,11 +4,19 @@
   "keywords": [],
   "version": {
     "major": 3,
-    "minor": 10,
+    "minor": 11,
     "patch": 1
   },
-  "timestamp": "2022-12-14T12:00:00+00:00",
+  "timestamp": "2022-12-15T12:00:00+00:00",
   "tokens": [
+    {
+      "chainId": 114,
+      "address": "0x6169CD307Be7E24152dF23a7A945A1ea3eC7b438",
+      "decimals": 18,
+      "name": "Pangolin Coston2",
+      "symbol": "PCT2",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/114/0x6169CD307Be7E24152dF23a7A945A1ea3eC7b438/logo_24.png"
+    },
     {
       "chainId": 296,
       "address": "0x0000000000000000000000000000000002DfA5b2",
