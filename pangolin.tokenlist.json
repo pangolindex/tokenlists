@@ -4,11 +4,19 @@
   "keywords": [],
   "version": {
     "major": 3,
-    "minor": 11,
+    "minor": 12,
     "patch": 1
   },
-  "timestamp": "2022-12-15T12:00:00+00:00",
+  "timestamp": "2022-12-21T12:00:00+00:00",
   "tokens": [
+    {
+      "chainId": 9000,
+      "address": "0x171a6A80cdDDd8f69134ff0471523400f2C16ABe",
+      "decimals": 18,
+      "name": "Pangolin Evmos",
+      "symbol": "evmPNG",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9000/0x171a6A80cdDDd8f69134ff0471523400f2C16ABe/logo_24.png"
+    },
     {
       "chainId": 114,
       "address": "0x6169CD307Be7E24152dF23a7A945A1ea3eC7b438",
