@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 3,
-    "minor": 12,
-    "patch": 1
+    "minor": 13,
+    "patch": 0
   },
-  "timestamp": "2022-12-21T12:00:00+00:00",
+  "timestamp": "2022-12-22T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 9000,
@@ -1560,6 +1560,14 @@
       "name": "LODE Token",
       "symbol": "LODE",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xbBAAA0420D474B34Be197f95A323C2fF3829E811/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xE397784960F814BA35C9Ee0BC4c9DFFdf86925f9",
+      "decimals": 18,
+      "name": "MSTR Token",
+      "symbol": "MSTR",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xE397784960F814BA35C9Ee0BC4c9DFFdf86925f9/logo_24.png"
     },
     {
       "chainId": 80001,
