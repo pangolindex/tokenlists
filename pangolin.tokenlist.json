@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 3,
-    "minor": 13,
+    "minor": 14,
     "patch": 0
   },
-  "timestamp": "2022-12-22T12:00:00+00:00",
+  "timestamp": "2023-01-03T10:42:00+00:00",
   "tokens": [
     {
       "chainId": 9000,
@@ -1576,6 +1576,30 @@
       "name": "Pangolin",
       "symbol": "mumbaiPNG",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/80001/0x4828a3D98E428e73184374845f23C40eB76bA695/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xD22dF86b096728caeeB8229FbcA8B29713f5c35a",
+      "decimals": 0,
+      "name": "Retok France",
+      "symbol": "RTKFR",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xD22dF86b096728caeeB8229FbcA8B29713f5c35a/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x3CF2F41d45758DfAa3852981c2D288557CDA7c42",
+      "decimals": 0,
+      "name": "Retok Switzerland",
+      "symbol": "RTKCH",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x3CF2F41d45758DfAa3852981c2D288557CDA7c42/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xD317a6213504B02a9a3c4c7A2e443449b5F457DA",
+      "decimals": 0,
+      "name": "Retok Israel",
+      "symbol": "RTKIL",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xD317a6213504B02a9a3c4c7A2e443449b5F457DA/logo_24.png"
     }
   ]
 }
