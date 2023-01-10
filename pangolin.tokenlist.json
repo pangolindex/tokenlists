@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 3,
-    "minor": 13,
+    "minor": 14,
     "patch": 0
   },
-  "timestamp": "2022-12-22T12:00:00+00:00",
+  "timestamp": "2023-01-10T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 9000,
@@ -184,6 +184,22 @@
       "name": "Infinty Token",
       "symbol": "INFT",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0xd46bd7A5EBE52199BD6f0EfD59a1d7CeF7f35eae/logo_24.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d",
+      "decimals": 18,
+      "name": "Wrapped Flare",
+      "symbol": "WFLR",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d/logo_24.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0xB5010D5Eb31AA8776b52C7394B76D6d627501C73",
+      "decimals": 18,
+      "name": "Pangolin Flare",
+      "symbol": "PFL",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0xB5010D5Eb31AA8776b52C7394B76D6d627501C73/logo_24.png"
     },
     {
       "chainId": 11111,
