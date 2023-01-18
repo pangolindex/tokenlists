@@ -3,11 +3,11 @@
   "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png",
   "keywords": [],
   "version": {
-    "major": 3,
-    "minor": 14,
+    "major": 4,
+    "minor": 0,
     "patch": 0
   },
-  "timestamp": "2023-01-10T12:00:00+00:00",
+  "timestamp": "2023-01-17T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 9000,
@@ -635,11 +635,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0x6C6f910A79639dcC94b4feEF59Ff507c2E843929",
+      "address": "0xc3344870d52688874b06d844E0C36cc39FC727F6",
       "decimals": 18,
-      "name": "Ankr Avalanche Reward Earning Bond",
-      "symbol": "aAVAXb",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo_24.png"
+      "name": "Ankr Staked Avax",
+      "symbol": "ankrAVAX",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xc3344870d52688874b06d844E0C36cc39FC727F6/logo_24.png"
     },
     {
       "chainId": 43114,
