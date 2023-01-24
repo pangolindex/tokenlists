@@ -4,11 +4,51 @@
   "keywords": [],
   "version": {
     "major": 6,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
-  "timestamp": "2023-01-24T14:00:00+00:00",
+  "timestamp": "2023-01-24T15:00:00+00:00",
   "tokens": [
+    {
+      "chainId": 295,
+      "address": "0x00000000000000000000000000000000000cbA44",
+      "decimals": 8,
+      "name": "HBARX",
+      "symbol": "HBARX",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/295/0x00000000000000000000000000000000000cbA44/logo_24.png"
+    },
+    {
+      "chainId": 295,
+      "address": "0x00000000000000000000000000000000001a88b2",
+      "decimals": 8,
+      "name": "Pangolin Hedera",
+      "symbol": "PBAR",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/295/0x00000000000000000000000000000000001a88b2/logo_24.png"
+    },
+    {
+      "chainId": 295,
+      "address": "0x00000000000000000000000000000000001A8837",
+      "decimals": 8,
+      "name": "Wrapped HBAR",
+      "symbol": "WHBAR",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/295/0x00000000000000000000000000000000001A8837/logo_24.png"
+    },
+    {
+      "chainId": 295,
+      "address": "0x0000000000000000000000000000000000101Ae3",
+      "decimals": 8,
+      "name": "USD Coin",
+      "symbol": "USDC.hts",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/295/0x0000000000000000000000000000000000101Ae3/logo_24.png"
+    },
+    {
+      "chainId": 295,
+      "address": "0x0000000000000000000000000000000000101aF0",
+      "decimals": 8,
+      "name": "Tether USD",
+      "symbol": "USDT.hts",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/295/0x0000000000000000000000000000000000101aF0/logo_24.png"
+    },
     {
       "chainId": 9000,
       "address": "0x171a6A80cdDDd8f69134ff0471523400f2C16ABe",
