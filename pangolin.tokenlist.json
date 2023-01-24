@@ -3,11 +3,11 @@
   "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png",
   "keywords": [],
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2023-01-17T12:00:00+00:00",
+  "timestamp": "2023-01-24T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 9000,
@@ -27,11 +27,11 @@
     },
     {
       "chainId": 296,
-      "address": "0x0000000000000000000000000000000002DfA5b2",
+      "address": "0x0000000000000000000000000000000002F1c1a2",
       "decimals": 8,
       "name": "Wrapped Hedera",
       "symbol": "WHBAR",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x0000000000000000000000000000000002DfA5b2/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x0000000000000000000000000000000002F1c1a2/logo_24.png"
     },
     {
       "chainId": 296,
@@ -43,11 +43,11 @@
     },
     {
       "chainId": 296,
-      "address": "0x0000000000000000000000000000000002Db0600",
+      "address": "0x0000000000000000000000000000000002f1C1a7",
       "decimals": 8,
       "name": "Pangolin Hedera",
       "symbol": "PBAR",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x0000000000000000000000000000000002Db0600/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x0000000000000000000000000000000002f1C1a7/logo_24.png"
     },
     {
       "chainId": 296,
