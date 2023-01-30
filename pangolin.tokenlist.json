@@ -36,7 +36,7 @@
     {
       "chainId": 295,
       "address": "0x0000000000000000000000000000000000101Ae3",
-      "decimals": 8,
+      "decimals": 6,
       "name": "USD Coin",
       "symbol": "USDC.hts",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/295/0x0000000000000000000000000000000000101Ae3/logo_24.png"
@@ -44,7 +44,7 @@
     {
       "chainId": 295,
       "address": "0x0000000000000000000000000000000000101aF0",
-      "decimals": 8,
+      "decimals": 6,
       "name": "Tether USD",
       "symbol": "USDT.hts",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/295/0x0000000000000000000000000000000000101aF0/logo_24.png"
