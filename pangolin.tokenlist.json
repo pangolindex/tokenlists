@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 7,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
-  "timestamp": "2023-01-29T12:00:00+00:00",
+  "timestamp": "2023-01-30T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 295,
@@ -48,6 +48,14 @@
       "name": "Tether USD",
       "symbol": "USDT.hts",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/295/0x0000000000000000000000000000000000101aF0/logo_24.png"
+    },
+    {
+      "chainId": 295,
+      "address": "0x00000000000000000000000000000000000D1ea6",
+      "decimals": 6,
+      "name": "Calaxy",
+      "symbol": "CLXY",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/295/0x00000000000000000000000000000000000D1ea6/logo_24.png"
     },
     {
       "chainId": 9000,
