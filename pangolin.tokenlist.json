@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 7,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
-  "timestamp": "2023-01-30T12:00:00+00:00",
+  "timestamp": "2023-02-08T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 295,
@@ -248,6 +248,14 @@
       "name": "Pangolin Flare",
       "symbol": "PFL",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0xB5010D5Eb31AA8776b52C7394B76D6d627501C73/logo_24.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0xfd2a0fD402828fDB86F9a9D5a760242AD7526cC0",
+      "decimals": 18,
+      "name": "SparkS",
+      "symbol": "SPRK",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0xfd2a0fD402828fDB86F9a9D5a760242AD7526cC0/logo_24.png"
     },
     {
       "chainId": 11111,
