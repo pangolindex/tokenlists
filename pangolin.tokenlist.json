@@ -249,6 +249,7 @@
       "symbol": "PFL",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0xB5010D5Eb31AA8776b52C7394B76D6d627501C73/logo_24.png"
     },
+    {
       "chainId": 14,
       "address": "0xfd2a0fD402828fDB86F9a9D5a760242AD7526cC0",
       "decimals": 18,
