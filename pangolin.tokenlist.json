@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 7,
-    "minor": 2,
-    "patch": 2
+    "minor": 3,
+    "patch": 0
   },
-  "timestamp": "2023-02-09T17:00:00+00:00",
+  "timestamp": "2023-02-10T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 295,
@@ -232,6 +232,14 @@
       "name": "Infinty Token",
       "symbol": "INFT",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0xd46bd7A5EBE52199BD6f0EfD59a1d7CeF7f35eae/logo_24.png"
+    },
+    {
+      "chainId": 19,
+      "address": "0xb1D60fA6FABd9A2Ad89960d070350552E47fb0D6",
+      "decimals": 18,
+      "name": "LoveTokenV2",
+      "symbol": "CARE",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0xb1D60fA6FABd9A2Ad89960d070350552E47fb0D6/logo_24.png"
     },
     {
       "chainId": 14,
