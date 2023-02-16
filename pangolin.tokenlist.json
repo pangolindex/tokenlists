@@ -3,11 +3,11 @@
   "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png",
   "keywords": [],
   "version": {
-    "major": 7,
-    "minor": 4,
+    "major": 8,
+    "minor": 0,
     "patch": 0
   },
-  "timestamp": "2023-02-15T12:00:00+00:00",
+  "timestamp": "2023-02-16T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 295,
@@ -56,14 +56,6 @@
       "name": "Calaxy",
       "symbol": "CLXY",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/295/0x00000000000000000000000000000000000D1ea6/logo_24.png"
-    },
-    {
-      "chainId": 295,
-      "address": "0x00000000000000000000000000000000001d7D98",
-      "decimals": 8,
-      "name": "Super Farm Test Token",
-      "symbol": "TestSF",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/295/0x00000000000000000000000000000000001d7D98/logo_24.png"
     },
     {
       "chainId": 9000,
