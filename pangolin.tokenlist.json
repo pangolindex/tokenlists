@@ -4,11 +4,35 @@
   "keywords": [],
   "version": {
     "major": 8,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
-  "timestamp": "2023-02-16T12:00:00+00:00",
+  "timestamp": "2023-02-22T12:00:00+00:00",
   "tokens": [
+    {
+      "chainId": 9001,
+      "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
+      "decimals": 18,
+      "name": "Wrapped Evmos",
+      "symbol": "WEVMOS",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9001/0xD4949664cD82660AaE99bEdc034a0deA8A0bd517/logo_24.png"
+    },
+    {
+      "chainId": 9001,
+      "address": "0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6",
+      "decimals": 6,
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9001/0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6/logo_24.png"
+    },
+    {
+      "chainId": 9001,
+      "address": "0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57",
+      "decimals": 6,
+      "name": "Axelar USDC",
+      "symbol": "axlUSDC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9001/0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57/logo_24.png"
+    },
     {
       "chainId": 295,
       "address": "0x00000000000000000000000000000000000cbA44",
