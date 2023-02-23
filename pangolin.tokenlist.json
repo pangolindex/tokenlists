@@ -11,6 +11,22 @@
   "tokens": [
     {
       "chainId": 9001,
+      "address": "0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864",
+      "decimals": 18,
+      "name": "Osmosis",
+      "symbol": "Osmo",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9001/0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864/logo_24.png"
+    },
+    {
+      "chainId": 9001,
+      "address": "0x2C68D1d6aB986Ff4640b51e1F14C716a076E44C4",
+      "decimals": 18,
+      "name": "Stride Staked Evmos",
+      "symbol": "stEVMOS",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9001/0x2C68D1d6aB986Ff4640b51e1F14C716a076E44C4/logo_24.png"
+    },
+    {
+      "chainId": 9001,
       "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
       "decimals": 18,
       "name": "Wrapped Evmos",
