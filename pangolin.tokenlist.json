@@ -12,7 +12,7 @@
     {
       "chainId": 9001,
       "address": "0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864",
-      "decimals": 18,
+      "decimals": 6,
       "name": "Osmosis",
       "symbol": "Osmo",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9001/0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864/logo_24.png"
