@@ -4,10 +4,11 @@
   "keywords": [],
   "version": {
     "major": 8,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
-  "timestamp": "2023-02-24T12:00:00+00:00",
+  "timestamp": "2023-03-09T23:45:07+00:00",
+  
   "tokens": [
     {
       "chainId": 9001,
@@ -296,6 +297,14 @@
       "name": "Pangolin Flare",
       "symbol": "PFL",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0xB5010D5Eb31AA8776b52C7394B76D6d627501C73/logo_24.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0xB56718d45cFfC7ca9D6b8B9e631F0657b971043F",
+      "decimals": 18,
+      "name": "Gemin Flare",
+      "symbol": "GEMIN",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0xB56718d45cFfC7ca9D6b8B9e631F0657b971043F/logo_24.png"
     },
     {
       "chainId": 19,
