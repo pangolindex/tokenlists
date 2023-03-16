@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 8,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
-  "timestamp": "2023-02-24T12:00:00+00:00",
+  "timestamp": "2023-03-16T02:15:00+00:00",
   "tokens": [
     {
       "chainId": 9001,
@@ -281,6 +281,14 @@
       "symbol": "CARE",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0xb1D60fA6FABd9A2Ad89960d070350552E47fb0D6/logo_24.png"
     },
+    {
+      "chainId": 19,
+      "address": "0x61b64c643fCCd6ff34Fc58C8ddff4579A89E2723",
+      "decimals": 18,
+      "name": "Astral Credits",
+      "symbol": "XAC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/assets/19/0x61b64c643fCCd6ff34Fc58C8ddff4579A89E2723/logo_24.png"
+    }
     {
       "chainId": 14,
       "address": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d",
