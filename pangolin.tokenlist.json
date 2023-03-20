@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": ["near"],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   },
@@ -100,7 +100,7 @@
       "chainId": 296,
       "address": "0x0000000000000000000000000000000000000744",
       "decimals": 8,
-      "name": "Pangolin Hedera",
+      "name": "Pangolin Hedera1",
       "symbol": "PBAR",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x0000000000000000000000000000000002Db0600/logo_48.png"
     },
