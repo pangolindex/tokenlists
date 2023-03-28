@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 8,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
-  "timestamp": "2023-02-28T12:00:00+00:00",
+  "timestamp": "2023-02-28T13:00:00+00:00",
   "tokens": [
     {
       "chainId": 9001,
@@ -96,6 +96,14 @@
       "name": "Calaxy",
       "symbol": "CLXY",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/295/0x00000000000000000000000000000000000D1ea6/logo_24.png"
+    },
+    {
+      "chainId": 295,
+      "address": "0x000000000000000000000000000000000011afa2",
+      "decimals": 8,
+      "name": "GRELF",
+      "symbol": "GRELF",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/295/0x000000000000000000000000000000000011afa2/logo_24.png"
     },
     {
       "chainId": 9000,
