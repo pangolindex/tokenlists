@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 8,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
-  "timestamp": "2023-02-30T12:00:00+00:00",
+  "timestamp": "2023-04-14T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 9001,
@@ -320,6 +320,14 @@
       "name": "Pangolin Flare",
       "symbol": "PFL",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0xB5010D5Eb31AA8776b52C7394B76D6d627501C73/logo_24.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0x1aa5282692398c078e71Fb3e4A85660d1BF8F586",
+      "decimals": 18,
+      "name": "Bunny Token",
+      "symbol": "BUNNY",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0x1aa5282692398c078e71Fb3e4A85660d1BF8F586/logo_24.png"
     },
     {
       "chainId": 19,
