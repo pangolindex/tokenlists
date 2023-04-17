@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 8,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
-  "timestamp": "2023-04-14T12:00:00+00:00",
+  "timestamp": "2023-04-17T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 9001,
@@ -304,6 +304,14 @@
       "name": "Astral Credits",
       "symbol": "XAC",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/assets/19/0x61b64c643fCCd6ff34Fc58C8ddff4579A89E2723/logo_24.png"
+    },
+    {
+      "chainId": 19,
+      "address": "0x0D36197eCFd7332E9E006F5c89b5b4b69091CDff",
+      "decimals": 18,
+      "name": "Beast Token",
+      "symbol": "BEAST",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/assets/19/0x0D36197eCFd7332E9E006F5c89b5b4b69091CDff/logo_24.png"
     },
     {
       "chainId": 14,
