@@ -303,7 +303,7 @@
       "decimals": 18,
       "name": "Astral Credits",
       "symbol": "XAC",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/assets/19/0x61b64c643fCCd6ff34Fc58C8ddff4579A89E2723/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x61b64c643fCCd6ff34Fc58C8ddff4579A89E2723/logo_24.png"
     },
     {
       "chainId": 19,
@@ -311,7 +311,7 @@
       "decimals": 18,
       "name": "Beast Token",
       "symbol": "BEAST",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/assets/19/0x0D36197eCFd7332E9E006F5c89b5b4b69091CDff/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x0D36197eCFd7332E9E006F5c89b5b4b69091CDff/logo_24.png"
     },
     {
       "chainId": 14,
