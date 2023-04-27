@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 8,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
-  "timestamp": "2023-04-17T12:00:00+00:00",
+  "timestamp": "2023-04-26T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 9001,
@@ -112,6 +112,14 @@
       "name": "HeadStarter",
       "symbol": "HST",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/295/0x00000000000000000000000000000000000Ec585/logo_24.png"
+    },
+    {
+      "chainId": 295,
+      "address": "0x000000000000000000000000000000000016544f",
+      "decimals": 8,
+      "name": "Stader",
+      "symbol": "SD",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/295/0x000000000000000000000000000000000016544f/logo_24.png"
     },
     {
       "chainId": 9000,
