@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 8,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
-  "timestamp": "2023-04-17T12:00:00+00:00",
+  "timestamp": "2023-05-04T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 9001,
@@ -1728,6 +1728,14 @@
       "name": "MSTR Token",
       "symbol": "MSTR",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xE397784960F814BA35C9Ee0BC4c9DFFdf86925f9/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x945cA41D03ec19B6a6EBf2eF0F4D0A50B23E4f2c",
+      "decimals": 8,
+      "name": "Grelf Token",
+      "symbol": "GRELF",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x945cA41D03ec19B6a6EBf2eF0F4D0A50B23E4f2c/logo_24.png"
     },
     {
       "chainId": 80001,
