@@ -3,11 +3,11 @@
   "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png",
   "keywords": [],
   "version": {
-    "major": 8,
-    "minor": 8,
+    "major": 9,
+    "minor": 0,
     "patch": 0
   },
-  "timestamp": "2023-05-04T12:00:00+00:00",
+  "timestamp": "2023-05-05T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 9001,
@@ -131,27 +131,27 @@
     },
     {
       "chainId": 296,
-      "address": "0x000000000000000000000000000000000000073D",
+      "address": "0x000000000000000000000000000000000040B1f0",
       "decimals": 8,
       "name": "Wrapped Hedera",
       "symbol": "WHBAR",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x000000000000000000000000000000000000073D/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x000000000000000000000000000000000040B1f0/logo_24.png"
     },
     {
       "chainId": 296,
-      "address": "0x0000000000000000000000000000000002D9E4F8",
+      "address": "0x000000000000000000000000000000000045D5E2",
       "decimals": 6,
       "name": "USDC",
       "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x0000000000000000000000000000000002D9E4F8/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x000000000000000000000000000000000045D5E2/logo_24.png"
     },
     {
       "chainId": 296,
-      "address": "0x0000000000000000000000000000000000000744",
+      "address": "0x000000000000000000000000000000000040B1FA",
       "decimals": 8,
       "name": "Pangolin Hedera",
       "symbol": "PBAR",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x0000000000000000000000000000000000000744/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x000000000000000000000000000000000040B1FA/logo_24.png"
     },
     {
       "chainId": 296,
