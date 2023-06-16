@@ -4,11 +4,43 @@
   "keywords": [],
   "version": {
     "major": 9,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
-  "timestamp": "2023-05-05T12:00:00+00:00",
+  "timestamp": "2023-06-16T12:00:00+00:00",
   "tokens": [
+    {
+      "chainId": 1351057110,
+      "address": "0x03608815608367D21784F0aD5C77aBa78b88cC17",
+      "decimals": 18,
+      "name": "Token-1",
+      "symbol": "TOKEN-1",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/1351057110/0x03608815608367D21784F0aD5C77aBa78b88cC17/logo_24.png"
+    },
+    {
+      "chainId": 1351057110,
+      "address": "0x53c50Ec6C485a3673a0d330Bd26213ade9618E58",
+      "decimals": 18,
+      "name": "Token-2",
+      "symbol": "TOKEN-2",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/1351057110/0x53c50Ec6C485a3673a0d330Bd26213ade9618E58/logo_24.png"
+    },
+    {
+      "chainId": 1351057110,
+      "address": "0x8F8182a967FbBa7bE3B1e51f74893008fdCf3EB4",
+      "decimals": 18,
+      "name": "Token-3",
+      "symbol": "TOKEN-3",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/1351057110/0x8F8182a967FbBa7bE3B1e51f74893008fdCf3EB4/logo_24.png"
+    },
+    {
+      "chainId": 1351057110,
+      "address": "0X4CBEC9728A6Bc806B5B2FD9E65892D51E6805611",
+      "decimals": 18,
+      "name": "Wrapped Skale",
+      "symbol": "WSKL",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/1351057110/0X4CBEC9728A6Bc806B5B2FD9E65892D51E6805611/logo_24.png"
+    },
     {
       "chainId": 9001,
       "address": "0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864",
