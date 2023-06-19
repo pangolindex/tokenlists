@@ -37,8 +37,8 @@
       "chainId": 1351057110,
       "address": "0X4CBEC9728A6Bc806B5B2FD9E65892D51E6805611",
       "decimals": 18,
-      "name": "Wrapped Skale",
-      "symbol": "WSKL",
+      "name": "Wrapped sFUEL",
+      "symbol": "WsFUEL",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/1351057110/0X4CBEC9728A6Bc806B5B2FD9E65892D51E6805611/logo_24.png"
     },
     {
