@@ -35,7 +35,7 @@
     },
     {
       "chainId": 1351057110,
-      "address": "0X4CBEC9728A6Bc806B5B2FD9E65892D51E6805611",
+      "address": "0x4CBEC9728A6Bc806B5B2FD9E65892D51E6805611",
       "decimals": 18,
       "name": "Wrapped sFUEL",
       "symbol": "WsFUEL",
