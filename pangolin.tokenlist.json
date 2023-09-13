@@ -851,11 +851,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
+      "address": "0x3Ab1C9aDb065F3FcA0059652Cd7A52B05C98f9a9",
       "decimals": 18,
       "name": "Orbs",
       "symbol": "ORBS",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x3Ab1C9aDb065F3FcA0059652Cd7A52B05C98f9a9/logo_24.png"
     },
     {
       "chainId": 43114,
