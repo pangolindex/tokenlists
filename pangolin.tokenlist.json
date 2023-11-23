@@ -1768,6 +1768,14 @@
       "name": "Pangolin",
       "symbol": "mumbaiPNG",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/80001/0x4828a3D98E428e73184374845f23C40eB76bA695/logo_24.png"
+    },
+    {
+      "chainId": 295,
+      "address": "0x00000000000000000000000000000000003c9670",
+      "decimals": 3,
+      "name": "Retriever",
+      "symbol": "RDoge",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/295/0x00000000000000000000000000000000003c9670/logo_24.png"
     }
   ]
 }
