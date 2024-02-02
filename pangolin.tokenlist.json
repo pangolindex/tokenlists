@@ -1784,6 +1784,14 @@
       "name": "Gas Is Cheap",
       "symbol": "GAS",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x8f939D5052AfD7515F92a8C93EC4c09fBfeEBb91/logo_24.png"
-    }
+    },
+	{
+	  "chainId": 43114,
+	  "address": "0xA2CDe628d7617956EAF4780e32F68DF19cc13D62",
+	  "decimals": 18,
+	  "name": "Subava",
+	  "symbol": "SUBAVA",
+	  "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xA2CDe628d7617956EAF4780e32F68DF19cc13D62/logo_24.png"
+	}
   ]
 }
