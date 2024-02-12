@@ -3,11 +3,11 @@
   "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png",
   "keywords": [],
   "version": {
-    "major": 11,
+    "major": 12,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2023-08-08T13:00:00+00:00",
+  "timestamp": "2024-02-11T19:15:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -163,27 +163,27 @@
     },
     {
       "chainId": 296,
-      "address": "0x000000000000000000000000000000000002690a",
+      "address": "0x0000000000000000000000000000000000289a91",
       "decimals": 8,
       "name": "Wrapped Hedera",
       "symbol": "WHBAR",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x000000000000000000000000000000000002690a/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x0000000000000000000000000000000000289a91/logo_24.png"
     },
     {
       "chainId": 296,
-      "address": "0x00000000000000000000000000000000000274a3",
+      "address": "0x00000000000000000000000000000000002a69a8",
       "decimals": 6,
       "name": "USDC",
       "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x00000000000000000000000000000000000274a3/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x00000000000000000000000000000000002a69a8/logo_24.png"
     },
     {
       "chainId": 296,
-      "address": "0x0000000000000000000000000000000000070293",
+      "address": "0x0000000000000000000000000000000000289a96",
       "decimals": 8,
       "name": "Pangolin Hedera",
       "symbol": "PBAR",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x0000000000000000000000000000000000070293/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x0000000000000000000000000000000000289a96/logo_24.png"
     },
     {
       "chainId": 16,
