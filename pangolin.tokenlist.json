@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
-  "timestamp": "2024-02-11T19:15:00+00:00",
+  "timestamp": "2024-03-23T16:17:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -1792,6 +1792,14 @@
       "name": "Subava",
       "symbol": "SUBAVA",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xA2CDe628d7617956EAF4780e32F68DF19cc13D62/logo_24.png"
-     }
+     },
+    {
+      "chainId": 43114,
+      "address": "0x89A8633bcaD3af0951acC5137811ea21a17C37DC",
+      "decimals": 18,
+      "name": "LAMA",
+      "symbol": "LAMA",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x89A8633bcaD3af0951acC5137811ea21a17C37DC/logo_24.png"
+    },
   ]
 }
