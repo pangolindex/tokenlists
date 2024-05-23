@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
-  "timestamp": "2024-03-23T16:17:00+00:00",
+  "timestamp": "2024-05-25T12:12:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -1801,5 +1801,13 @@
       "symbol": "LAMA",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x89A8633bcaD3af0951acC5137811ea21a17C37DC/logo_24.png"
     },
+    {
+      "chainId": 43114,
+      "address": "0x45CdaF3Fd17BD31d9830Fa977159162DD2431683",
+      "decimals": 18,
+      "name": "KIOO",
+      "symbol": "KIOO",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x45CdaF3Fd17BD31d9830Fa977159162DD2431683/logo_24.png"
+    }
   ]
 }
