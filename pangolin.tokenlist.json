@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
-  "timestamp": "2024-03-23T16:17:00+00:00",
+  "timestamp": "2024-06-03T16:17:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -1800,6 +1800,14 @@
       "name": "LAMA",
       "symbol": "LAMA",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x89A8633bcaD3af0951acC5137811ea21a17C37DC/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5",
+      "decimals": 18,
+      "name": "AVAX HAS NO CHILL",
+      "symbol": "NOCHILL",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5/logo_24.png"
     },
   ]
 }
