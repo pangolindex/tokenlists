@@ -1859,11 +1859,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
+      "address": "0x694200a68B18232916353250955bE220e88c5cBB",
       "decimals": 18,
       "name": "Kovin Segnocchi",
       "symbol": "KOVIN",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x694200a68B18232916353250955bE220e88c5cBB/logo_24.png"
     },
     {
       "chainId": 43114,
