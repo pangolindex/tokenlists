@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
-  "timestamp": "2024-06-03T16:17:00+00:00",
+  "timestamp": "2024-06-02T14:17:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -1808,6 +1808,14 @@
       "name": "AVAX HAS NO CHILL",
       "symbol": "NOCHILL",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4D6Ec47118f807ACE03d3B3A4EE6AA96CB2AB677",
+      "decimals": 18,
+      "name": "BONEZ",
+      "symbol": "BNZ",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x4D6Ec47118f807ACE03d3B3A4EE6AA96CB2AB677/logo_24.png"
     }
   ]
 }
