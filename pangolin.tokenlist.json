@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
-  "timestamp": "2024-06-03T16:17:00+00:00",
+  "timestamp": "2024-06-12T16:17:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -1808,6 +1808,70 @@
       "name": "AVAX HAS NO CHILL",
       "symbol": "NOCHILL",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+      "decimals": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC.b",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4D6Ec47118f807ACE03d3B3A4EE6AA96CB2AB677",
+      "decimals": 18,
+      "name": "MadSkullz: Bonez Token",
+      "symbol": "BNZ",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x4D6Ec47118f807ACE03d3B3A4EE6AA96CB2AB677/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4F94b8AEF08c92fEfe416af073F1Df1E284438EC",
+      "decimals": 18,
+      "name": "Landwolf",
+      "symbol": "WOLF",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x4F94b8AEF08c92fEfe416af073F1Df1E284438EC/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+      "decimals": 18,
+      "name": "TECH",
+      "symbol": "TECH",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8aD25B0083C9879942A64f00F20a70D3278f6187",
+      "decimals": 18,
+      "name": "Meow Cat",
+      "symbol": "MEOW",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x8aD25B0083C9879942A64f00F20a70D3278f6187/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
+      "decimals": 18,
+      "name": "KIMBO Token",
+      "symbol": "KIMBO",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
+      "decimals": 18,
+      "name": "Kovin Segnocchi",
+      "symbol": "KOVIN",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xE8385CECb013561b69bEb63FF59f4d10734881f3",
+      "decimals": 18,
+      "name": "Gecko Inu: GEC Token",
+      "symbol": "GEC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xE8385CECb013561b69bEb63FF59f4d10734881f3/logo_24.png"
     }
   ]
 }
