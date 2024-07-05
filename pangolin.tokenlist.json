@@ -1845,7 +1845,7 @@
       "chainId": 43114,
       "address": "0x8aD25B0083C9879942A64f00F20a70D3278f6187",
       "decimals": 18,
-      "name": "Meow Cat",
+      "name": "MeowCat",
       "symbol": "MEOW",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x8aD25B0083C9879942A64f00F20a70D3278f6187/logo_24.png"
     },
