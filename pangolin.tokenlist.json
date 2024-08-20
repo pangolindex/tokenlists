@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
-  "timestamp": "2024-06-12T16:17:00+00:00",
+  "timestamp": "2024-08-20T19:05:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -1872,6 +1872,14 @@
       "name": "Gecko Inu: GEC Token",
       "symbol": "GEC",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xE8385CECb013561b69bEb63FF59f4d10734881f3/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4Afc7838167b77530278483c3d8c1fFe698a912E",
+      "decimals": 18,
+      "name": "Balln Chikn",
+      "symbol": "Balln",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x4Afc7838167b77530278483c3d8c1fFe698a912E/logo_24.png"
     }
   ]
 }
