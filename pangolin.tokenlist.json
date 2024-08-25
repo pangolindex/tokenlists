@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
-  "timestamp": "2024-08-20T19:05:00+00:00",
+  "timestamp": "2024-08-25T13:10:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -1880,6 +1880,14 @@
       "name": "Balln Chikn",
       "symbol": "Balln",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x4Afc7838167b77530278483c3d8c1fFe698a912E/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x13B1f0579bc895B2ffb835F295FD9b63fEF36dA0",
+      "decimals": 18,
+      "name": "B4FWX",
+      "symbol": "B4FWX",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x13B1f0579bc895B2ffb835F295FD9b63fEF36dA0/logo_24.png"
     }
   ]
 }
