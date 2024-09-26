@@ -1889,5 +1889,13 @@
       "symbol": "B4FWX",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x13B1f0579bc895B2ffb835F295FD9b63fEF36dA0/logo_24.png"
     }
+    {
+      "chainId": 43114,
+      "address": "0x4828a3D98E428e73184374845f23C40eB76bA695",
+      "decimals": 6,
+      "name": "USD+",
+      "symbol": "USD+",
+      "logoURI": "https://2173993027-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9HhCCgYexXiRot0OWAJY%2Fuploads%2FHCzDW3p9ZkqGuC42prEh%2FUSD%2B_NEW.png?alt=media&token=5700174c-1ad1-4726-bc9f-94abe8dac1d2"
+    }
   ]
 }
