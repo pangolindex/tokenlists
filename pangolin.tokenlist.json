@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
-  "timestamp": "2024-08-25T13:10:00+00:00",
+  "timestamp": "2024-11-03T13:10:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -1888,6 +1888,14 @@
       "name": "B4FWX",
       "symbol": "B4FWX",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x13B1f0579bc895B2ffb835F295FD9b63fEF36dA0/logo_24.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xB8d7710f7d8349A506b75dD184F05777c82dAd0C",
+      "decimals": 18,
+      "name": "Arena Token",
+      "symbol": "ARENA",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xB8d7710f7d8349A506b75dD184F05777c82dAd0C/logo_24.png"
     }
   ]
 }
