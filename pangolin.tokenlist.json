@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
-  "timestamp": "2024-11-03T13:10:00+00:00",
+  "timestamp": "2025-01-31T22:15:32.188Z",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2059,14 +2059,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0xE70EFb1ff1C0b63FDF84B5EA319693cf804914A8",
-      "decimals": 18,
-      "name": "VesperToken",
-      "symbol": "VSP",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xE70EFb1ff1C0b63FDF84B5EA319693cf804914A8/logo_48.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0xa77e70d0Af1Ac7fF86726740dB1Bd065c3566937",
       "decimals": 18,
       "name": "PLAYA3ULL GAMES",
@@ -2112,6 +2104,14 @@
       "name": "DeltaPrime",
       "symbol": "PRIME",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x33C8036E99082B0C395374832FECF70c42C7F298/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xEDf647326007E64d94B0Ee69743350F3736E392C",
+      "decimals": 18,
+      "name": "Funtico",
+      "symbol": "TICO",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xEDf647326007E64d94B0Ee69743350F3736E392C/logo_48.png"
     }
   ]
 }
