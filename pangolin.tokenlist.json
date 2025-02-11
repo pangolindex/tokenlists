@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
-  "timestamp": "2024-11-03T13:10:00+00:00",
+  "timestamp": "2025-01-31T22:15:32.188Z",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -1775,7 +1775,7 @@
       "decimals": 18,
       "name": "COQINU",
       "symbol": "COQ",
-      "logoURI":"https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x420FcA0121DC28039145009570975747295f2329/logo_48.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x420FcA0121DC28039145009570975747295f2329/logo_48.png"
     },
     {
       "chainId": 43114,
@@ -1792,7 +1792,7 @@
       "name": "Subava",
       "symbol": "SUBAVA",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xA2CDe628d7617956EAF4780e32F68DF19cc13D62/logo_48.png"
-     },
+    },
     {
       "chainId": 43114,
       "address": "0x89A8633bcaD3af0951acC5137811ea21a17C37DC",
@@ -1896,6 +1896,222 @@
       "name": "Arena Token",
       "symbol": "ARENA",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xB8d7710f7d8349A506b75dD184F05777c82dAd0C/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x79Ea4E536f598dCd67C76Ee3829f84AB9E72A558",
+      "decimals": 18,
+      "name": "ai9000",
+      "symbol": "AI9000",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x79Ea4E536f598dCd67C76Ee3829f84AB9E72A558/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7",
+      "decimals": 18,
+      "name": "Ket",
+      "symbol": "KET",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xE7d69acbc00D0EC5d9c02162310EE21DAA77f69C",
+      "decimals": 18,
+      "name": "COQ AI",
+      "symbol": "COQAI",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xE7d69acbc00D0EC5d9c02162310EE21DAA77f69C/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xC654721fBf1F374fd9FfA3385Bba2F4932A6af55",
+      "decimals": 18,
+      "name": "JUICY",
+      "symbol": "JUICY",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xC654721fBf1F374fd9FfA3385Bba2F4932A6af55/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2d0aFed89a6D6A100273Db377dBA7a32C739E314",
+      "decimals": 18,
+      "name": "BIG",
+      "symbol": "BIG",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x2d0aFed89a6D6A100273Db377dBA7a32C739E314/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d",
+      "decimals": 18,
+      "name": "GoGoPool",
+      "symbol": "GGP",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
+      "decimals": 18,
+      "name": "GoGoPool ggAVAX",
+      "symbol": "GGAVAX",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xAAAB9D12A30504559b0C5a9A5977fEE4A6081c6b",
+      "decimals": 18,
+      "name": "Pharaoh",
+      "symbol": "PHAR",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xAAAB9D12A30504559b0C5a9A5977fEE4A6081c6b/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674",
+      "decimals": 18,
+      "name": "SteakHut Finance",
+      "symbol": "STEAK",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+      "decimals": 18,
+      "name": "Stargate Finance",
+      "symbol": "STG",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x093783055F9047C2BfF99c4e414501F8A147bC69",
+      "decimals": 18,
+      "name": "Dexalot",
+      "symbol": "ALOT",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x093783055F9047C2BfF99c4e414501F8A147bC69/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+      "decimals": 18,
+      "name": "GMX",
+      "symbol": "GMX",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x62edc0692BD897D2295872a9FFCac5425011c661/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
+      "decimals": 18,
+      "name": "Beam",
+      "symbol": "BEAM",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xd402298a793948698b9a63311404FBBEe944eAfD",
+      "decimals": 18,
+      "name": "Shrapnel",
+      "symbol": "SHRAP",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xd402298a793948698b9a63311404FBBEe944eAfD/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
+      "decimals": 18,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x88128fd4b259552A9A1D457f435a6527AAb72d42",
+      "decimals": 18,
+      "name": "Maker",
+      "symbol": "MKR",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x88128fd4b259552A9A1D457f435a6527AAb72d42/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
+      "decimals": 18,
+      "name": "TrueUSD",
+      "symbol": "TUSD",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x1c20e891bab6b1727d14da358fae2984ed9b59eb/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+      "decimals": 18,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x6985884c4392d348587b19cb9eaaf157f13271cd/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x333000333b26ee30214b4af6419d9ab07a450400",
+      "decimals": 18,
+      "name": "MELD",
+      "symbol": "MELD",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x333000333b26ee30214b4af6419d9ab07a450400/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
+      "decimals": 18,
+      "name": "Colony Avalanche Index",
+      "symbol": "CAI",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xa77e70d0Af1Ac7fF86726740dB1Bd065c3566937",
+      "decimals": 18,
+      "name": "PLAYA3ULL GAMES",
+      "symbol": "3ULL",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xa77e70d0Af1Ac7fF86726740dB1Bd065c3566937/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
+      "decimals": 18,
+      "name": "The Graph",
+      "symbol": "GRT",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5fc17416925789e0852fbfcd81c490ca4abc51f9",
+      "decimals": 18,
+      "name": "inSure DeFi",
+      "symbol": "SURE",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x5fc17416925789e0852fbfcd81c490ca4abc51f9/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
+      "decimals": 6,
+      "name": "EURC",
+      "symbol": "EURC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+      "decimals": 6,
+      "name": "AUSD",
+      "symbol": "AUSD",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x33C8036E99082B0C395374832FECF70c42C7F298",
+      "decimals": 18,
+      "name": "DeltaPrime",
+      "symbol": "PRIME",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x33C8036E99082B0C395374832FECF70c42C7F298/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xEDf647326007E64d94B0Ee69743350F3736E392C",
+      "decimals": 18,
+      "name": "Funtico",
+      "symbol": "TICO",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xEDf647326007E64d94B0Ee69743350F3736E392C/logo_48.png"
     }
   ]
 }
