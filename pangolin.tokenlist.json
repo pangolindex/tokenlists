@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
-  "timestamp": "2025-01-31T22:15:32.188Z",
+  "timestamp": "2025-02-18T13:10:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2112,6 +2112,54 @@
       "name": "Funtico",
       "symbol": "TICO",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xEDf647326007E64d94B0Ee69743350F3736E392C/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x0555e30da8f98308edb960aa94c0db47230d2b9c/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x7698A5311DA174A95253Ce86C21ca7272b9B05f8",
+      "decimals": 18,
+      "name": "Wink",
+      "symbol": "WINK",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x7698A5311DA174A95253Ce86C21ca7272b9B05f8/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xFF24003428Fb2E969C39EdEe4e9F464b0b78313d",
+      "decimals": 18,
+      "name": "Waifu",
+      "symbol": "WAIFU",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xFF24003428Fb2E969C39EdEe4e9F464b0b78313d/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1c7c53aa86B49A28C627B6450091998e447A42f9",
+      "decimals": 18,
+      "name": "VELVET AI",
+      "symbol": "VELAI",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x1c7c53aa86B49A28C627B6450091998e447A42f9/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x3c780F5cBF94De3EFCec964Af928D08c4508EeBE",
+      "decimals": 18,
+      "name": "Spacem Token",
+      "symbol": "SPACEM",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x3c780F5cBF94De3EFCec964Af928D08c4508EeBE/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x73831E7c5577859FB0583aF97C9C68F96A43fcB6",
+      "decimals": 18,
+      "name": "AIGG",
+      "symbol": "AIGG",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x73831E7c5577859FB0583aF97C9C68F96A43fcB6/logo_48.png"
     }
   ]
 }
