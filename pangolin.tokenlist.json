@@ -2160,6 +2160,14 @@
       "name": "AIGG",
       "symbol": "AIGG",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x73831E7c5577859FB0583aF97C9C68F96A43fcB6/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x04d6549333d1Be088868e6170e820571303243De",
+      "decimals": 0,
+      "name": "Aladeen.io",
+      "symbol": "ALADEEN",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x04d6549333d1Be088868e6170e820571303243De/logo_48.png"
     }
   ]
 }
