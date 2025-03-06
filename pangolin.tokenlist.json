@@ -2160,6 +2160,22 @@
       "name": "AIGG",
       "symbol": "AIGG",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x73831E7c5577859FB0583aF97C9C68F96A43fcB6/logo_48.png"
+    },
+        {
+      "chainId": 43114,
+      "address": "0x885c3a3A4998f0b5ac367A46217E68A200737A32",
+      "decimals": 18,
+      "name": "ALBERT",
+      "symbol": "ALBERT",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x885c3a3A4998f0b5ac367A46217E68A200737A32/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x0f669808d88B2b0b3D23214DCD2a1cc6A8B1B5cd",
+      "decimals": 18,
+      "name": "Blub",
+      "symbol": "BLUB",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x0f669808d88B2b0b3D23214DCD2a1cc6A8B1B5cd/logo_48.png"
     }
   ]
 }
