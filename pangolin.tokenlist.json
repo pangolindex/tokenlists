@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 10,
+    "minor": 11,
     "patch": 0
   },
-  "timestamp": "2025-04-06T13:10:00+00:00",
+  "timestamp": "2025-05-16T13:10:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2192,6 +2192,14 @@
       "name": "Stable Jack",
       "symbol": "JACK",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x3fE4902B275CaF603C46C81F3d921BB8515B5BC0/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5E0E90E268BC247Cc850c789A0DB0d5c7621fb59",
+      "decimals": 18,
+      "name": "NEXPACE",
+      "symbol": "NXPC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x5E0E90E268BC247Cc850c789A0DB0d5c7621fb59/logo_48.png"
     }
   ]
 }
