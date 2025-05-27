@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 9,
+    "minor": 10,
     "patch": 0
   },
-  "timestamp": "2025-03-06T13:10:00+00:00",
+  "timestamp": "2025-04-06T13:10:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2176,6 +2176,22 @@
       "name": "Blub",
       "symbol": "BLUB",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x0f669808d88B2b0b3D23214DCD2a1cc6A8B1B5cd/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x26deBD39D5eD069770406FCa10A0E4f8d2c743eB",
+      "decimals": 18,
+      "name": "GUNZ",
+      "symbol": "GUN",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x26deBD39D5eD069770406FCa10A0E4f8d2c743eB/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x3fE4902B275CaF603C46C81F3d921BB8515B5BC0",
+      "decimals": 18,
+      "name": "Stable Jack",
+      "symbol": "JACK",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x3fE4902B275CaF603C46C81F3d921BB8515B5BC0/logo_48.png"
     }
   ]
 }
