@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 12,
+    "minor": 13,
     "patch": 0
   },
-  "timestamp": "2025-05-16T13:10:00+00:00",
+  "timestamp": "2025-06-16T13:10:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2208,6 +2208,70 @@
       "name": "GreatestOfAVAXTrenches",
       "symbol": "GOAT",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xB9C188BC558a82a1eE9E75AE0857df443F407632/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4Bf8cf8e8A20d965D585097256Ecf2BE98a5fbd8",
+      "decimals": 18,
+      "name": "BENIS",
+      "symbol": "BENIS",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x4Bf8cf8e8A20d965D585097256Ecf2BE98a5fbd8/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xac6E53f1e1eBaFDA8553C0ADD8C5B32BcB5890C4",
+      "decimals": 18,
+      "name": "FINANCE",
+      "symbol": "FINANCE",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xac6E53f1e1eBaFDA8553C0ADD8C5B32BcB5890C4/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6F43fF77A9C0Cf552b5b653268fBFe26A052429b",
+      "decimals": 18,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x6F43fF77A9C0Cf552b5b653268fBFe26A052429b/logo_48.png"  
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5DDc8d968a94cf95CfeB7379F8372d858B9C797d",
+      "decimals": 18,
+      "name": "WOLFI",
+      "symbol": "WOLFI",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x5DDc8d968a94cf95CfeB7379F8372d858B9C797d/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe088d859D8BcE513b76Dc11C05D559254e28A336",
+      "decimals": 18,
+      "name": "Wife Changing Money",
+      "symbol": "WIFE",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xe088d859D8BcE513b76Dc11C05D559254e28A336/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xC55Fa890fd62c25c85D46f57aC972f3F30839E2F",
+      "decimals": 18,
+      "name": "CRIME",
+      "symbol": "CRIME",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xC55Fa890fd62c25c85D46f57aC972f3F30839E2F/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xa75a61051D5746Ec32B8e2BB6A38028bC266fC7A",
+      "decimals": 18,
+      "name": "Bridge Bro Bridge",
+      "symbol": "BRIDGE",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xa75a61051D5746Ec32B8e2BB6A38028bC266fC7A/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xF5a3442cB9dfcE79369EeB34db961842D70fC84D",
+      "decimals": 18,
+      "name": "BALLISTIC",
+      "symbol": "BLST",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xF5a3442cB9dfcE79369EeB34db961842D70fC84D/logo_48.png"
     }
   ]
 }
