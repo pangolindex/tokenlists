@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 13,
+    "minor": 14,
     "patch": 0
   },
-  "timestamp": "2025-06-16T13:10:00+00:00",
+  "timestamp": "2025-07-14T13:10:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2272,6 +2272,38 @@
       "name": "BALLISTIC",
       "symbol": "BLST",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xF5a3442cB9dfcE79369EeB34db961842D70fC84D/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x34a528Da3b2EA5c6Ad1796Eba756445D1299a577",
+      "decimals": 18,
+      "name": "Integrity DAO",
+      "symbol": "ID",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x34a528Da3b2EA5c6Ad1796Eba756445D1299a577/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9261330c6A2b472C58Dbc149ca9Dfc20E6861d66",
+      "decimals": 18,
+      "name": "SUMMIT",
+      "symbol": "SUMMIT",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x9261330c6A2b472C58Dbc149ca9Dfc20E6861d66/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9209e7EbD056d72C5996220e99df6049253DeBCf",
+      "decimals": 18,
+      "name": "MEOW",
+      "symbol": "MEOW",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x9209e7EbD056d72C5996220e99df6049253DeBCf/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x432d38F83a50EC77C409D086e97448794cf76dCF",
+      "decimals": 18,
+      "name": "Heresy",
+      "symbol": "HERESY",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x432d38F83a50EC77C409D086e97448794cf76dCF/logo_48.png"
     }
   ]
 }
