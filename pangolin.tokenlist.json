@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 14,
+    "minor": 15,
     "patch": 0
   },
-  "timestamp": "2025-07-14T13:10:00+00:00",
+  "timestamp": "2025-07-17T13:10:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2304,6 +2304,14 @@
       "name": "Heresy",
       "symbol": "HERESY",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x432d38F83a50EC77C409D086e97448794cf76dCF/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xcd94a87696FAC69Edae3a70fE5725307Ae1c43f6",
+      "decimals": 18,
+      "name": "BLACKHOLE",
+      "symbol": "BLACK",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xcd94a87696FAC69Edae3a70fE5725307Ae1c43f6/logo_48.png"
     }
   ]
 }
