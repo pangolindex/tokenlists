@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 15,
+    "minor": 16,
     "patch": 0
   },
-  "timestamp": "2025-07-17T13:10:00+00:00",
+  "timestamp": "2025-07-22T05:00:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2312,6 +2312,22 @@
       "name": "BLACKHOLE",
       "symbol": "BLACK",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xcd94a87696FAC69Edae3a70fE5725307Ae1c43f6/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x803f5E3d74E17e3bE3f2A2BFbd5D9F9B44E9488B",
+      "decimals": 18,
+      "name": "Just Woot",
+      "symbol": "WOOT",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x803f5E3d74E17e3bE3f2A2BFbd5D9F9B44E9488B/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x67ea3abd5CeE0b99D743155051c191B09135f93C",
+      "decimals": 18,
+      "name": "Aesyx Dollar",
+      "symbol": "AXD",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x67ea3abd5CeE0b99D743155051c191B09135f93C/logo_48.png"
     }
   ]
 }
