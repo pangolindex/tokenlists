@@ -7,7 +7,7 @@
     "minor": 16,
     "patch": 0
   },
-  "timestamp": "2025-07-22T05:00:00+00:00",
+  "timestamp": "2025-07-29T10:00:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2323,11 +2323,35 @@
     },
     {
       "chainId": 43114,
+      "address": "0x29Fbb1569364ac8CC48851Bd5E144faa2a78f528",
+      "decimals": 18,
+      "name": "Fuel",
+      "symbol": "FUEL",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x29Fbb1569364ac8CC48851Bd5E144faa2a78f528/logo_48.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x67ea3abd5CeE0b99D743155051c191B09135f93C",
       "decimals": 18,
       "name": "Aesyx Dollar",
       "symbol": "AXD",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x67ea3abd5CeE0b99D743155051c191B09135f93C/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x09d156F209E0C54D0365D6BB05f8a048649f2542",
+      "decimals": 18,
+      "name": "AIVAX",
+      "symbol": "AIVAX",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x09d156F209E0C54D0365D6BB05f8a048649f2542/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2F0eC0ED7D746936f1AeaC5702816d38329EE9e6",
+      "decimals": 18,
+      "name": "Degen Hours",
+      "symbol": "SLEEP",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x2F0eC0ED7D746936f1AeaC5702816d38329EE9e6/logo_48.png"
     }
   ]
 }
