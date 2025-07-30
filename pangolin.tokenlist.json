@@ -2315,6 +2315,14 @@
     },
     {
       "chainId": 43114,
+      "address": "0x803f5E3d74E17e3bE3f2A2BFbd5D9F9B44E9488B",
+      "decimals": 18,
+      "name": "Just Woot",
+      "symbol": "WOOT",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x803f5E3d74E17e3bE3f2A2BFbd5D9F9B44E9488B/logo_48.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x29Fbb1569364ac8CC48851Bd5E144faa2a78f528",
       "decimals": 18,
       "name": "Fuel",
