@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 16,
+    "minor": 17,
     "patch": 0
   },
-  "timestamp": "2025-07-29T10:00:00+00:00",
+  "timestamp": "2025-08-14T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2352,6 +2352,15 @@
       "name": "Degen Hours",
       "symbol": "SLEEP",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x2F0eC0ED7D746936f1AeaC5702816d38329EE9e6/logo_48.png"
-    }
+    },
+     {
+    "chainId": 43114,
+    "address": "0xf0DA517642c99F7bf6BF79AB877493939D2C5DDe",
+    "decimals": 18,
+    "name": "DOOF",
+    "symbol": "DOOF",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xf0DA517642c99F7bf6BF79AB877493939D2C5DDe/logo_24.png"
+  }
   ]
 }
+
