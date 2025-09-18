@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 16,
+    "minor": 17,
     "patch": 0
   },
-  "timestamp": "2025-07-29T10:00:00+00:00",
+  "timestamp": "2025-09-17T10:00:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2161,7 +2161,7 @@
       "symbol": "AIGG",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x73831E7c5577859FB0583aF97C9C68F96A43fcB6/logo_48.png"
     },
-        {
+    {
       "chainId": 43114,
       "address": "0x885c3a3A4998f0b5ac367A46217E68A200737A32",
       "decimals": 18,
@@ -2231,7 +2231,7 @@
       "decimals": 18,
       "name": "LAMBO",
       "symbol": "LAMBO",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x6F43fF77A9C0Cf552b5b653268fBFe26A052429b/logo_48.png"  
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x6F43fF77A9C0Cf552b5b653268fBFe26A052429b/logo_48.png"
     },
     {
       "chainId": 43114,
@@ -2352,6 +2352,174 @@
       "name": "Degen Hours",
       "symbol": "SLEEP",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x2F0eC0ED7D746936f1AeaC5702816d38329EE9e6/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
+      "decimals": 18,
+      "name": "Gho Token",
+      "symbol": "GHO",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x46B9144771Cb3195D66e4EDA643a7493fADCAF9D",
+      "decimals": 18,
+      "name": "BloodLoop Shard",
+      "symbol": "BLS",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x46B9144771Cb3195D66e4EDA643a7493fADCAF9D/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x451532F1C9eb7E4Dc2d493dB52b682C0Acf6F5EF",
+      "decimals": 18,
+      "name": "Suzaku Token",
+      "symbol": "SUZ",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x451532F1C9eb7E4Dc2d493dB52b682C0Acf6F5EF/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x09Fa58228bB791ea355c90DA1e4783452b9Bd8C3",
+      "decimals": 18,
+      "name": "SuperVerse",
+      "symbol": "SUPER",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x09Fa58228bB791ea355c90DA1e4783452b9Bd8C3/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x133879524DDb38582cf0b93D10aDB789601Ff397",
+      "decimals": 18,
+      "name": "Borne",
+      "symbol": "BORNE",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x133879524DDb38582cf0b93D10aDB789601Ff397/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4CB85e39d5622Af604405077A589c3078F3A59b2",
+      "decimals": 18,
+      "name": "CROC",
+      "symbol": "CROC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x4CB85e39d5622Af604405077A589c3078F3A59b2/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5C09A9cE08C4B332Ef1CC5f7caDB1158C32767Ce",
+      "decimals": 18,
+      "name": "Fantom Bomb",
+      "symbol": "fBOMB",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x5C09A9cE08C4B332Ef1CC5f7caDB1158C32767Ce/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+      "decimals": 18,
+      "name": "HeyAnon",
+      "symbol": "ANON",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8e48D9F6D73e9805Df87Dcf63f7B35AE04079713",
+      "decimals": 18,
+      "name": "KIGU",
+      "symbol": "KIGU",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x8e48D9F6D73e9805Df87Dcf63f7B35AE04079713/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xEeC951BFDEB358371a19512C6c33CdD840d47DB0",
+      "decimals": 18,
+      "name": "MOANI",
+      "symbol": "MOANI",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xEeC951BFDEB358371a19512C6c33CdD840d47DB0/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xEb2729257280580694A06C499CB8C622e74215c8",
+      "decimals": 18,
+      "name": "Mog",
+      "symbol": "MOG",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xEb2729257280580694A06C499CB8C622e74215c8/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x180aF87b47Bf272B2df59dccf2D76a6eaFa625Bf",
+      "decimals": 18,
+      "name": "Re Protocol Deposit Token",
+      "symbol": "reUSD",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x180aF87b47Bf272B2df59dccf2D76a6eaFa625Bf/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xDf788AD40181894dA035B827cDF55C523bf52F67",
+      "decimals": 18,
+      "name": "Yak Milk Suzaku Restaked sAVAX",
+      "symbol": "rsAVAX",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xDf788AD40181894dA035B827cDF55C523bf52F67/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x06d47F3fb376649c3A9Dafe069B3D6E35572219E",
+      "decimals": 18,
+      "name": "Staked avUSD",
+      "symbol": "savUSD",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x06d47F3fb376649c3A9Dafe069B3D6E35572219E/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x24dE8771bC5DdB3362Db529Fc3358F2df3A0E346",
+      "decimals": 18,
+      "name": "avUSD",
+      "symbol": "avUSD",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x24dE8771bC5DdB3362Db529Fc3358F2df3A0E346/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xbc78d84ba0c46dfe32cf2895a19939c86b81a777",
+      "decimals": 18,
+      "name": "Solv BTC",
+      "symbol": "SolvBTC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xbc78d84ba0c46dfe32cf2895a19939c86b81a777/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      "decimals": 18,
+      "name": "Staked USDe",
+      "symbol": "sUSDe",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6Aa38eDd7f32a28b7b2c2dc86fC5b0bF2aE61579",
+      "decimals": 18,
+      "name": "Super Champs",
+      "symbol": "CHAMP",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x6Aa38eDd7f32a28b7b2c2dc86fC5b0bF2aE61579/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6EDac263561DA41aDe155a992759260FAFb87B43",
+      "decimals": 18,
+      "name": "Vertical AI",
+      "symbol": "VERTAI",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x6EDac263561DA41aDe155a992759260FAFb87B43/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x153374C6D6786B6ca2c4bc96f9C3A471428f2bC7",
+      "decimals": 18,
+      "name": "Wilder World",
+      "symbol": "WILD",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x153374C6D6786B6ca2c4bc96f9C3A471428f2bC7/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+      "decimals": 18,
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xA3D68b74bF0528fdD07263c60d6488749044914b/logo_48.png"
     }
   ]
 }
