@@ -2520,6 +2520,15 @@
       "name": "Wrapped eETH",
       "symbol": "weETH",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xA3D68b74bF0528fdD07263c60d6488749044914b/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x98443b96ea4b0858fdf3219cd13e98c7a4690588",
+      "decimals": 18,
+      "name": "Basic Attention Token",
+      "symbol": "BAT.e",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x98443b96ea4b0858fdf3219cd13e98c7a4690588/logo_48.png"
     }
   ]
 }
+
