@@ -7,7 +7,7 @@
     "minor": 18,
     "patch": 0
   },
-  "timestamp": "2025-10-02T10:00:00+00:00",
+  "timestamp": "2025-10-13T10:00:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2520,6 +2520,14 @@
       "name": "Wrapped eETH",
       "symbol": "weETH",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xA3D68b74bF0528fdD07263c60d6488749044914b/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x98443b96ea4b0858fdf3219cd13e98c7a4690588",
+      "decimals": 18,
+      "name": "Basic Attention Token",
+      "symbol": "BAT.e",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x98443b96ea4b0858fdf3219cd13e98c7a4690588/logo_48.png"
     },
     {
       "chainId": 43114,
