@@ -2528,6 +2528,14 @@
       "name": "Basic Attention Token",
       "symbol": "BAT.e",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x98443b96ea4b0858fdf3219cd13e98c7a4690588/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2775d5105276781B4b85bA6eA6a6653bEeD1dd32",
+      "decimals": 6,
+      "name": "XAUt",
+      "symbol": "XAUt",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x2775d5105276781B4b85bA6eA6a6653bEeD1dd32/logo_48.png"
     }
   ]
 }
