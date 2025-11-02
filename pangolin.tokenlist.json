@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 18,
+    "minor": 19,
     "patch": 0
   },
-  "timestamp": "2025-10-13T10:00:00+00:00",
+  "timestamp": "2025-11-02T10:00:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2536,6 +2536,15 @@
       "name": "XAUt",
       "symbol": "XAUt",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x2775d5105276781B4b85bA6eA6a6653bEeD1dd32/logo_48.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
+      "decimals": 6,
+      "name": "USD₮0",
+      "symbol": "USDT0",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0xe7cd86e13AC4309349F30B3435a9d337750fC82D/logo_48.png"
     }
   ]
 }
+
