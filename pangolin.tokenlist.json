@@ -2545,7 +2545,16 @@
       "symbol": "XAUt",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x2775d5105276781B4b85bA6eA6a6653bEeD1dd32/logo_48.png"
     }
+    {  
+      "chainId": 43114,  
+      "address": "0x91870B9c25C06E10Bcb88bdd0F7b43A13C2d7c41",  
+      "decimals": 18,  
+      "name": "AVAX0xEngine Token",  
+      "symbol": "AVAX0",  
+      "logoURI": "https://raw.githubusercontent.com/BlockchainSoftwarehouse/Avax0_token/cc5ba2718c1fbd82b6ecbd871b49fcec6d499fde/avax0.png"
+    }  
   ]
 }
+
 
 
