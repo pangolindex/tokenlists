@@ -362,14 +362,6 @@
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0x1aa5282692398c078e71Fb3e4A85660d1BF8F586/logo_48.png"
     },
     {
-      "chainId": 14,
-      "address": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
-      "decimals": 6,
-      "name": "USD₮0",
-      "symbol": "USDT0",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x2775d5105276781B4b85bA6eA6a6653bEeD1dd32/logo_48.png"
-    },
-    {
       "chainId": 19,
       "address": "0xfd2a0fD402828fDB86F9a9D5a760242AD7526cC0",
       "decimals": 18,
@@ -2560,6 +2552,14 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0x0B38e83B86d491735fEaa0a791F65c2B99535396/logo_48.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
+      "decimals": 6,
+      "name": "USD₮0",
+      "symbol": "USDT0",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0xe7cd86e13AC4309349F30B3435a9d337750fC82D/logo_48.png"
     },
     {
       "chainId": 14,
