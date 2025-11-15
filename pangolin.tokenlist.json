@@ -4,7 +4,7 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 21,
+    "minor": 22,
     "patch": 0
   },
   "timestamp": "2025-11-03T10:00:00+00:00",
@@ -2544,6 +2544,102 @@
       "name": "XAUt",
       "symbol": "XAUt",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x2775d5105276781B4b85bA6eA6a6653bEeD1dd32/logo_48.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0x12e605bc104e93B45e1aD99F9e555f659051c2BB",
+      "decimals": 18,
+      "name": "Staked Flare",
+      "symbol": "sFLR",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0x12e605bc104e93B45e1aD99F9e555f659051c2BB/logo_48.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0x0B38e83B86d491735fEaa0a791F65c2B99535396",
+      "decimals": 6,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0x0B38e83B86d491735fEaa0a791F65c2B99535396/logo_48.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0xFbDa5F676cB37624f28265A144A48B0d6e87d3b6",
+      "decimals": 6,
+      "name": "USD Coin",
+      "symbol": "USDC.e",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0xFbDa5F676cB37624f28265A144A48B0d6e87d3b6/logo_48.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0xFE2907DFa8DB6e320cDbF45f0aa888F6135ec4f8",
+      "decimals": 18,
+      "name": "cUSDX",
+      "symbol": "cUSDX",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0xFE2907DFa8DB6e320cDbF45f0aa888F6135ec4f8/logo_48.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0x1502FA4be69d526124D453619276FacCab275d3D",
+      "decimals": 18,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0x1502FA4be69d526124D453619276FacCab275d3D/logo_48.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0x26A1faB310bd080542DC864647d05985360B16A5",
+      "decimals": 18,
+      "name": "Flare Ethereum",
+      "symbol": "flrETH",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0x26A1faB310bd080542DC864647d05985360B16A5/logo_48.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0xAd552A648C74D49E10027AB8a618A3ad4901c5bE",
+      "decimals": 18,
+      "name": "Flare XRP",
+      "symbol": "FXRP",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0xAd552A648C74D49E10027AB8a618A3ad4901c5bE/logo_48.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0x140D8d3649Ec605CF69018C627fB44cCC76eC89f",
+      "decimals": 18,
+      "name": "Hellion",
+      "symbol": "HLN",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0x140D8d3649Ec605CF69018C627fB44cCC76eC89f/logo_48.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0xE6505f92583103AF7ed9974DEC451A7Af4e3A3bE",
+      "decimals": 18,
+      "name": "JOULE",
+      "symbol": "JOULE",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0xE6505f92583103AF7ed9974DEC451A7Af4e3A3bE/logo_48.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0x657097cC15fdEc9e383dB8628B57eA4a763F2ba0",
+      "decimals": 18,
+      "name": "SparkDEX",
+      "symbol": "SPRK",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0x657097cC15fdEc9e383dB8628B57eA4a763F2ba0/logo_48.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0x6e0236ea3729A131ef584c2159A5edD292F6E637",
+      "decimals": 18,
+      "name": "Focus",
+      "symbol": "FOCUS",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0x6e0236ea3729A131ef584c2159A5edD292F6E637/logo_48.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0x6c1490729ce19E809Cf9F7e3e223c0490833DE02",
+      "decimals": 18,
+      "name": "Bugo",
+      "symbol": "BUGO",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0x6c1490729ce19E809Cf9F7e3e223c0490833DE02/logo_48.png"
     }
   ]
 }
