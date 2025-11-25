@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 22,
+    "minor": 23,
     "patch": 0
   },
-  "timestamp": "2025-11-03T10:00:00+00:00",
+  "timestamp": "2025-11-25T10:00:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2640,8 +2640,25 @@
       "name": "Bugo",
       "symbol": "BUGO",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0x6c1490729ce19E809Cf9F7e3e223c0490833DE02/logo_48.png"
+    },
+    {
+      "chainId": 143,
+      "address": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
+      "decimals": 18,
+      "name": "Wrapped MON",
+      "symbol": "WMON",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/143/0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A/logo_48.png"
+    },
+    {
+      "chainId": 143,
+      "address": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+      "decimals": 18,
+      "name": "USDC Coin",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/143/0x754704bc059f8c67012fed69bc8a327a5aafb603/logo_48.png"
     }
   ]
 }
+
 
 
