@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 23,
+    "minor": 24,
     "patch": 0
   },
-  "timestamp": "2025-11-25T10:00:00+00:00",
+  "timestamp": "2025-11-25T23:00:00+00:00"
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2656,9 +2656,107 @@
       "name": "USDC Coin",
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/143/0x754704bc059f8c67012fed69bc8a327a5aafb603/logo_48.png"
+    },
+    {
+      "chainId": 143,
+      "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+      "decimals": 6,
+      "name": "AUSD Coin",
+      "symbol": "AUSD",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/143/0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a/logo_48.png"
+    },
+    {
+      "chainId": 143,
+      "address": "0xEE8c0E9f1BFFb4Eb878d8f15f368A02a35481242",
+      "decimals": 18,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/143/0xEE8c0E9f1BFFb4Eb878d8f15f368A02a35481242/logo_48.png"
+    },
+    {
+      "chainId": 143,
+      "address": "0x8713858545e1CA525D3446058a6b0B3A5D6Aa9b6",
+      "decimals": 18,
+      "name": "MONBUBU",
+      "symbol": "MONBUBU",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/143/0x8713858545e1CA525D3446058a6b0B3A5D6Aa9b6/logo_48.png"
+    },
+    {
+      "chainId": 143,
+      "address": "0x39B9E06f226FF6D7500c870B82333AACbD2F7777",
+      "decimals": 18,
+      "name": "NADS",
+      "symbol": "NADS",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/143/0x39B9E06f226FF6D7500c870B82333AACbD2F7777/logo_48.png"
+    },
+    {
+      "chainId": 143,
+      "address": "0xc911Ba7aEE487f5145702c20c20a40d9e5B87777",
+      "decimals": 18,
+      "name": "HOGDOG",
+      "symbol": "HOGDOG",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/143/0xc911Ba7aEE487f5145702c20c20a40d9e5B87777/logo_48.png"
+    },
+    {
+      "chainId": 143,
+      "address": "0x3a9ccD484Ee5bd24bA7777f01BCc58c759D78888",
+      "decimals": 18,
+      "name": "CHOG",
+      "symbol": "CHOG",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/143/0x3a9ccD484Ee5bd24bA7777f01BCc58c759D78888/logo_48.png"
+    },
+    {
+      "chainId": 143,
+      "address": "0x7DB552eEb6b77a6babe6e0A739b5382CD653CC3e",
+      "decimals": 18,
+      "name": "GMONAD",
+      "symbol": "GMONAD",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/143/0x7DB552eEb6b77a6babe6e0A739b5382CD653CC3e/logo_48.png"
+    },
+    {
+      "chainId": 143,
+      "address": "0x99aE2DC76c43979E3BcC0ae8d69F1fca077c8888",
+      "decimals": 18,
+      "name": "ANAGO",
+      "symbol": "ANAGO",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/143/0x99aE2DC76c43979E3BcC0ae8d69F1fca077c8888/logo_48.png"
+    },
+    {
+      "chainId": 143,
+      "address": "0x788571E0E5067Adea87e6BA22a2b738fFDf48888",
+      "decimals": 18,
+      "name": "UNIT",
+      "symbol": "UNIT",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/143/0x788571E0E5067Adea87e6BA22a2b738fFDf48888/logo_48.png"
+    },
+    {
+      "chainId": 143,
+      "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "decimals": 18,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/143/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c/logo_48.png"
+    },
+    {
+      "chainId": 143,
+      "address": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
+      "decimals": 6,
+      "name": "USDT0 Coin",
+      "symbol": "USDT0",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/143/0xe7cd86e13AC4309349F30B3435a9d337750fC82D/logo_48.png"
+    }
+    ,
+    {
+      "chainId": 143,
+      "address": "0x01bFF41798a0BcF287b996046Ca68b395DbC1071",
+      "decimals": 6,
+      "name": "XAUT0",
+      "symbol": "XAUT0",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/143/0x01bFF41798a0BcF287b996046Ca68b395DbC1071/logo_48.png"
     }
   ]
 }
+
 
 
 
