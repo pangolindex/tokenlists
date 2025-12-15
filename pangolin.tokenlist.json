@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 24,
+    "minor": 25,
     "patch": 0
   },
-  "timestamp": "2025-11-25T23:00:00+00:00",
+  "timestamp": "2025-12-15T23:00:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2752,9 +2752,18 @@
       "name": "XAUT0",
       "symbol": "XAUT0",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/143/0x01bFF41798a0BcF287b996046Ca68b395DbC1071/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x635d08c0E2FF1fa2F19f89dB3552C7aB4158AF29",
+      "decimals": 18,
+      "name": "Bears And Salmon",
+      "symbol": "BANDS",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x635d08c0E2FF1fa2F19f89dB3552C7aB4158AF29/logo_48.png"
     }
   ]
 }
+
 
 
 
