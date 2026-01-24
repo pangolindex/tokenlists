@@ -5,9 +5,9 @@
   "version": {
     "major": 12,
     "minor": 25,
-    "patch": 0
+    "patch": 1
   },
-  "timestamp": "2025-12-15T23:00:00+00:00",
+  "timestamp": "2026-01-24T23:00:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2523,11 +2523,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0x98443b96ea4b0858fdf3219cd13e98c7a4690588",
+      "address": "0x98443B96EA4b0858FDF3219Cd13e98C7A4690588",
       "decimals": 18,
       "name": "Basic Attention Token",
       "symbol": "BAT.e",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x98443b96ea4b0858fdf3219cd13e98c7a4690588/logo_48.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x98443B96EA4b0858FDF3219Cd13e98C7A4690588/logo_48.png"
     },
     {
       "chainId": 43114,
@@ -2763,6 +2763,8 @@
     }
   ]
 }
+
+
 
 
 
