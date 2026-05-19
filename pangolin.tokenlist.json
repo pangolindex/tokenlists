@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 12,
-    "minor": 25,
+    "minor": 26,
     "patch": 0
   },
-  "timestamp": "2025-12-15T23:00:00+00:00",
+  "timestamp": "2026-05-19T01:00:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2760,6 +2760,14 @@
       "name": "Bears And Salmon",
       "symbol": "BANDS",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x635d08c0E2FF1fa2F19f89dB3552C7aB4158AF29/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xf294Fec63CC1aEE691943f7F17fB5187289bc522",
+      "decimals": 18,
+      "name": "Cave Money",
+      "symbol": "CAVE",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xf294Fec63CC1aEE691943f7F17fB5187289bc522/logo_48.png"
     }
   ]
 }
