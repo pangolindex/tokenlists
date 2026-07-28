@@ -2768,6 +2768,14 @@
       "name": "Cave Money",
       "symbol": "CAVE",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xf294Fec63CC1aEE691943f7F17fB5187289bc522/logo_48.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2F524f453430520ca26E5485017aBAA80231C53D",
+      "decimals": 18,
+      "name": "Bob's Petroleum",
+      "symbol": "BOB",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x2F524f453430520ca26E5485017aBAA80231C53D/logo_48.png"
     }
   ]
 }
